@@ -1,0 +1,28 @@
+FERRET, GIANT
+No. Encountered: 1d6
+Alignment: Neutral
+Size: M
+Movement: 30
+Dexterity: 12
+Armour Class: 5
+Hit Dice: 1+1
+Attack Rate: 1/1 (bite)
+Damage: 1d6
+Saving Throw: 16
+Morale: 7
+Experience Points: 28
+Treasure Class: —
+This is a three- to five-foot-long member of the
+weasel family that typically hunts small mammals. If
+threatened, it can spray odious, eye-watering musk. If
+raised from infancy, a giant ferret can be trained, but
+adults are known to be temperamental, sometimes
+turning on their masters. The pelts of some giant ferrets
+can fetch as much as 100 gp.
+Special:
+¬¬ Musk spray thrice per day has range of 15 feet,
+targeting a single victim at a +2 attack bonus; on
+successful hit, make death (poison) save or eyes and
+throat burn for 1d4 rounds, causing a −2 penalty to
+attack rolls and preventing sorcerers from casting
+spells.

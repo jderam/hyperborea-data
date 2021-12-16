@@ -1,0 +1,39 @@
+GIANT, HILL
+(Fomorian) Hill Giant Chieftain
+No. Encountered: 1d4 (2d6) 1:8
+Alignment: Chaotic Evil Chaotic Evil
+Size: L L
+Movement: 40 40
+Dexterity: 8 8
+Armour Class: 4 4
+Hit Dice: 8 10
+Attack Rate: 1/1 (weapon) 1/1 (weapon)
+Damage: 4d4 5d4
+Saving Throw: 13 12
+Morale: 8 12
+Experience Points: 680 1,150
+Treasure Class: M (×10); D M (×20)
+A hill giant is a massive humanoid 12 feet in height
+and weighing as much as 1,500 pounds. These brutes
+are misshapen and warty, with thick, hairy hides.
+They oft will wear thick pelts (such as the hide of a
+woolly mammoth or woolly rhinoceros) and wield
+huge clubs or spears. Hill giants also can hurl massive
+boulders at their enemies.
+Although of limited intelligence, many hill giants
+prove to be quite clever and resourceful; too, they
+speak proto-Keltic and/or the Common tongue.
+Typically they are cruel and quite enjoy tormenting
+smaller humanoids, such as men. Rare is the kindly,
+simpleminded brute, or the gigantic, cowardly sort.
+Hill giants oft live solitary lifestyles, though sometimes
+a raiding group may be encountered, or a clan dwelling
+in a large cavern. For every 8 hill giants there will be
+1 chieftain that stands some 15 feet in height and
+weighs as much as 2,000 pounds. In Hyperborea,
+the Kelts regard hill giants as their enemies of old,
+notorious for raiding and pillaging their communities
+for slaves and livestock.
+Special:
+¬¬ Can hurl a boulder to a range of 100 (or to 200 at a
+−2 attack penalty) for 2d8 hp damage.

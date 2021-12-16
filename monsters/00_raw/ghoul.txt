@@ -1,0 +1,34 @@
+GHOUL (Undead Type 3)
+No. Encountered: 1d6 (2d8)
+Alignment: Chaotic Evil
+Size: M
+Movement: 40 (swim 40*)
+Dexterity: 11
+Armour Class: 6
+Hit Dice: 2
+Attack Rate: 3/1 (claw / claw / bite)
+Damage: 1d3 / 1d3 / 1d6
+Saving Throw: 16
+Morale: 10
+Experience Points: 68
+Treasure Class: B, T
+* Applies to lacedons only.
+This is a repugnant humanoid, once a man, now cursed
+with undeath. It has ulcerous skin, pallid or tenebrous,
+and its hair is knotted and clumped. Its hands are
+gnarled and clawed, and its teeth broken, jagged fangs.
+Ghouls have an insatiable appetite for raw human flesh
+and are wont to prowl graveyards, unearthing fresh
+corpses to take their provender. They retain wicked
+quasi-intelligence, exhibiting a flock mentality whilst
+hunting in packs.
+N.B.: An aquatic form called a lacedon also is extant.
+These undead creatures conform to ghouls in all
+respects, save that they lurk underwater (salt or fresh).
+Some exhibit a more glaucous complexion.
+Special:
+¬¬ Immune to poison, paralysis, fear, and cold.
+¬¬ Protection from evil holds them at bay.
+¬¬ Hit causes paralysis for 2d6 turns unless death save
+is made.
+¬¬ Slain victims later become ghouls.
