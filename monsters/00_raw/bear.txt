@@ -1,0 +1,50 @@
+BEAR Black Bear Brown Bear Cave Bear Polar Bear
+No. Encountered: 1 (1d3) 1 (1d6) 1 (1d4) 1 (1d4)
+Alignment: Neutral Neutral Neutral Neutral
+Size: M L L L
+Movement: 60 50 40 40 (swim 40)
+Dexterity: 13 10 9 9
+Armour Class: 7 6 5 6
+Hit Dice: 3+3 5+5 8+5 7+5
+Attack Rate: 3/1 (claw / claw / bite) 3/1 (claw / claw / bite) 3/1 (claw / claw / bite) 3/1 (claw / claw / bite)
+Damage: 1d3 / 1d3 / 1d6 1d4 / 1d4 / 1d8 1d10 / 1d10 / 2d6 1d8 / 1d8 / 2d6
+Saving Throw: 15 14 13 13
+Morale: 8 8 9 8
+Experience Points: 105 380 1,000 760
+Treasure Class: — — — —
+The black bear is the smallest of bear species, a swamp
+and woodland dweller that measures up to six feet long
+and weighs as much as 500 pounds. These scavengers
+are notorious for wandering into civilization to plunder
+food stores. They run quite quickly and are skilled tree
+climbers.
+The brown bear is an aggressive beast that measures
+up to eight feet long and weighs as much as 600
+pounds. Brown bears are aggressive, temperamental
+creatures with long claws that they use to dig out prey
+and to fight.
+The cave bear is an enormous brown- or grey-furred
+bear that lairs in seaside caves and cavernous dungeons.
+Cave bears measure up to 15 feet in length and weigh as
+much as 1,400 pounds. They are ferocious carnivores
+with a taste for man. Some have been
+known to exhibit rudimentary
+intelligence, wandering
+to ancient shrines of
+Xathoqqua to howl
+and roar, their fur
+bristling.
+The polar bear is a large white bear that inhabits
+glacial regions. Excellent swimmers, polar bears hunt
+fish and seals, but usually will not attack a man unless
+provoked. They measure up to 12 feet in length and
+weigh as much as 1,100 pounds.
+Special:
+¬¬ If black bear hits same victim with both claw
+attacks, it hugs for 2d4 hp damage.
+¬¬ If brown bear hits same victim with both claw
+attacks, it hugs for 2d6 hp damage.
+¬¬ If cave bear hits same victim with both claw
+attacks, it hugs for 2d10 hp damage.
+¬¬ If polar bear hits same victim with both claw
+attacks, it hugs for 2d8 hp damage.

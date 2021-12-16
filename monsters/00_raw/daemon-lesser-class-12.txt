@@ -1,0 +1,44 @@
+DÆMON, LESSER, CLASS xii (Undead Type 13)
+No. Encountered: 1d4
+Alignment: Chaotic Evil
+Size: L
+Movement: 40
+Dexterity: 11
+Armour Class: 2
+Hit Dice: 5
+Attack Rate: 1/1 (bite)
+Damage: 2d8
+Saving Throw: 14
+Morale: 8
+Experience Points: 575
+Treasure Class: C, Q
+Appearing as a deformed dragon with insectan legs,
+this dæmon is of dead-grey colour and sickening
+miasmal odour. In addition to biting with the deadly
+fangs in its malformed jaws, it can spew forth a stream
+of revolting septic fluid. True to their stomach-turning
+appearance and scent, these dæmons prefer to make
+their lairs in swamps and sewers, where the bloated
+corpses of previous
+victims oft
+are found
+floating.
+Special:
+¬¬ Any living creature with 10 feet must make death
+(poison) save or suffer nausea, causing −2 attack
+penalty for 1 turn.
+¬¬ 5-in-20 spell resistance versus CA 12 casters. For
+every CA level less than 12, the chance-in-twenty
+increases by one (+1) (see Vol. III, p. 261: Saving
+Throw, spell resistance).
+¬¬ Cold, electricity, fire, and gas attacks inflict
+½ damage, or ¼ damage if save is made.
+¬¬ Bite carries deadly bacteria; unless cure disease cast,
+bite victims suffer infection, fever, and weakness.
+After 2d4+1 days, they must make death (poison)
+saves to recover, or die.
+¬¬ Thrice per day, may vomit nauseous acid on a target
+within 10 feet. The victim must make an avoidance
+save or suffer an additional 1d6 hp damage
+and become a source of revolting odour (with
+nauseating effects as above) for one hour.

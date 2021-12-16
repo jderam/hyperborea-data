@@ -1,0 +1,45 @@
+DÆMON, SUBLUNARY, GNOPH-YIKK
+(Ice Dæmon) (Undead Type 13)
+No. Encountered: 1d3
+Alignment: Lawful Evil
+Size: L
+Movement: 40
+Dexterity: 10
+Armour Class: 0
+Hit Dice: 8
+Attack Rate: 1/1 or 2/1 (bite and/or sting)
+Damage: 2d6 and/or 2d4+2
+Saving Throw: 13
+Morale: 9
+Experience Points: 2,040
+Treasure Class: B
+This dæmon presents as a 20-foot-long, 5-foot-diameter
+segmented worm, with a three-foot-long tail stinger
+and a round maw lined with three rows of fangs.
+Gnoph-yikk are leprous beasts, pallid white in colour
+and lined with pale blue ridges. They typically burrow
+in glaciers, creating vast networks of tubes in the ice.
+Gnoph-yikk are said to be the spawn of Yikkorth, “The
+Ashen Worm”, who is held to have impregnated the
+great glaciers of Hyperborea with ice dæmon eggs. Men
+of learning hypothesize that as more gnoph-yikk hatch
+and mature, they will galvanize Hyperborea’s glaciers
+to thicken and once more mantle the whole of the realm
+in ice. Certain cryomancer societies prognosticate this
+time as “The Great Cleansing of Barbarism and Chaos”.
+Special:
+¬¬ 7-in-20 spell resistance versus CA 12 casters. For
+every CA level less than 12, the chance-in-twenty
+increases by one (+1) (see Vol. III, p. 261: Saving
+Throw, spell resistance).
+¬¬ Immune to cold.
+¬¬ Electricity, fire, and gas attacks inflict ½ damage,
+or ¼ damage if save is made.
+¬¬ Typically attacks with bite only, unless flanked,
+in which case it can bring its sting to bear.
+¬¬ Can cast the following spells at will (though
+only one at a time): cone of cold, darkness, detect
+invisibility, infrared vision, wall of ice.
+¬¬ Once per day, can attempt to beckon another
+gnoph-yikk to fight alongside it (as reverse of
+dismissal), with 2-in-6 chance of success.

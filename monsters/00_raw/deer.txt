@@ -1,0 +1,58 @@
+DEER Red Deer Reindeer Giant Elk
+No. Encountered: 5d6
+(2d10×10)
+5d6
+(2d10×10)
+1d2
+(2d6)
+Alignment: Neutral Neutral Neutral
+Size: M M L
+Movement: 70 60 60
+Dexterity: 13 10 7
+Armour Class: 8 7 7
+Hit Dice: 1 2 4
+Attack Rate: 1/1
+(gore)
+1/1
+(gore)
+2/1
+(antler / antler)
+Damage: 1d4 1d6 1d8 / 1d8
+Saving Throw: 16 16 15
+Morale: 3 5 7
+Experience Points: 13 24 90
+Treasure Class: — — —
+Red deer have a coat of red in the four years of summer,
+or grey in the other nine years of the 13-year Hyperborean
+cycle. They stand from three to four feet at the shoulder
+and weigh 250–350 pounds. They flee from most
+everything, though a cornered hart can butt with its
+antlers.
+Reindeer are larger, standing four or more feet at the
+shoulder and weighing as much as 400 pounds. Too,
+the spread of their antlers is much larger, and they are
+generally furrier, thriving in tundra regions. Reindeer are
+herded by Esquimaux, utilized for their meat, milk, and
+hides. They can be domesticated and trained in teams to
+pull sleds. Some nomadic Esquimaux, particularly those
+with strains of Lapp in their blood, are known also to
+saddle and ride reindeer.
+Giant elk are an enormous species of deer with the
+largest spread of antlers in all of Hyperborea. They stand
+10 feet at the shoulder, weigh as much as 3,000 pounds,
+and present an antler spread of as much as 15 feet. In
+forests, plains, tundra, and wetlands, solitary stags or a
+sibling pair may be encountered, as well as small herds.
+Generally giant elk avoid conflict—they merely will
+bristle their fur, snort, and face down potential threats—
+but some bucks can be uncharacteristically violent during
+mating season. N.B.: Though most giant elk are brown of
+fur, the rare white stag is a prized hunting trophy; in some
+cultures it is venerated as a holy creature,
+oft associated with Yoon’Deh.
+Special (all):
+¬¬ Charging gore attack results in double damage dice.
+Special (giant elk):
+¬¬ Can attack two adjacent opponents with a single
+charge attack, doubling damage dice for each victim
+(see Vol. III, p, 249: Combat Actions, melee).

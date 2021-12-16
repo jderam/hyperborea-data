@@ -1,0 +1,68 @@
+ABOLETH
+No. Encountered: 1 (1d4)
+Alignment: Lawful Evil
+Size: L
+Movement: 10 (swim 60)
+Dexterity: 11
+Armour Class: 4
+Hit Dice: 8
+Attack Rate: 4/1 (lash ×4)
+Damage: 1d6 (×4)
+Saving Throw: 13
+Morale: 10
+Experience Points: 1,880
+Treasure Class: F
+Aboleths are massive alien beasts, up to 10 feet
+tall and 7–8 feet thick, their scaly, blue-green
+bodies coated with mucous slime. They have
+thick, fluked tails of 12-foot length and four
+anterior, sucker-bearing tentacles, each about
+10 feet long, which they use to drag their bulk
+when on land. Centred amongst the tentacles
+is a circular mouth lined with three rows of
+triangular teeth. Three violet eyes, narrow slits
+in succession, are set atop a bulky head.
+This ancient race of intelligent amphibious monsters
+inhabits subterranean lakes and caverns. Aboleths
+hate other sentient life, slaying or enslaving men and
+humanoids. Hoarders of otherworldly knowledge,
+aboleths are enemies of elder things, the Great Race,
+and mi-go, but are known to ally with fish-men,
+fellow advocates of Kthulhu. Indeed, aboleths are
+said to receive dreaming Kthulhu’s edicts when they
+take their yearlong slumber. Typically, few aboleths
+are encountered, but Atlantean sages speak of large
+colonies dwelling in subaqueous cities of alien
+architecture.
+Special:
+¬¬ At will, to a range of 240 feet, the aboleth can effect
+a vivid illusion of sight, sound, and smell (see
+advanced spectral phantasm spell); however, it must
+maintain concentration for the illusion to persist.
+¬¬ Thrice per day, an aboleth can impose its mind
+control ability on all within 30 feet. Those who fail
+sorcery saves will serve and obey the aboleth; the
+saves are modified by willpower adjustment (see
+Vol. I, p. 9: Attributes, wisdom), if applicable.
+The enslaved will not bring harm to friends or
+former associates, but will abide other telepathic
+commands, so long as the monster is never more
+than one mile distant. Dispel magic or remove curse
+can terminate this enchantment.
+¬¬ If tentacle hits, victim must make transformation
+save or skin mutates into slimy membrane in
+1d4+1 minutes, unless cure disease is cast. Once
+metamorphosis is complete, victim must remain
+immersed or his skin will dry out, causing 2d6 hp
+damage per turn. Heal can end this affliction.
+¬¬ In water an aboleth can release a mucous cloud
+three feet around its bulk. A victim pulled into
+the cloud must make a death (poison) save or
+thenceforth be unable to breathe air and subject
+to asphyxia if removed from water (see Vol. III,
+p. 263: Special Damage, asphyxia). Aboleths
+use this cloud to grant their slaves the ability to
+breathe water, albeit in smaller doses so as to effect
+amphibious humanoid slaves.
+¬¬ Mutant aboleths are believed to exist with other,
+more insidious abilities.

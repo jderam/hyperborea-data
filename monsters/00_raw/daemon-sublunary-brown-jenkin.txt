@@ -1,0 +1,76 @@
+DÆMON, SUBLUNARY, BROWN JENKIN
+(Dæmonic Familiar) (Undead Type 13)
+No. Encountered: 1
+Alignment: Chaotic Evil
+Size: S
+Movement: 60 (leap 60)
+Dexterity: 18
+Armour Class: 0
+Hit Dice: 2+2
+Attack Rate: 1/1 (bite)
+Damage: 1d4
+Saving Throw: 16
+Morale: 7
+Experience Points: 191
+Treasure Class: —
+A brown jenkin is sent by Thaumagorga (or one of
+his six dæmon princes) to serve only the wickedest
+sorcerers. Its mandate is to encourage its master to
+greater deeds of depravity and Evil. A brown jenkin
+appears as a small animal (such as a cat, lap dog,
+piglet, or rat), but it will have disturbingly human
+characteristics as well: upright posture, hands instead
+of paws, and a subtly human cast to its face. In fact,
+some sages believe that a brown jenkin is, in some
+revolting way, the child of the sorcerer it serves.
+Once the brown jenkin is accepted as a familiar by the
+sorcerer, its master gains all the benefits of 1 additional
+level and the same spell resistance as the familiar itself.
+These powers are lost if the familiar and master are
+separated by more than one mile. If the brown jenkin
+dies, then the master immediately will lose 2 levels of
+experience, with XP reduced to the halfway point of the
+resulting level.
+Once per day (typically at midnight) the brown jenkin
+must be fed the blood of its master in the same
+manner that an infant suckles, biting the master’s
+arm or leg and causing 1 hp damage. Should this need
+be neglected, the familiar will go at large in search
+of blood, victimizing the most helpless creature it
+can locate. A brown jenkin feels no true loyalty to its
+master and readily will betray him in order to serve a
+wickeder or more powerful sorcerer instead, should the
+opportunity arise.
+N.B.: A brown jenkin does not replace the standard
+familiar associated with magicians and witches;
+however, the brown jenkin may prove jealous of other
+familiars. In fact, the brown jenkin is wont to play cruel
+(potentially deadly) tricks on the magician’s or witch’s
+familiar.
+Special:
+¬¬ Can hide and move silently on 11-in-12 chance of
+success (see Vol. I, pp. 21–23: Classes, thief).
+¬¬ Can make preternatural leaps of up to 60 feet and
+climb any surface with no chance of falling.
+¬¬ 5-in-20 spell resistance versus CA 12 casters. For
+every CA level less than 12, the chance-in-twenty
+increases by one (+1) (see Vol. III, p. 261: Saving
+Throw, spell resistance).
+¬¬ Cold, electricity, fire, and gas attacks inflict
+½ damage, or no damage if save is made. Because of
+its partly mundane nature, holy oil / water inflicts
+only ½ damage on a brown jenkin.
+¬¬ +1 or better weapon to hit.
+¬¬ Drains victim of blood for 1d4 hp damage per
+round following a successful hit; after 12 hp are
+drained, the sated brown jenkin will slink away.
+¬¬ Can cast the following spells at will (though only
+one at a time): detect good, detect invisibility, detect
+magic.
+¬¬ Can cast suggestion once per day.
+¬¬ Once per month, the brown jenkin can contact
+otherworldly being (as the spell) and ask as many as
+three questions. The answers may or may not be
+true, but always will be calculated to inspire some
+Evil course of action by the brown jenkin’s master.
+This connexion carries no risk of insanity.

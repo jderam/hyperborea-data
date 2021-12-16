@@ -1,0 +1,65 @@
+DÆMON, SUBLUNARY, SUCCUBUS
+(Enchantress Dæmon) (Undead Type 13)
+No. Encountered: 1
+Alignment: Chaotic Evil
+Size: M
+Movement: 40 (fly 60)
+Dexterity: 17
+Armour Class: 0
+Hit Dice: 6+6
+Attack Rate: 2/1 (claw / claw)
+Damage: 1d6 / 1d6
+Saving Throw: 14
+Morale: 9
+Experience Points: 1,590
+Treasure Class: I, Q
+These dæmons control men through seduction.
+Typically they ensorcel men of greatness, as they crave
+power, fame, and wealth. Succubi present as beautiful
+women, strikingly voluptuous, with pale skin, silken
+hair, and eyes to melt the will of men. In their true
+forms, they have vampiric fangs, ophidian tails,
+taloned fingers, and pteropine wings of eight or more
+feet extending from their shoulder blades. Rarely will
+succubi reveal their true forms, typically when greatly
+offended, attacked, or uncloaked for what they are.
+Often succubi will infiltrate the dreams of their victims,
+tantalizing with coy and elusive glimpses of their rare
+beauty. When at length the enchantment takes hold,
+nonchalantly the succubus will appear in the waking
+life of the ensorcelled (the woman of his dreams, as
+it were). The victim will fawn over the woman and
+lavish upon her gifts rare, exotic, and expensive—until
+she tires of him. (Some sages posit the existence of
+incubi—male counterparts that lie with women to
+spawn their dæmonic progeny—but such speculation
+remains unverified.)
+Special:
+¬¬ 11-in-20 spell resistance versus CA 12 casters. For
+every CA level less than 12, the chance-in-twenty
+increases by one (+1) (see Vol. III, p. 261: Saving
+Throw, spell resistance).
+¬¬ Cold, electricity, fire, and gas attacks inflict
+½ damage, or ¼ damage if save is made.
+¬¬ +1 or better weapon to hit.
+¬¬ Can become Æthereal at will, insubstantially
+traversing interstices betwixt particles of matter.
+¬¬ Can shapechange to any humanoid form at will (see
+Vol. I, p. 65: Cleric Subclasses, druid).
+¬¬ Can cast the following spells at will (though only
+one at a time): charm person, clairaudience, darkness,
+extrasensory perception, infrared vision, suggestion,
+teleport (without error).
+¬¬ Once per day, can attempt to beckon a dæmonic
+servant (as reverse of dismissal), with 2-in-6 chance
+of success. Roll 1d4: On a 1–3, a class IV greater
+dæmon is beckoned; a roll of 4 beckons a class VI
+greater dæmon.
+¬¬ When a target for beguilement is selected, the
+succubus must obtain a personal possession
+from that one. The spell is cast whilst the target
+slumbers. The target, who must be no more than
+one mile away, must make a sorcery save or come
+under the succubus’ spell. The save is modified by
+willpower adjustment (see Vol. I, p. 9: Attributes,
+wisdom), if applicable.

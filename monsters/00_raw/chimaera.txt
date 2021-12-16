@@ -1,0 +1,34 @@
+CHIMÆRA
+No.
+Encountered: 1
+Alignment: Chaotic Evil
+Size: L
+Movement: 40 (fly 60)
+Dexterity: 13
+Armour Class: 4
+Hit Dice: 9
+Attack Rate: 5/1 (claw / claw / lion bite / hydra bite / goat horns)
+Damage: 1d6 / 1d6 / 2d6 / 1d10 / 2d4
+Saving Throw: 12
+Morale: 9
+Experience
+Points: 1,900
+Treasure Class: F
+These horrific, treble-headed magical beasts are
+four feet at the shoulder and weigh as much as 700
+pounds. A chimæra has the forequarters of a lion, the
+hindquarters of a goat, the membranous wings (25-foot
+span) of a giant bat, and the reticulated tail of a serpent.
+The central head of the beast is that of a black-maned
+lion, with eyes reflecting wicked intelligence. The lion
+head is flanked by a goat’s head and the serpentine
+head of a hydra. Chimæras are magical creatures
+that lair alone in cliff-side caves, woodland hills, and
+even dungeons. They speak an ancient tongue of the
+underworld, but also they can converse in the Common
+tongue of men.
+Special:
+¬¬ Thrice per day, in lieu of its other attacks, a
+chimæra can breathe from its lion head a cone of
+fire 50 feet long and 20 feet wide at the terminus,
+for 4d6 hp damage (avoidance save for ½ damage).

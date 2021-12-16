@@ -1,0 +1,39 @@
+DÆMON, LESSER, CLASS v (Undead Type 13)
+No. Encountered: 1d6
+Alignment: Chaotic Evil
+Size: M
+Movement: 60
+Dexterity: 13
+Armour Class: 6
+Hit Dice: 2
+Attack Rate: 1/1 (bite)
+Damage: 2d4
+Saving Throw: 16
+Morale: 7
+Experience Points: 112
+Treasure Class: Q
+Appearing somewhat as a grisly, hairless hound with
+powerful rear legs and rudimentary hands instead
+of front paws, this dæmon is a faultless tracker and
+tireless pursuer. It is cunning enough to focus on its
+quarry and not raise alarm through senseless carnage. If
+no prey has been designated, this dæmon will run amok
+much like its brethren. Sorcerers have been known to
+summon these beasts as trackers and killers, though care
+need be taken lest they turn on their masters.
+Special:
+¬¬ Can track in any environment at 11-in-12 chance of
+success (see Vol. I, p. 26: Fighter Subclasses,
+barbarian). Prey warded by a protection from evil spell
+cannot be tracked.
+¬¬ Can hide and move silently at 11-in-12 chance of
+success (see Vol. I, pp. 21–23: Classes, thief).
+¬¬ 2-in-20 spell resistance versus CA 12 casters. For
+every CA level less than 12, the chance-in-twenty
+increases by one (+1) (see Vol. III, p. 261: Saving
+Throw, spell resistance).
+¬¬ Cold, electricity, fire, and gas attacks inflict
+½ damage, or ¼ damage if save is made.
+¬¬ Once per day, can vomit a 10-foot stream of acid
+that causes damage equal to the dæmon’s current
+hit points (avoidance save for ½ damage).

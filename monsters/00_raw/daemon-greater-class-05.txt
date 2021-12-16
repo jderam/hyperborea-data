@@ -1,0 +1,57 @@
+DÆMON, GREATER, CLASS V (Undead Type 13)
+No. Encountered: 1 (1d3)
+Alignment: Chaotic Evil
+Size: L
+Movement: 40
+Dexterity: 14
+Armour Class: −7
+Hit Dice: 8
+Attack Rate: 7/1 (scimitar ×6 / tail whip)
+Damage: 1d8+2 (×6) / 2d6
+Saving Throw: 13
+Morale: 10
+Experience Points: 2,840
+Treasure Class: U
+Unspeakably cruel and domineering, this six-armed
+dæmon has the lower body of a reticulated snake,
+surmounted by the naked, curvaceous torso of a woman
+with a hauntingly beautiful face. Often these dæmons
+adorn themselves in jewellery of no less than 2,000-
+gp value. Class V greater dæmons stand from seven to
+eight feet tall, though their tails can extend to a length
+of 15–20 feet. With their six long arms they wield steel
+scimitars.
+Less powerful dæmons—even class IV—rightly
+fear class V greater dæmons, for they are incredibly
+intelligent and manipulative. In netherworldly realms
+such as Underborea, they are served by hosts of class I,
+II, and III greater dæmons—and perhaps one or more
+class IV greater dæmons. Only the most powerful (or
+foolish) of sorcerers would dare beckon a class V greater
+dæmon.
+Special:
+¬¬ 12-in-20 spell resistance versus CA 12 casters. For
+every CA level less than 12, the chance-in-twenty
+increases by one (+1) (see Vol. III, p. 261: Saving
+Throw, spell resistance).
+¬¬ Cold, electricity, fire, and gas attacks inflict
+½ damage, or ¼ damage if save is made.
+¬¬ +1 or better weapon to hit.
+¬¬ All attack rolls made at +2 bonus.
+¬¬ Can cast the following spells at will (though only
+one at a time): cause fear (reverse of remove fear),
+charm person, darkness (20-ft. radius), decipher
+language, detect invisibility, infrared vision, levitate,
+polymorph self, project image, pyrotechnics, teleport
+(without error).
+¬¬ Once per day, can attempt to beckon another dæmon
+to fight alongside it (as reverse of dismissal), with
+3-in-6 chance of success; roll 1d12: On a 1–3, a class
+I greater dæmon is beckoned; on a 4–6, a class
+II greater dæmon; on a 7–8, a class III greater
+dæmon; on a 9–10, a class IV greater dæmon;
+on an 11, a class V greater dæmon; and on a
+roll of 12, a class VI greater dæmon is beckoned.
+Alternatively, it can attempt to summon 1d4 class
+iv lesser dæmons or 1d3 class vi lesser dæmons,
+with 5-in-6 chance of success.

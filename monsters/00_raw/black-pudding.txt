@@ -1,0 +1,46 @@
+BLACK PUDDING
+No. Encountered: 1
+Alignment: Neutral
+Size: L
+Movement: 20
+Dexterity: 10
+Armour Class: 6
+Hit Dice: 10
+Attack Rate: 1/1 (touch)
+Damage: 3d8
+Saving Throw: 12
+Morale: 12
+Experience Points: 1,900
+Treasure Class: —
+These large, amorphous blobs are
+dark grey to black in colour. Some
+sages believe they are a primitive
+subspecies of shoggoth, or “failed”
+shoggoths discarded by their
+erstwhile masters, the elder things.
+Black puddings typically measure
+6–30 feet in diameter, shambling
+through subterranean caves and
+caverns constantly in search of
+nourishment; often one will ooze
+through some crack in the floor of a
+dungeon and seek its provender.
+Black puddings can move across
+floors, walls, and ceilings, and they
+can pass through small apertures.
+They can eat through wood or metal
+and generally are corrosive to all
+forms of organic material, but they do not affect stone. Wisdom has it
+that only fire can destroy them; other attacks simply split them in twain.
+Special:
+¬¬ Immune to cold.
+¬¬ When black pudding is struck by weapons or lightning, a smaller
+one is created (e.g., a 3-HD black pudding that causes 1d8 hp
+damage), whilst the main body quickly regenerates, its capacities
+not reduced.
+¬¬ Harmed only by fire; other spells may adversely affect it, but those
+that are not fire-related and that normally inflict physical harm
+merely will split the creature in twain as noted above.
+¬¬ Corrodes leather on contact and metal in 2d4 rounds (including
+weapons and armour, though magical metal survives 1 extra round
+per “plus”).

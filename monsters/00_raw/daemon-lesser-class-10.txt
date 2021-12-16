@@ -1,0 +1,36 @@
+DÆMON, LESSER, CLASS x (Undead Type 13)
+No. Encountered: 1d6
+Alignment: Chaotic Evil
+Size: M
+Movement: 50
+Dexterity: 12
+Armour Class: 4
+Hit Dice: 4
+Attack Rate: 3/1 (claw / claw / bite)
+Damage: 1d6 / 1d6 / 1d8
+Saving Throw: 15
+Morale: 7
+Experience Points: 315
+Treasure Class: C
+Of grisly leonine form with blood-red hide and mane of
+fire, this dæmon is fully as large as a man. It can track
+faultlessly when a quarry is named, but otherwise will
+destroy and devour living creatures wherever it finds
+them. Nothing hidden can escape its burning gaze.
+Similar but superior to class v lesser dæmons, these
+more cunning beasts frequently are called upon by
+sorcerers to find and slay their enemies.
+Special:
+¬¬ At all times, has the power of a true seeing spell.
+¬¬ Can track in any environment at 11-in-12 chance of
+success (see Vol. I, p. 26: Fighter Subclasses,
+barbarian). Prey warded by a protection from evil spell
+cannot be tracked.
+¬¬ 4-in-20 spell resistance versus CA 12 casters. For
+every CA level less than 12, the chance-in-twenty
+increases by one (+1) (see Vol. III, p. 261: Saving
+Throw, spell resistance).
+¬¬ Cold, electricity, fire, and gas attacks inflict
+½ damage, or ¼ damage if save is made.
+¬¬ Once per day, may roar and cause fear (as the spell)
+to all within 20 feet.

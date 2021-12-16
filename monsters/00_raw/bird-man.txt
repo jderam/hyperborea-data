@@ -1,0 +1,62 @@
+BIRD-MAN
+No. Encountered: 3d4
+Alignment: Neutral
+Size: M
+Movement: 50 (fly 120)
+Dexterity: 15
+Armour Class: 9
+Hit Dice: 1
+Attack Rate: 1/1 (bite)
+Damage: 1d4
+Saving Throw: 16
+Morale: 3
+Experience Points: 13*
+Treasure Class: J, K
+* Refer to p. 294: Table 122 for classed individuals.
+Bird-men have small, featherless heads, stout yellow
+beaks, and inquisitive black eyes. They stand upright
+and average seven feet tall, two feet of which comprise
+their long, featherless necks; however, because their
+necks droop, their full height scarcely is realized. Birdmen
+have long, scaly legs that end in three-toed talons,
+narrow upper bodies feathered in black, and powerful
+wings that span eight or more feet. Their wings are
+plumed in black, white, and brown (females) or red
+(males).
+This race of semi-intelligent,
+humanoid birds rarely lives in
+autonomy; primarily bird-men exist
+in servility to other intelligent beings.
+This arrangement suits them so long
+as they are sheltered and fed (grains
+and small lizards, fish, or amphibians).
+Typically a small flock (including
+mated pairs) will serve a master.
+Solitary bird-men oft refuse to eat and
+will die of starvation, unable to carry
+on without the companionship of the
+flock.
+Bird-men are notorious for both
+their cowardice and their incessant
+garrulity, for they speak the Common
+tongue of men. They can be obstinate
+(oft refusing to complete tasks),
+lazy, argumentative, and insulting
+(especially to one another), but when
+motivated they can be trained to fly
+collectively a basket of cargo that
+weighs no more than 200 pounds
+per bird-man. They almost always
+flee violence; however the threat of
+violence from their masters rarely
+inspires them to cooperation. Almost
+nothing can convince them to fly over a
+large body of water. In short, bird-men
+are a quirky, intractable species.
+Special:
+¬¬ Rumours speak of shamanic birdmen
+in the untamed wilds of the
+Spiral Mountain Array. These can
+advance as high as 7th level; for
+each level beyond 1st, they add 1 hit
+die (d8) to their base 1 HD.
