@@ -1,0 +1,20 @@
+HIPPOGRIFF
+No. Encountered: 1 (2d6)
+Alignment: Neutral
+Size: L
+Movement: 60 (fly 120)
+Dexterity: 9
+Armour Class: 5
+Hit Dice: 4+2
+Attack Rate: 3/1 (claw / claw / bite)
+Damage: 1d6 / 1d6 / 1d10
+Saving Throw: 15
+Morale: 8
+Experience Points: 200
+Treasure Class: Q (×5)
+Born of the union betwixt a male griffin and a filly, this
+legendary beast has the head, wings, and forequarters
+of a giant eagle and the hindquarters of a powerful
+horse. Temperamental carnivorous beasts, hippogriffs
+rarely are tamed. They nest in the rocky crags of
+mountainous regions and fiercely defend their eyries.

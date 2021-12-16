@@ -1,0 +1,56 @@
+HORSE Donkey / Mule / Pony Draught Horse Heavy Warhorse Light Warhorse Riding / Wild Horse
+No. Encountered: 1 1 (5d6) 1 1 1 (5d6)
+Alignment: Neutral Neutral Neutral Neutral Neutral
+Size: L L L L L
+Movement: 40 40 40 60 60
+Dexterity: 6 6 8 9 10
+Armour Class: 7 7 7 7 7
+Hit Dice: 2 3 3+3 2+3 2
+Attack Rate: 1/1
+(hoof or bite)
+1/1
+(hoof or bite)
+3/1
+(hoof / hoof / bite)
+3/1
+(hoof / hoof / bite)
+1/1
+(hoof or bite)
+Damage: 1d4 or 1d3 1d4 or 1d3 1d8 / 1d8 / 1d3 1d6 / 1d6 / 1d3 1d4 or 1d3
+Saving Throw: 16 15 15 16 16
+Morale: 6 6 9 9 6
+Experience Points: 20 35 90 41 20
+Treasure Class: — — — — —
+These solid-hoofed, herbivorous mammals oft are
+domesticated and trained. Typically they have long,
+flowing tails and manes and (in Hyperborea) thick,
+shaggy coats. Many breeds exist and are classified in
+general terms.
+A donkey is a domesticated ass that stands about
+four feet at the shoulder and has thick, shaggy fur.
+Donkeys are renowned for their loud braying. A mule
+is a cross betwixt a male donkey and a mare (female
+horse); these creatures are similar to donkeys, though
+generally hardier. A pony is a diminutive horse of
+approximately 12 hands height (about four feet at the
+shoulder), covered with shaggy fur. Ponies are of even
+temperament and can be led through cramped tunnels.
+A draught horse is the largest, bred for power and
+endurance to pull a plough or waggon. Horses of
+draught-quality breed run wild on the Hyperborean
+plains; 1-in-10 might be suited to become a warhorse, if
+raised from a foal.
+A warhorse is bred for strength, power, and the ability
+to charge into battle. Non-warhorses must make
+morale checks each round they are urged to take part
+in combat. If they fail, they will try to flee and possibly
+throw their riders.
+A riding horse is smaller and lighter-boned than a
+draught horse, but capable of bearing a rider for great
+distances. Wild horses of riding horse quality run free
+on the Hyperborean plains. Wild foals may be tamed,
+though the older the horse, the less likely this prospect
+becomes.
+Special (all horses):
+¬¬ Horses (but not donkeys, mules, or ponies) can
+treble their movement rates in short bursts.
