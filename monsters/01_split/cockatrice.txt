@@ -1,0 +1,28 @@
+COCKATRICE
+No. Encountered: 1 (1d6)
+Alignment: Neutral
+Size: S
+Movement: 30 (fly 60)
+Dexterity: 15
+Armour Class: 6
+Hit Dice: 5
+Attack Rate: 1/1 (bite)
+Damage: 1d6
+Saving Throw: 14
+Morale: 7
+Experience Points: 300
+Treasure Class: D
+These small, magical creatures appear to be nothing
+more than large roosters at first glance; their
+serpentine, reticulated tails of some two-foot length,
+however, betray them as
+something else.
+Too, their flight ability far outmatches that of a normal
+cock, their aerial speed significant. Despite their small
+size, their beaks are quite powerful, rending flesh
+as efficiently as a spear, and with deadly sorcerous
+consequences—for their touch (much like that of the
+basilisk) can turn one to stone.
+Special:
+¬¬ On a successful hit, victim must make
+transformation save or be turned to stone.

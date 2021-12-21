@@ -1,0 +1,43 @@
+DÆMON, SUBLUNARY, LAMIA
+(Witch Dæmon) (Undead Type 13)
+No. Encountered: 1d2
+Alignment: Chaotic Evil
+Size: M
+Movement: 50
+Dexterity: 14
+Armour Class: 3
+Hit Dice: 9
+Attack Rate: 3/1 (dagger / dagger / bite)
+Damage: 1d4 / 1d4 / 1d3
+Saving Throw: 12
+Morale: 9
+Experience Points: 2,100
+Treasure Class: D
+In deserts and other places of isolation dwell the
+lamiæ, mythic witch dæmons that present as beautiful,
+curvaceous women with vacuous eyes. They wear
+loose-fitting gossamer gowns, through which the
+astute might observe their round thighs sheathed in
+snakeskin; furthermore, some conceal thin, serpentine
+tails that emerge from the bases of their spines.
+Lamiæ prefer to prey on men, seducing them and
+then drinking their blood for sustenance. Lamiæ arm
+themselves with curved daggers of exceptional quality
+(forged of diamond-hard glass). They are cruel, sadistic,
+Evil creatures who delight in the pain and suffering of
+their victims.
+Special:
+¬¬ 2-in-20 spell resistance versus CA 12 casters. For
+every CA level less than 12, the chance-in-twenty
+increases by one (+1) (see Vol. III, p. 261: Saving
+Throw, spell resistance).
+¬¬ Can cast hallucinatory terrain thrice per day.
+¬¬ Voice charms all within 60 feet who hear it, unless
+sorcery saves are made. The saves are modified by
+willpower adjustment (see Vol. I, p. 9: Attributes,
+wisdom), if applicable. Charmed individuals stand
+dumbly, allowing the lamiæ to do as they will, even
+kill them.
+¬¬ Bite victim must make death (poison) save or die
+in 1d4 rounds; if save is successful, 3d6 hp damage
+sustained (a terrible blood-burning sensation).

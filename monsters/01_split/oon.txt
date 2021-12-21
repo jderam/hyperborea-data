@@ -1,0 +1,52 @@
+OON (Ghost-Man)
+No. Encountered: 1d3 (3d8×10)
+Alignment: Neutral
+Size: M
+Movement: 40
+Dexterity: 9
+Armour Class: 9
+Hit Dice: 1
+Attack Rate: 1/1 (weapon)
+Damage: (per weapon)
+Saving Throw: 16
+Morale: 12
+Experience Points: 10*
+Treasure Class: J
+* Refer to p. 294: Table 122 for classed individuals.
+The oon are a subterranean race of enthralled humans, servants
+of the otherworldly mi-go. They are extremely pale of skin (to
+the point of transparency), with grey, sunken eyes and straight,
+black tresses (but lacking facial or bodily hair). Discerning the
+differences betwixt two oon is difficult—even the males and
+females resemble one another uncannily. Through an alien form
+of synthetic fertilization, they are reproduced genetically in
+subterranean laboratories and raised outside the womb with no
+maternal connexion. The oon speak their own language, Oonat; rare
+exceptions speak the Common tongue as well.
+Throughout their lives, oon are fed an addictive concoction (laced
+in their food and drink) that suppresses sexuality, hormonal
+development, ambition, and individuality. Thus the oon are
+rendered perfect slaves, of unquestioning obedience to their alien
+masters. If oon are denied this elixir for more than two weeks, they
+initially will go mad, but at length will begin to develop hormonally:
+Females swell of hip and breast; males grow facial hair, and their
+voices deepen.
+Lessons are begun at an early age, and the mi-go will assign oon to
+appointments that suit their natural talents. Some oon are tasked
+as bounty hunters or assassins, venturing to the surface to effect
+outcomes desired by the mi-go; these are amongst the few oon with
+knowledge of upper-world tongues. These trusted slaves usually are
+sent in threes, garbed in long, black cloaks and tall, broad-brimmed
+hats that conceal their ghostly features. They will assassinate,
+abduct, or infiltrate as ordered; if captured, an oon will commit
+suicide by rupturing a false tooth that releases a disintegration
+toxin. As the oon abhor light, surface venturers are seen only at
+night.
+Special:
+¬¬ Infrared vision (as the spell) to 120-foot range.
+¬¬ −2 attack penalty when exposed to bright light.
+¬¬ NPC oon are typically assassins or scouts, to be developed by
+the referee. PC oon might be freed slaves whose skin and eyes
+slowly will adjust to sunlight (negating their special abilities).
+All such oon use the hit die type appropriate to their chosen
+class.

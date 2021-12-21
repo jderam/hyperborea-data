@@ -1,0 +1,59 @@
+REMORHAZ
+No. Encountered: 1 (1d2)
+Alignment: Neutral
+Size: L
+Movement: 40
+Dexterity: 17
+Armour Class: 0
+Hit Dice: 10
+Attack Rate: 1/1 (bite)
+Damage: 5d6
+Saving Throw: 12
+Morale: 11
+Experience Points: 2,650
+Treasure: F
+The remorhaz are reputed to be the progeny of
+Yikkorth, “The Ashen Worm”. Their ridged scales are ice
+blue in colour, with pale blue spine ridges and putrid
+yellow underbellies. Some remorhaz are reported to
+present with fuzzy white wool bristling from their
+scales during the long Hyperborean winter years.
+A typical remorhaz ranges from 25 to 40 feet in length.
+Most have eight pairs of stout, clawed legs, though
+longer specimens have as many as twelve pairs. The
+front third of the monster’s body is legless; this portion
+can rear up like a cobra and unfold large, wing-like
+frills that surround its frightening head, remarkable for
+large, bulbous eyes of black and a gaping, fang-toothed
+maw.
+These serpentine monsters dwell in the vast tundra of
+Hyperborea, where they feed on bears, deer, giant elk,
+lions, mammoths, and other animals—not excluding
+men, of course. The remorhaz is an aggressive
+creature, solitary and territorial, though infrequently
+encountered in mating pairs. Often these mates will
+make their lair in an icy cave, where the female will lay a
+single, brown-spotted blue egg valued at 5,000 gp.
+Special:
+¬¬ Infrared vision (as the spell) to 240-foot range.
+¬¬ 7-in-20 spell resistance versus CA 12 casters. For
+every CA level less than 12, the chance-in-twenty
+increases by one (+1) (see Vol. III, p. 261: Saving
+Throw, spell resistance).
+¬¬ Once per day can emit a trilling song that charms
+all within 60 feet who hear it, unless sorcery saves
+are made; the saves are modified by willpower
+adjustment (see Vol. I, p. 9: Attributes, wisdom),
+if applicable. Charmed individuals stand dumbly,
+allowing the remorhaz to swallow whole a single
+target, but this attack effectively breaks the spell
+for any other charmed victims.
+¬¬ When incited, the spine ridge becomes white-hot;
+any non-magical weapon striking the remorhaz has
+a 3-in-6 chance to melt immediately. Touching the
+spine ridge causes 3d10 hp damage.
+¬¬ On a natural 20 attack roll, a Small or Medium
+victim is swallowed whole, the heat inside the beast
+causing immediate death; note that this action
+effectively ends the trilling of a remorhaz
+(see above).

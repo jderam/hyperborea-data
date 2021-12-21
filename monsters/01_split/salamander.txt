@@ -1,0 +1,42 @@
+SALAMANDER Fire Salamander Ice Salamander
+No. Encountered: 1d6 1d4
+Alignment: Chaotic Evil Neutral
+Size: L L
+Movement: 40 40
+Dexterity: 11 11
+Armour Class: 2 3
+Hit Dice: 8 9
+Attack Rate: 3/1
+(claw / claw / bite)
+5/1
+(claw ×4 / bite)
+Damage: 1d6 / 1d6 / 2d6 1d6 (×4) / 2d6
+Saving Throw: 13 12
+Morale: 8 8
+Experience Points: 840 1,100
+Treasure Class: F F
+The fire salamander is a terrestrial species of fire
+elemental, serpentine in form (though four-legged),
+with the head and limbs of a lizard. The beast is as long
+as 15 feet and has bright red scales banded orange,
+black, and yellow. Fire salamanders typically dwell near
+volcanoes, though sometimes too in deserts. They are
+semi-intelligent, malicious creatures, capable of great
+cruelty, and they attack ice salamanders on sight.
+The ice salamander is a terrestrial species of water
+elemental, serpentine in form (though six-legged),
+with the head and limbs of a lizard. The beast is as long
+as 18 feet and has bright blue scales banded yellow
+and white. Ice salamanders typically dwell in glaciated
+regions, carving their lairs out from ice. When they fight
+they rear up on their hind legs to attack with four claws
+and one bite. Ice salamanders are semi-intelligent, and
+they attack fire salamanders on sight.
+Special (fire salamander):
+¬¬ Immune to fire.
+¬¬ Emits intense heat; any creature within 20 feet
+suffers 1d8 hp damage per round.
+Special (ice salamander):
+¬¬ Immune to cold.
+¬¬ Emits intense cold; any creature within 20 feet
+suffers 1d8 hp damage per round.

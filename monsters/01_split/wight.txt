@@ -1,0 +1,27 @@
+WIGHT (Undead Type 5)
+No. Encountered: 1d6
+Alignment: Chaotic Evil
+Size: M
+Movement: 30
+Dexterity: 7
+Armour Class: 5
+Hit Dice: 4
+Attack Rate: 1/1 (claw)
+Damage: 1d4
+Saving Throw: 15
+Morale: 12
+Experience Points: 195
+Treasure Class: B
+This dreadful creature is formed when a negativeenergy
+spirit inhabits a cadaver. The result is an undead
+thing that feeds on positive energy (i.e., life). Pallid of
+countenance, with long, talon-like nails and broken,
+jagged teeth, wights walk with a stoop and carry the
+stench of death and decay. They never desist from
+attempting to feed.
+Special:
+¬¬ Immune to poison, paralysis, fear, and cold.
+¬¬ Harmed only by silver or magical weapons.
+¬¬ Touch drains 1 level of experience unless a
+death save is made (see Vol. III, p. 263: Special
+Damage, energy drain).

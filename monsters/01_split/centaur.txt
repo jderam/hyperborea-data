@@ -1,0 +1,44 @@
+CENTAUR
+No. Encountered: 2d4 (4d6)
+Alignment: Neutral
+Size: L
+Movement: 50
+Dexterity: 10
+Armour Class: 5
+Hit Dice: 4+4
+Attack Rate: 2/1 (hoof / hoof) or 3/2 (weapon)
+Damage: 1d8 / 1d8 (or per weapon +2)
+Saving Throw: 15
+Morale: 9
+Experience Points: 225
+Treasure Class: Q, X
+A centaur has the head, arms, and torso of a man, and
+the body of a thick-boned mountain horse. The equine
+portion is covered in shaggy grey fur, matched by a
+massive shock of hair that forms a dense and tangled
+protective mane. Protruding from the head of a male
+centaur is a pair of stout, yellow horns, which he will
+use for sparring (possibly to establish mating rights).
+Centaurs of Hyperborea typically dwell in the coldest
+and harshest environments, in the heart of the Spiral
+Mountain Array; scarcely do they reside elsewhere. They
+oft venerate Aurorus and Ythaqqa and make clandestine
+pilgrimages to Mount Vhuurmithadon. By and large,
+centaurs are wary of men and typically seek to avoid
+them. If encountered, however, they speak a dialect
+of proto-Hellenic that is about 65% compatible with
+Kimmerian. They are not immediately hostile unless
+threatened; however, they take a resentful viewpoint of
+Apollo and Artemis.
+Special:
+¬¬ Some will carry large shields; such centaurs have
+AC 4 vs. melee attacks and AC 3 vs. missiles.
+¬¬ Mastery of two weapons (+1 to attack and damage
+rolls, increased attack rate, etc.; see Vol. I, p. 112:
+Weapon Skill, weapon mastery); most centaurs
+favour the longbow and long spear, though
+exceptions are possible.
+¬¬ Can cast the following spells at will (though only
+one at a time): charm person or beast, færie fire, find
+plants, goodberry, pass without trace, sanctuary from
+animals, starlight.

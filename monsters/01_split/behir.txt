@@ -1,0 +1,40 @@
+BEHIR
+No. Encountered: 1 (1d2)
+Alignment: Chaotic Evil
+Size: L
+Movement: 50 (swim 60)
+Dexterity: 10
+Armour Class: 4
+Hit Dice: 12
+Attack Rate: 7/1 (claw ×6 / bite)
+Damage: 1d6 (×6) / 2d6
+Saving Throw: 11
+Morale: 9
+Experience Points: 2,900
+Treasure Class: Q (×10), V
+This 40-foot-long, serpentine dragon has 12 legs and a
+large, crocodilian head. It can fold its legs against its
+flanks to slither like a massive snake or to swim. The
+monster has thick scales of blue or blue-green, with a
+pale blue underbelly.
+When hunting, the behir will bite and then enfold its
+prey, constricting as a python and thrashing. When
+facing fighting men or other creatures capable of
+defending themselves, the behir will rear up and attack
+with six claws and its bite. It also can discharge a
+powerful lightning bolt from its open maw. Behirs most
+always are encountered alone, unless a mating pair is
+chanced upon.
+Special:
+¬¬ Immune to electricity and poison.
+¬¬ Once per day can discharge a 30-foot-long lightning
+bolt that inflicts 6d6 hp damage, with avoidance
+saves allowed for ½ damage.
+¬¬ If bite and at least two claw attacks hit a single
+target, victim is wrapped and squeezed for
+additional 2d4 hp damage per round. If the behir
+is damaged to 50% of its total hit points, it will
+release the victim either to fight or retreat (subject
+to a morale check). Otherwise, an extraordinary feat
+of strength or dexterity (see Vol. I, p. 7: Attributes,
+strength and dexterity) might allow one to escape.

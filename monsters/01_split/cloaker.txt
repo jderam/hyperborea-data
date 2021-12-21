@@ -1,0 +1,63 @@
+CLOAKER
+No. Encountered: 1 (1d10×10)
+Alignment: Chaotic Evil
+Size: M
+Movement: 10 (fly 50)
+Dexterity: 13
+Armour Class: 3 (1)
+Hit Dice: 6
+Attack Rate: 2/1 (lash / lash)
+Damage: 1d6 / 1d6
+Saving Throw: 14
+Morale: 9
+Experience Points: 460
+Treasure Class: C
+These weird monsters of extra-dimensional origin
+dwell in deep dungeons and caverns. Possessed of alien
+intelligence, they speak their own sibilant tongue that
+some sorcerers can learn; also they communicate via
+telepathy. They are called “cloakers” because of their
+shape and appearance, resembling cowled cloaks,
+black on the outside and pale grey on the inside. A
+cloaker has two hidden, claw-like appendages edging
+the “cowl” and a forked tail (as a tuxedo) with barbed
+ends. An horizontal “seam” inside the cloak is actually
+a fang-filled maw, above which can open two eye slits
+of crimson red. On the back of the cloak are 12 black
+“buttons” that are in fact eyes.
+In vast subterranean caverns, as many as 100
+cloakers may roost like bats, but typically only one is
+encountered. A single cloaker may be discovered in a
+dungeon, detected as a magical cloak, and even perhaps
+identified as a cloak of protection (see Vol. V, p.
+473: Magical Treasure, miscellaneous magic items).
+Cloakers can effect symbiotic relationships with men
+or other humanoids. If unsuspectingly “donned”, they
+latch on, manipulating and feeding off of their hosts.
+Special:
+¬¬ Never surprized.
+¬¬ AC 1 when fighting in darkness, or in dim or
+shadowy conditions.
+¬¬ If both tail lashes hit, cloaker envelops victim and
+bites for 2d4 hp damage. It will continue to bite
+every round, hitting automatically. If the wrapped
+cloaker is attacked, damage is split evenly betwixt
+the monster and its victim (though area effect
+spells harm both normally). The victim can attempt
+to break free with a test of strength (see Vol. I, p. 7:
+Attributes, strength).
+¬¬ If a cloaker is unwittingly donned, it gently pricks
+its claw-like “hands” into the victim’s neck. The
+referee should roll a secret sorcery save for the
+victim, modified by willpower adjustment (see Vol.
+I, p. 9: Attributes, wisdom), if applicable. If the
+save is successful, the victim realizes a monster
+is attached to him; pulling it off causes 1d4 hp
+damage. If the save fails, the victim is unaware,
+and the cloaker will manipulate his actions (ideally
+via notes passed betwixt referee and player). The
+victim and his allies will believe the cloaker is but a
+fine magical cloak, conferring a +1 AC bonus. If the
+victim receives any sorcerous healing, the cloaker
+(if wounded) always will take 1 hp of healing for
+itself.

@@ -1,0 +1,27 @@
+OWL BEAR
+No. Encountered: 1 (1d4+1)
+Alignment: Neutral
+Size: L
+Movement: 40
+Dexterity: 10
+Armour Class: 5
+Hit Dice: 5
+Attack Rate: 3/1 (claw / claw / bite)
+Damage: 1d6 / 1d6 / 2d6
+Saving Throw: 14
+Morale: 10
+Experience Points: 200
+Treasure Class: C
+This enormous, ursine beast has the head of a giant
+owl, the body of an upright bear, and large, homarine
+claws. Owl bears typically stand 8–10 feet tall and weigh
+as much as 1,700 pounds. The progeny of sorcerous
+experimentation, these unnatural, egg-bearing
+creatures are extremely aggressive and may be found
+in hills, woodlands, or cave lairs. Typically they are
+encountered singly (rogue males) or in small family
+groups. Often they will emit terrible shrieks whilst
+attacking.
+Special:
+¬¬ If owl bear hits same victim with both claw attacks,
+it hugs for 2d4 hp damage.

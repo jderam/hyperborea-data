@@ -1,0 +1,55 @@
+ABOMINABLE
+SNOW-MAN (Yeti)
+Abominable
+Snow-Man
+Abominable
+Snow-Man
+Alpha
+No. Encountered: 1d6 (6d6) 1:8
+Alignment: Chaotic Evil Chaotic Evil
+Size: M M
+Movement: 50 40
+Dexterity: 10 8
+Armour Class: 4 3
+Hit Dice: 4+4 6+4
+Attack Rate: 2/1 (claw / claw)
+or 1/1 (weapon)
+2/1 (claw / claw)
+or 3/2 (weapon)
+Damage: 1d6+1 / 1d6+1
+(or per weapon +1)
+1d8+2 / 1d8+2
+(or per weapon +2)
+Saving Throw: 15 14
+Morale: 9 10
+Experience Points: 175 510
+Treasure Class: D Q
+These despicable, flesh-eating humanoids inhabit the
+coldest, least hospitable regions. They stand eight feet
+tall, weigh 350–400 pounds, and are covered in shaggy,
+grey-white fur. From the centre of this humanoid’s
+head protrudes a single horn. Its hands are enormous
+taloned paws suitable for rending flesh and bone.
+The pelt of an abominable snow-man is considered a
+hunter’s prize.
+Abominable snow-men speak their own primitive
+tongue, can craft simple stone tools, and are known to
+tame leaper camels, much like their feared nemeses,
+the men of Leng. As no females of the species exist,
+abominable snow-men must take human women as
+their mates. This tragic, unspeakable union always
+results in the birth of an abominable snow-man infant
+and the death of the mother.
+In the wild, small groups of abominable snow-men are
+encountered. In their mountain cave lairs, larger tribes
+abide together, finding strength in unity and raiding
+human settlements for mates. For every 8 abominable
+snow-men there is 1 abominable snow-man alpha, a
+500-pound brute.
+Special:
+¬¬ When moving afoot in snowy terrain, chance to
+surprize opponents increased by 2-in-6.
+¬¬ +2 bonus to saves versus cold-related attacks.
+¬¬ Vulnerable to fire: +2 hp per die of damage.
+¬¬ If both claw attacks hit, the monster squeezes its
+victim in a bear hug for 2d6 hp damage.

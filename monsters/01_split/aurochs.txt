@@ -1,0 +1,28 @@
+AUROCHS
+No. Encountered: 1 (4d6)
+Alignment: Neutral
+Size: L
+Movement: 30
+Dexterity: 9
+Armour Class: 5
+Hit Dice: 4
+Attack Rate: 1/1 (gore)
+Damage: 1d10
+Saving Throw: 15
+Morale: 6
+Experience Points: 90
+Treasure Class: —
+This massive species of ox stands six feet at the
+shoulder, weighs as much as 2,000 pounds, and is
+renowned for its wide spread of forwards-turning
+horns. Most aurochs have black fur, which is shaggier
+during cold periods. Temperamental and aggressive,
+these bovines will charge down men, including those
+who attempt to avoid them. Some castrated bulls,
+if taken as calves, may be used as draught animals.
+Solitary bulls might be encountered, or small herds.
+Special:
+¬¬ Initial gore as charge attack at +2 bonus and
+double damage dice (see Vol. III, p. 249: Combat
+Actions, melee).
+¬¬ Can gore two adjacent foes on a single attack roll.

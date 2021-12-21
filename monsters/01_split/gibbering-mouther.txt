@@ -1,0 +1,52 @@
+GIBBERING MOUTHER
+No. Encountered: 1
+Alignment: Chaotic Evil
+Size: M
+Movement: 10 (swim 30)
+Dexterity: 5
+Armour Class: 1
+Hit Dice: 4+4
+Attack Rate: 5/1–8/1 (1d4+4 bites)
+Damage: 1 (per bite)
+Saving Throw: 15
+Morale: 10
+Experience Points: 475
+Treasure Class: Q
+This six- to eight-foot-diameter protoplasmic horror
+is a degenerate subspecies of shoggoth that lairs in
+cold caves and subterranean depths. Tarlike in colour,
+it glistens with green phosphorescence and bubbles
+with multitudinous eyes and mouths. The creature
+is of limited intelligence, but oft it will conceal its
+eyes and mouths as victims approach, presenting as
+a greenish glowing pool of soupy tar. Then it will lash
+out, attacking the unsuspecting, eager to take flesh
+and bone alike for its provender. N.B.: Some humanoid
+species, especially ape-men and cave-men, venerate
+gibbering mouthers as creatures blessed of Yug; thus
+they will make unspeakable sacrifices to these horrific
+monsters.
+Special:
+¬¬ Once per day can emit a cacophonous babble,
+causing listeners to become subject to confusion
+(as the spell). A sorcery save is allowed to resist;
+the save is modified by willpower adjustment (see
+Vol. I, p. 9: Attributes, wisdom), if applicable.
+Blocking ears with cotton or the like can pre-empt
+this ability.
+¬¬ Can eject visceral spittle with uncanny accuracy to
+60-foot range. The spittle is an extremely bright,
+green flash, which blinds all victims within 30 feet
+for 1d4 rounds if eyes not shielded in advance; a
+transformation save is allowed to resist.
+¬¬ Attacks with 1d4+4 mouths, usually targeting one
+or two victims.
+¬¬ Each hit latches on, draining for an additional 1 hp
+damage per round.
+¬¬ If three or more mouths bite a single victim,
+avoidance save must be made, or victim is pulled
+down and at once bitten by 1d6+6 more mouths,
+each of which also drains as noted above.
+¬¬ Enzyme release allows it to heat and transform
+stone or earth into a tarry, quicksand-like
+substance within which it can hide or retreat.

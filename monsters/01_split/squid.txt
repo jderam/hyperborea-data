@@ -1,0 +1,44 @@
+SQUID Giant Squid Colossal Squid
+No. Encountered: 1 (1d4) 1
+Alignment: Neutral Neutral
+Size: L L
+Movement: 0 (swim 60) 0 (swim 60)
+Dexterity: 8 6
+Armour Class: 3 (body), 7 (arms) 0 (body), 5 (arms)
+Hit Dice: 12 18
+Attack Rate: 8/1 (arms ×8) 8/1 (arms ×8)
+Damage: 1d8 (×8) 2d8 (×8)
+Saving Throw: 11 8
+Morale: 9 9
+Experience Points: 3,700 9,250
+Treasure Class: A Z
+The giant squid is a 60- to 120-foot-long leviathan of
+the deep. The largest specimens (colossal squids) are
+amongst the most feared beasts of Hyperborea. These
+cephalopods are notorious for attacking and sinking
+ships. Also they will lurk beneath crafts, anchor two
+arms to the hull, and then attack with eight arms,
+snatching seamen upon whom to snack. The most
+powerful of these beasts are known to have crushed
+ships in their arms.
+Special:
+¬¬ A successful hit is followed by 2d6 hp damage per
+round from constriction and toothed suckers
+(4d6 hp damage for colossal squids). For each
+attached arm, the victim suffers a −1 attack penalty.
+¬¬ If two or more arms enwrap the same creature,
+victim is pulled to the beaked mouth of the beast
+for its bite attack, which causes 2d8 hp damage
+(4d8 hp damage for colossal squids).
+¬¬ An arm struck for 8 hp damage (16 hp for colossal
+squids) is severed or rendered useless (the only
+means of breaking free of their grasp). A crippled
+arm does not detract from the monster’s overall hit
+point total.
+¬¬ If a squid loses five or more arms, it jets away at ×3
+movement whilst releasing a cloud of ink that fills a
+100 × 100 × 100-foot cube of water behind it.
+¬¬ If a giant squid attacks a small ship and hits with
+six or more arms, it will capsize and sink the vessel
+in 2d4 rounds. A colossal squid can do the same to
+vessels of any size.

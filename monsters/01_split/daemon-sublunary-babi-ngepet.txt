@@ -1,0 +1,36 @@
+DÆMON, SUBLUNARY, BABI-NGEPET
+(Swine Dæmon) (Undead Type 13)
+No. Encountered: 1
+Alignment: Chaotic Evil
+Size: M
+Movement: 40
+Dexterity: 10
+Armour Class: 3
+Hit Dice: 9
+Attack Rate: 1/1 (gore)
+Damage: 2d6
+Saving Throw: 12
+Morale: 9
+Experience Points: 1,500
+Treasure Class: E
+From some frightful netherworld hail these shapeshifting
+dæmons that prey on man wherever he is most
+vulnerable. Babi-ngepet are devourers of human flesh,
+able to assume the forms of giant hogs five feet long,
+three feet at the shoulder, and weighing as much as 650
+pounds; or they may take the shape of enormously fat
+men of ruddy porcine countenances. Their dæmonic
+powers allow them to shape-shift freely at night, but
+once dawn breaks they are cursed to maintain until
+dusk whichever form they last selected. In Hyperborea
+(and perhaps elsewhere), babi-ngepet have engaged in
+unspeakable relations with dæmon-worshipping Picts,
+and so was born the orc race.
+Special:
+¬¬ 7-in-20 spell resistance versus CA 12 casters. For
+every CA level less than 12, the chance-in-twenty
+increases by one (+1) (see Vol. III, p. 261: Saving
+Throw, spell resistance).
+¬¬ Harmed only by silver or magical weapons.
+¬¬ Can cast charm person thrice per day; sorcery save at
+−2 penalty.

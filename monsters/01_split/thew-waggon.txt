@@ -1,0 +1,53 @@
+THEW WAGGON
+No. Encountered: 2d6
+Alignment: Neutral
+Size: L
+Movement: 20
+Dexterity: 4
+Armour Class: 4
+Hit Dice: 10
+Attack Rate: 1/1 (slam)
+Damage: 1d10
+Saving Throw: 12
+Morale: 8
+Experience Points: 1,300
+Treasure Class: —
+Thew waggons are 8- to 12-foot cubes of dense,
+corrugated muscle that weigh as much as 4,000
+pounds. Small of brain and sluggish of temperament,
+these swamp-dwelling behemoths bristle with barbed
+quills of up to 12-inch length. They ambulate by rotating
+their underbelly muscles.
+In the bogs of Hyperborea, enterprising men have
+tamed thew waggons to serve as transports. First, onto
+the end of the beast’s snout is attached a large syrup
+sack that contains decayed vegetal matter laced with
+ground lotus petals; effectively this fragrance placates
+the beast. Next comes quill extraction, a painstaking
+process that must be repeated with some regularity.
+Once properly tamed, the thew waggon is fitted with
+a harness system, which secures a carriage house
+atop its back and fastens a tow bar to extend from the
+beast’s posterior. Next, the “leg” muscles are made to
+grip heavy wooden axles, to which massive wheels are
+set. This entire process yields a most uncanny freight
+engine with torque unmatchable. The “driver” sits in
+the carriage and employs a long iron rod, which he
+presses betwixt the folds of muscle that line the beast’s
+back, touching nerves that stimulate specific responses:
+stop, go, left, right, and so forth.
+Thew waggons are herbivores; they feed on decayed
+plant matter using the tubular snouts that extend
+from their anterior masses. These beasts fear little, but
+if threatened they will shake their quills, slam their
+bulks against the ground, and release nauseating musk.
+Sufficiently this behaviour drives away all but the most
+tenacious predators.
+Special:
+¬¬ Can release musk thrice per day; nauseates and
+burns the eyes, nose, and throat of any within 30
+feet, unless death (poison) saves are made. Victims
+suffer −4 penalties on attack rolls and saving
+throws for 1d4 turns.
+¬¬ Bodily contact with barbed quills inflicts 3d4 hp
+damage.

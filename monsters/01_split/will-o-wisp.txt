@@ -1,0 +1,34 @@
+WILL-o’-WISP
+No. Encountered: 1
+Alignment: Chaotic Evil
+Size: S
+Movement: 0 (fly 60)
+Dexterity: 17
+Armour Class: −6
+Hit Dice: 8
+Attack Rate: 1/1 (touch)
+Damage: 2d8
+Saving Throw: 13
+Morale: 7
+Experience Points: 1,080
+Treasure Class: Z
+These haunting creatures manifest during nocturnal
+hours, appearing as phosphorescent balls of light
+(e.g., yellow, green, saffron, violet) in bogs, swamps,
+marshes, or other places of desolation; too, they
+might be encountered in dungeon labyrinths. Always
+encountered solitarily, each will-o’-wisp comprises
+from one to six balls of light that range from one to two
+feet in diameter. A will-o’-wisp will flit about playfully,
+feigning to be a playful færie and throbbing lovely
+colour displays whilst emitting a peaceful hum. It will
+lure a victim to a pit, quicksand, or another trap; then it
+will attack, discharging powerful electricity that drains
+the victim of life.
+Special:
+¬¬ Immune to sorcery, save protection from evil, which
+will drive it away, and magic missile. Even a spell
+such as sanctuary will not stop a will-o’-wisp.
+¬¬ If reduced to 6 hp or fewer, the creature will turn
+pale blue and lead its conqueror(s) to its lair, which
+might contains its treasure.

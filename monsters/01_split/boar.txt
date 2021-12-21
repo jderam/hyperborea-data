@@ -1,0 +1,23 @@
+BOAR
+No. Encountered: 1d6 (2d6)
+Alignment: Neutral
+Size: M
+Movement: 50
+Dexterity: 10
+Armour Class: 7
+Hit Dice: 3+1
+Attack Rate: 1/1 (gore)
+Damage: 2d4
+Saving Throw: 15
+Morale: 9
+Experience Points: 90
+Treasure Class: —
+This is a wild pig with large tusks and ferocious
+temperament. Omnivorous and typically nocturnal,
+adults stand four feet high at the shoulder and weigh
+as much as 500 pounds. During periods of extended
+darkness, these creatures enjoy a population explosion,
+a bane to travellers and outland settlements.
+Special:
+¬¬ Initial gore as charge attack at +2 bonus to attack roll
+and double damage dice.

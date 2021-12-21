@@ -1,0 +1,32 @@
+TROLL
+No. Encountered: 1d4
+Alignment: Chaotic Evil
+Size: L
+Movement: 40
+Dexterity: 8
+Armour Class: 4
+Hit Dice: 6+2
+Attack Rate: 3/1 (claw / claw / bite)
+Damage: 1d6 / 1d6 / 2d6
+Saving Throw: 14
+Morale: 9
+Experience Points: 870
+Treasure Class: D
+These repulsively emaciated humanoids stand 8–10
+feet tall, with huge noses and beady black eyes. Their
+hairless, rubbery, wart-riddled skin is of jaundiced or
+glaucous complexion. They are perhaps the ugliest of
+humanoids, and their ways are equally cruel.
+Trolls speak the Common tongue of man. Typically they
+dwell in caves and dungeons, though they might lurk
+in old forests and other places of desolation. They enjoy
+preying on men, taking sadistic delight in capturing
+and tormenting their quarry before devouring it.
+Special:
+¬¬ Acute sense of smell; can scent prey within one
+mile, unless upwind.
+¬¬ Regeneration begins 3 rounds after sustaining
+damage, healing wounds at a rate of 3 hp per round,
+save fire or acid damage. Even if killed they will
+regenerate to life (unless all damage is via fire or
+acid), limbs reattaching or re-growing as necessary.

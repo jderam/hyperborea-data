@@ -1,0 +1,38 @@
+SLUG, GIANT
+No. Encountered: 1
+Alignment: Neutral
+Size: L
+Movement: 20
+Dexterity: 5
+Armour Class: 7
+Hit Dice: 12
+Attack Rate: 1/1 (bite)
+Damage: 1d12
+Saving Throw: 11
+Morale: 10
+Experience Points: 2,300
+Treasure Class: —
+In the depths of the subterranean underworld lurk
+these enormous, slimy molluscs. They can be 30 feet
+long and 10 feet in diameter, though they can squeeze
+through openings one-third their size. They are of pale
+grey colour, with white or yellow underbellies and eye
+stalks that extend up to five feet.
+Giant slugs can burrow through hard-packed earth and
+chew through wood with their acidic saliva. They are
+voracious eaters of animal and vegetal material, and
+they leave slimy, noxious trails in their wake. Giant
+slugs will pursue prey for several hours if necessary to
+sate their hunger.
+Special:
+¬¬ Corrosive acid spit once per round, as missile
+attack to range of 60. If acid hits, victim must
+make death (poison) save or die at once; even if
+save succeeds, victim suffers 3d10 hp damage,
+which includes massive scarring, a 2-in-6 chance of
+blindness, and consequent armour and equipage
+ruination (see Vol. III, p. 260: Saving Throw,
+item saving throws).
+¬¬ Immune to blunt weapon attacks (e.g., clubs,
+hammers, maces) unless magical; edged and
+pointed weapons are effective.

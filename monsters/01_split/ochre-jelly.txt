@@ -1,0 +1,35 @@
+OCHRE JELLY
+No. Encountered: 1
+Alignment: Neutral
+Size: L
+Movement: 10
+Dexterity: 5
+Armour Class: 8
+Hit Dice: 5
+Attack Rate: 1/1 (touch)
+Damage: 2d6
+Saving Throw: 14
+Morale: 12
+Experience Points: 275
+Treasure Class: —
+This large, yellow-brown amoeba oozes through caverns
+and dungeons seeking flesh and cellulose, which
+it devours by way of corrosive enzyme secretions.
+Ochre jellies can be as large as 1,000 cubic feet in size,
+though gelatinously stretched out over 20 or more feet.
+Although they are not believed to possess intelligence,
+they exhibit tactical prowess, cornering prey at dead
+ends, or surrounding prey by forming a circle or
+U-shape. Ochre jellies can squeeze through cracks or
+under doors. They can burn through cloth, wood, and
+plant material, but do not affect rock or metal.
+Special:
+¬¬ Harmed only by fire or cold; when ochre jelly is
+struck by weapons or lightning, a smaller one is
+created (e.g., a 2-HD ochre jelly that causes 1d6 hp
+damage), whilst the main body quickly regenerates,
+its capacities not reduced.
+¬¬ Will opt to attack opponents with the most
+exposed flesh first.
+¬¬ Corrodes cloth and leather on contact; plant and
+wood material is corroded in 1d4 rounds.

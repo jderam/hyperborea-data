@@ -1,0 +1,67 @@
+ANT, GIANT Giant Ant Giant Radioactive Ant
+No. Encountered: 1 (3d6) 2d4 (1d6×3)
+Alignment: Neutral Neutral
+Size: M M
+Movement: 60 60
+Dexterity: 12 13
+Armour Class: 3 3
+Hit Dice: 4 4
+Attack Rate: 1/1 (bite) 1/1 (bite)
+Damage: 1d8 1d8
+Saving Throw: 15 15
+Morale: 8 8
+Experience Points: 90 180
+Treasure Class: Q (×3), S Q (×4)
+Giant ants are black-and-red ants of from five- to eightfoot
+length, omnivorous and insatiably hungry for
+organic material (plant or animal, with a preference for
+flesh). Typically they lair in underground nests and will
+emerge to attack en masse, but encountering a solitary
+soldier returning to the nest
+is not unusual.
+Giant radioactive ants
+are giant ants that have
+been irradiated by green
+diamonds. They present
+with pale grey, translucent
+exoskeletons, under which
+their internal organs glow
+iridescent green, most
+notably the metasoma
+(posterior). Giant radioactive
+ants are carnivorous and
+insatiably hungry.
+Unlike other giant ants,
+these creatures display
+limited intelligence,
+communicating over vast
+distances via a warbling whistle emitted by their vibrating
+antennæ. This sound also can produce a mesmerizing
+effect (see below). Giant radioactive ants oft will
+congregate in threes, head-to-head, antennæ taking to
+a brighter, pulsating green glow. The significance of this
+activity is not yet understood.
+Special (giant ant):
+¬¬ Upon successful mandible bite, 2-in-6 chance the
+creature will arch its metasoma to sting the target at
++2 on the attack roll. If this attack hits, it causes 1 hp
+damage and delivers venom; make death (poison) save
+or suffer additional 2d8 hp damage.
+Special (giant radioactive ant):
+¬¬ Warbling whistle can be used to communicate with
+other giant radioactive ants within two miles, or it can
+be modified to mesmerize a single mammal within
+240 feet. The target must make a sorcery save or
+enter a trance, dropping anything held and blindly
+walking toward the whistler; he effectively presents
+a defenceless target to be devoured. The save is
+modified by willpower adjustment (see Vol. I, p. 9:
+Attributes, wisdom), if applicable.
+¬¬ Upon successful mandible bite, 1-in-6 chance
+the creature will arch its metasoma to sting the
+target at +2 on the attack roll. If this attack hits, it
+causes 1d3 hp damage and delivers a lethal dose of
+radiation; make death (radiation) save or die in 1d6
+turns. Even if death is averted, the victim suffers
+complete loss of hair within 24 hours; recurrent
+nausea results as well.

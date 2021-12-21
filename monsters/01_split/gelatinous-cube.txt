@@ -1,0 +1,27 @@
+GELATINOUS CUBE
+No. Encountered: 1
+Alignment: Neutral
+Size: L
+Movement: 10
+Dexterity: 5
+Armour Class: 8
+Hit Dice: 4
+Attack Rate: 1/1 (touch)
+Damage: 2d4
+Saving Throw: 15
+Morale: 12
+Experience Points: 180
+Treasure Class: J, K, L, M, N, Q, S
+This is a cubic monster composed of transparent jelly,
+typically measuring 10 feet per side. Gelatinous cubes
+dwell in subterranean depths, absorbing organic
+material; they are attracted to both carrion and living
+creatures. The corrosive properties of the jelly do not
+affect stone or metal, so coins, rocks, and even weapons
+exhibit, seemingly suspended within the transparent
+cube. At length the cube will discharge such items, as
+well as the bones of any creatures it absorbs.
+Special:
+¬¬ Immune to cold and electricity.
+¬¬ Hit causes paralysis for 2d4 turns unless death save
+is made.

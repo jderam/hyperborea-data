@@ -1,0 +1,77 @@
+LYCANTHROPE Wererat Werewolf Werewolf Superior
+No. Encountered: 2d6 1 (2d4) 1
+Alignment: Chaotic Evil Chaotic Evil Chaotic Evil
+Size: M M L
+Movement: 40 60 60
+Dexterity: 15 14 15
+Armour Class: 6 5 5
+Hit Dice: 3 4 6
+Attack Rate: 1/1 (bite or weapon) 3/1 (claw / claw / bite) 3/1 (claw / claw / bite)
+Damage: 1d4 (or per weapon) 1d4 / 1d4 / 2d4 1d6 / 1d6 / 2d6
+Saving Throw: 15 15 14
+Morale: 7 8 10
+Experience Points: 161 285 780
+Treasure Class: C B I
+Wererats are cunning lycanthropes that lair in
+dungeons, abandoned buildings, sewers, and
+basements. They can assume three different forms:
+that of a human, a rat-man, and a giant rat; however, on
+the three nights when Selene is full and the one night
+when Phobos is full (see Vol. VI, p. 500: Table 153),
+they transform into rat-man form, regardless of their
+wishes. Typically they use human form to dupe the
+ignorant into entering their lairs. Their rat-man form
+is a four- to five-foot humanoid with a rat’s head, a
+human body (albeit coated in rat fur), and a rat’s long
+tail; the above statistics reflect this form. In their giant
+rat form they have the statistics of a giant rat, but
+retain their current hit points and the Special abilities
+noted hereafter.
+A werewolf is a cursed man who transforms into a
+wolf-man at will, except during the three nights when
+Selene is full and the one night when Phobos is full (see
+Vol. VI, p. 500: Table 153), when the change occurs
+regardless of the werewolf ’s wishes. Werewolves are
+bipedal, standing five or more feet in height, with
+the fur of wolves. They have powerful legs, clawed
+hands, and elongated snouts with large fangs. Even as
+beasts they retain semi-intelligence, albeit violent and
+temperamental. The werewolf superior is perhaps the
+most potent lycanthrope: larger, more ferocious, and
+wickedly cunning. Often they lead other werewolves.
+Special (all):
+¬¬ Horses are keen to the presence of lycanthropes
+and will snort with fear when they approach.
+¬¬ Harmed only by silver or magical weapons.
+¬¬ If wolfsbane is wrapped about the point of a spear
+or like weapon, and a lycanthrope is struck, it
+must make a death (poison) save or flee in panic (or
+possibly cower and surrender).
+¬¬ Bite confers lycanthropy unless a death (poison)
+save is made.
+¬¬ If killed, lycanthrope
+reverts to human form.
+¬¬ Every 91 days, when
+both moons are full,
+all lycanthropes are
+especially ferocious,
+gaining +2 damage
+bonuses to every
+successful attack. During
+this period they also are
+enhanced temporarily
+by +2 hp per HD; these
+bonus hit points are
+deducted first when the
+lycanthrope is damaged,
+and they dissipate as the
+moons wane.
+Special (wererat):
+¬¬ Can summon 3d4 giant rats once per day, which
+arrive 1d4 rounds later.
+Special (werewolf ):
+¬¬ Can summon 1d4 wolves thrice per day, which
+arrive 1d4 rounds later.
+Special (werewolf superior):
+¬¬ Can summon 1d4 dire wolves thrice per day, which
+arrive 1d4 rounds later.
