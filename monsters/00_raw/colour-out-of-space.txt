@@ -1,0 +1,47 @@
+COLOUR out of SPACE
+No. Encountered: 1
+Alignment: Chaotic Evil
+Size: L
+Movement: 20
+Dexterity: 12
+Armour Class: 9
+Hit Dice: 10
+Attack Rate: 1/1 (touch)
+Damage: 1d6
+Saving Throw: 12
+Morale: 12
+Experience Points: 2,350
+Treasure Class: —
+These vampiric phenomena originate from unearthly
+dimensions, typically arriving via meteor. When
+the meteorite breaks open, the colour emerges,
+presenting as a thousand or more points of unhallowed
+phosphorescence, a multi-coloured swarm of dancing
+lights exuding palpable, nameless Evil. The colours
+dance like corpse-fed fireflies, touching living things
+and withering them, drawing their life essence.
+That these creatures possess intelligence is undisputed
+by sages, but their motives are unfathomable to
+even the most learned of men. Typically they hide by
+day in dark, wet places and then emerge by night to
+feed, flowing like sickening, auroral clouds of 10–40
+cubic feet in volume. They prefer to dwell in swamps
+or verdant woodlands, where organic material is
+abundant. Men, animals, and monsters are reduced
+to withered corpses at their touch, and plants wilt to
+brown, dry, lifeless things. The very sight of a colour
+out of space is reputed to effect madness in the viewer.
+N.B.: In Hyperborea, human sacrifices have been made
+to colours out of space, believed to bring blessings from
+Aurorus, “The Shining One”.
+Special:
+¬¬ Sight of this monster causes fear; make sorcery
+save or flee its presence, babbling, cursing,
+and frothing. The save is modified by willpower
+adjustment (see Vol. I, p. 9: Attributes, wisdom),
+if applicable. This effect lasts for 2d6 turns, though
+it is permanent for 0th-level characters.
+¬¬ Harmed only by silver or magical weapons.
+¬¬ Touch drains 1d2 levels of experience unless a
+death save is made (see Vol. III, p. 263: Special
+Damage, energy drain).

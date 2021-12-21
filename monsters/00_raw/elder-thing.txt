@@ -1,0 +1,61 @@
+ELDER THING (Elder One, Old One)
+No. Encountered: 1d8
+Alignment: Chaotic Evil
+Size: L
+Movement: 40 (fly / swim 60)
+Dexterity: 11
+Armour Class: 2
+Hit Dice: 6+6
+Attack Rate: 5/1 (pummel ×5)
+Damage: 1d4+4 (×5)
+Saving Throw: 14
+Morale: 12
+Experience Points: 870
+Treasure Class: Q (×10)
+This alien being has a perpendicular, cylindrical body
+of eight-foot height. Its dark grey torso of three-foot
+diameter (tapering to one foot at the ends) is vertically
+ridged, with thick, leathery skin. A pair of seven-foot,
+membranous wings (for flight and aquatic locomotion)
+extends from betwixt the vertical ridges. From amongst
+the ridges of the equator project five thin, flexible arms
+that can stretch up to three feet; each arm has five sticky
+tentacles of eight-inch length.
+From the top of the torso extends a bulbous, gilled neck.
+The starfish-shaped head is covered with prismatic cilia,
+and from each point of the star projects a yellow tube
+capped with a large, glassy eye. At the bottom of the
+torso depend five powerful, greenish tentacles, each
+terminating in a triangular fin or pseudo-foot.
+Elder things thrive on land or water—even in the vacuum
+of space. They were the first otherworldly race to arrive on
+Old Earth when it was a steaming, volcanic husk; some
+sages speculate that these aliens, by accident or design,
+sowed its primordial seas with the first cells of life. The
+elder things built vast stone cities on land and in the
+ocean depths. At length they factionalized and warred
+with one another (and also with the crab-men, fishmen,
+Great Race, and mi-go), but their own genetically
+created slaves, the shoggoths, rebelled against the elder
+things and nearly obliterated them. Over millennia the
+remaining elder things regressed to insane savagery.
+Some sages posit that they became infected with a
+disease causing a sharply regressed mental state.
+Presently few elder things remain in Hyperborea;
+occasionally they thaw from ancient glacial ice, or
+wake from ages-long hibernation. When they emerge
+they present as wroth beasts, savage and bloodthirsty,
+completely bereft of their previous super-intelligence.
+Typically they emit horrific piping sounds whilst
+spinning like tops and flailing with their five base
+tentacles.
+Special:
+¬¬ Immune to cold and airless vacuum.
+¬¬ Once per turn, can release a terrifying piping sound
+that inspires a fear effect (as the spell); sorcery save
+to resist. Once the fear ends, a second sorcery save is
+required; if it fails, 1d3 forms of insanity manifest
+(see Vol. III, p. 264: Special Damage, madness).
+Both saving throws are modified by willpower
+adjustment (see Vol. I, p. 9: Attributes, wisdom),
+if applicable.

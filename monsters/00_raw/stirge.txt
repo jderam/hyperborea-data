@@ -1,0 +1,31 @@
+STIRGE
+No. Encountered: 2d6 (4d6)
+Alignment: Chaotic Evil
+Size: S
+Movement: 10 (fly 60)
+Dexterity: 10
+Armour Class: 7
+Hit Dice: 1
+Attack Rate: 1/1 (sting)
+Damage: 1d3
+Saving Throw: 16
+Morale: 8
+Experience Points: 19
+Treasure Class: D
+This hated magical beast is the result of sorcery: a
+small, feathered, volucrine monster up to 12 inches in
+length, with a long, bloodsucking proboscis (not unlike
+that of a massive mosquito) and pteropine wings. They
+are egg-bearing creatures, feeding on the blood of their
+victims (typically mammals) and regurgitating it onto
+their eggs. They are attracted to blood and sweat, the
+scent of which they can detect half a mile away. When
+they strike, they plunge their proboscises into their
+prey and proceed to drain blood until sated. Stirges oft
+are found in forests and swamps, particularly where
+ground sloths and thew waggons dwell, but they also
+are encountered in cavernous dungeon depths.
+Special:
+¬¬ +2 bonus on initial attack roll.
+¬¬ Drains victim for 1d4 hp damage per round; after
+about 12 hp, the sated stirge flies away.

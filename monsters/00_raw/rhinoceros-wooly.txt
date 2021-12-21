@@ -1,0 +1,32 @@
+RHINOCEROS, WOOLLY
+No. Encountered: 1 (3d4)
+Alignment: Neutral
+Size: L
+Movement: 40
+Dexterity: 6
+Armour Class: 3
+Hit Dice: 10
+Attack Rate: 2/1 (gore / trample)
+Damage: 2d8 / 4d6
+Saving Throw: 12
+Morale: 10
+Experience Points: 1,300
+Treasure Class: —
+These massive animals grow to 15 feet long and 8 feet at
+the shoulder, weighing as much as 7,500 pounds. Their
+enormous heads are adorned with pairs of massive
+horns that project from the anterior of their skulls.
+Woolly rhinoceroses are covered with plates, whence
+grows dense, shaggy fur (usually white). They thrive
+in the least hospitable of Hyperborean climates, using
+their massive horns to dig out vegetation from under
+the snow and ice. Woolly rhinos are temperamental and
+aggressive; when they see men, they charge to kill, for
+they are savvy to his spears and arrows.
+Special:
+¬¬ Initial attack is charging gore and trample, so long
+as rhino has at least 50-foot running start. It can
+trample from one to four enemies (assuming each
+is within five feet of one another), whilst goring
+one with its horn. Charging gore inflicts double
+damage dice; trample damage is standard.

@@ -1,0 +1,76 @@
+LICH (Undead Type 12)
+No. Encountered: 1
+Alignment: Lawful Evil
+Size: M
+Movement: 20
+Dexterity: 7
+Armour Class: 0
+Hit Dice: 12
+Attack Rate: 1/1 (claw)
+Damage: 1d10
+Saving Throw: 11
+Morale: 11
+Experience Points: 4,300
+Treasure Class: U
+A lich is the mummified body of a
+powerful sorcerer, knight, overlord,
+or king who chose a path to (or
+was made to suffer) unspeakable
+atrocities. Imbued with the power of
+dæmonkind, liches are gaunt, fleshless
+undead who wear tattered robes or sere
+cloth gowns, oft with golden crowns
+set with such gems as sapphires and
+orange rubies. Too, their taloned
+fingers are laden with glimmering
+gems, and their eyes burn like coals
+of hellfire. These dread souls know
+naught but burning malevolence. They
+are possessed of high intelligence;
+through their dogged machinations,
+they have been known to control the
+fates of cities and nations from their
+lofty perches in castles or towers of
+stone.
+Liches crave power and delight in
+cruelty of a most sadistic species.
+However, some are shells of their
+former selves, walking open and
+deserted lands seemingly without
+purpose until at length they chance
+upon prey; others are of epochs so long
+past, their memories so faded, that
+they are disconnected even from their
+own wickedness and will approach
+and then pass potential victims. Liches
+always are encountered alone, but one
+may ride a nightmare as a mount.
+N.B.: The riches held by a lich (e.g.,
+crown, rings) typically amount to no
+less than 5,000 gp in value, but may be
+cursed in some fashion as the referee
+might conceive.
+Special:
+¬¬ At the sight of a lich, any creature with fewer than 6 HD must
+make a sorcery save, failure indicating it flees in panic (d6, 1–3) or
+is paralyzed with fear (d6, 4–6). The save is modified by willpower
+adjustment (see Vol. I, p. 9: Attributes, wisdom), if applicable.
+¬¬ Immune to poison, paralysis, fear, polymorph spells, and cold-,
+electricity-, or death-based magic; also unaffected by the spells of
+any sorcerer of CA 5 or lower.
+¬¬ +1 or better weapon to hit.
+¬¬ Any victim struck by a lich must make a death save or become
+paralyzed for 2d6 turns.
+¬¬ Whether or not they functioned as sorcerers in life, liches
+are imbued with the sorcery ability of a 12th-level magician or
+necromancer. The referee can select spells accordingly
+(5 × level 1, 5 × level 2, 4 × level 3, 4 × level 4, 3 × level 5, 2 × level 6),
+or use the following default selections:
+÷÷ Level 1: decipher language, detect magic, identify, protection from
+good, shocking grasp
+÷÷ Level 2: darkness ×2, ray of enfeeblement ×2, summon dæmon I
+÷÷ Level 3: dispel magic, hold person, lightning bolt, slow
+÷÷ Level 4: bestow curse, dimension door, mirror, mirror, polymorph
+other
+÷÷ Level 5: beckon, cloudkill, magic jar
+÷÷ Level 6: disintegrate, freezing sphere

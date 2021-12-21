@@ -1,0 +1,42 @@
+DÆMON, GREATER, CLASS II (Undead Type 13)
+No. Encountered: 1d3
+Alignment: Chaotic Evil
+Size: L
+Movement: 20 (swim 40)
+Dexterity: 11
+Armour Class: −2
+Hit Dice: 9
+Attack Rate: 3/1 (claw / claw / bite)
+Damage: 1d8 / 1d8 / 2d6
+Saving Throw: 12
+Morale: 9
+Experience Points: 2,100
+Treasure Class: C
+These abominable dæmons are vaguely humanoid in
+shape, though froglike of countenance, with slimy,
+warty skin, bulging black eyes, distended bellies, and
+batrachian legs upon which they stand upright. Their
+webbed fingers are taloned black, and their mouths
+are lined with double rows of shark-like triangular
+teeth. These dæmons are incredibly violent (including
+towards one another), and they relish the taste of
+human flesh. They only dwell in the world of men
+because someone (or something) has beckoned them
+forth.
+Special:
+¬¬ 8-in-20 spell resistance versus CA 12 casters. For
+every CA level less than 12, the chance-in-twenty
+increases by one (+1) (see Vol. III, p 261: Saving
+Throw, spell resistance).
+¬¬ Cold, electricity, fire, and gas attacks inflict ½
+damage, or ¼ damage if save is made.
+¬¬ Can cast the following spells at will (though only
+one at a time): cause fear (reverse of remove fear),
+darkness, detect invisibility, infrared vision, levitate,
+telekinesis, teleport (without error).
+¬¬ Once per day, can attempt to beckon another
+class II greater dæmon to fight alongside it (as
+reverse of dismissal), with 2-in-6 chance of success.
+Alternatively, it can attempt to summon 1d6 class
+ii lesser dæmons or 1d4 class iii lesser dæmons,
+with 4-in-6 chance of success.

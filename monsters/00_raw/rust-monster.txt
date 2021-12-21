@@ -1,0 +1,36 @@
+RUST MONSTER
+No. Encountered: 1 (1d4)
+Alignment: Neutral
+Size: M
+Movement: 40
+Dexterity: 12
+Armour Class: 2
+Hit Dice: 5
+Attack Rate: 1/1 (antennæ)
+Damage: —
+Saving Throw: 14
+Morale: 7
+Experience Points: 175
+Treasure Class: Q (×10)
+These large, armadillo-like creatures consume rust,
+which they cause by way of rapid, magically induced
+oxidization. The creatures average from three to four
+feet in length and weigh as much as 165 pounds. They
+each have a pair of long antennæ that radiate up to
+three feet from their heads; these “feelers” seek out iron
+or steel, which they infect with rust on contact. Rust
+monsters then attempt to consume that which they
+rust. If attacked, they defend themselves by ramming
+their heavy plated bodies against their opponents
+(i.e., an overbear attack; see Vol. III, p. 248: Combat
+Actions, melee), but they much prefer to steal away
+with their provender when possible.
+Special:
+¬¬ When contact with metal is made, rust effect is
+immediate. Metal armour and weapons are at once
+oxidized to complete disrepair. Magical armour and
+weapons have a 1-in-6 chance per “plus” to not be
+affected; e.g., a +2 short sword has a 2-in-6 chance
+to resist the effect. Such magic items are not rusted
+immediately if the check fails; rather they lose one
+“plus” per successful hit that is not resisted.

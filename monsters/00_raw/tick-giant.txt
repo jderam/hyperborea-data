@@ -1,0 +1,31 @@
+TICK, GIANT
+No. Encountered: 1d6 (3d12)
+Alignment: Neutral
+Size: S
+Movement: 20
+Dexterity: 5
+Armour Class: 3
+Hit Dice: 3
+Attack Rate: 1/1 (bite)
+Damage: 1d4
+Saving Throw: 15
+Morale: 12
+Experience Points: 107
+Treasure Class: —
+These parasitic arachnids lurk in forests, caves, and
+caverns. They are oval in shape, measure up to three
+feet in diameter, and possess strong exoskeletons. They
+lurk in branches, under foliage, or on cavern ceilings,
+waiting to lurch or drop upon their warm-blooded
+victims. Their bite is venomous.
+Special:
+¬¬ Chance to surprize increased by 1-in-6 when
+dropping from a tree or another suitable hiding
+place.
+¬¬ Bite transmits venom; make death (poison) save at
++2 bonus or suffer paralysis for 1d2 turns.
+¬¬ Tick remains attached once bite is established,
+draining blood for 1d6 hp damage per round until
+either victim or tick is dead.
+¬¬ Can be driven off with fire; 3-in-6 chance it releases
+if already attached.

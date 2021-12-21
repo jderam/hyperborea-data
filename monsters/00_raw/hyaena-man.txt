@@ -1,0 +1,54 @@
+HYÆNA-MAN
+(Gnoll) Hyæna-Man Leader
+No. Encountered: 1d6 (6d6) 1:20
+Alignment: Chaotic Evil Chaotic Evil
+Size: M M
+Movement: 30 30
+Dexterity: 9 12
+Armour Class: 5 5
+Hit Dice: 2+2 4+4
+Attack Rate: 1/1
+(bite or weapon)
+1/1 (bite) or
+3/2 (weapon)
+Damage: 1d4+1
+(or per weapon +1)
+1d4+1
+(or per weapon +2)
+Saving Throw: 16 15
+Morale: 8 9
+Experience Points: 35 150
+Treasure Class: L, M; D, Q (×5), S L (×2), M (×2)
+Hyæna-men are seven-foot-tall humanoids of from
+low to moderate intelligence. They are covered in thick
+brown or white fur (depending on environment) and
+have the heads of hyænas. They carry the weapons of
+men and gird themselves in armour, though they are
+poor manufacturers of such armaments.
+Hyæna-men are wild carnivores, sadistic in their
+pleasures, excited by fear, and unhesitating cannibals.
+When incited, they emit terrifyingly hysterical
+laughter. Their language (a combination of barks
+and yips) is
+unintelligible to
+most men.
+A hunting
+group of 1d6
+hyæna-men
+might be
+encountered,
+or a tribe of
+6d6. Typically
+they venerate
+Mordezzan,
+though tundradwelling
+tribes
+will offer sacrifices
+to Ythaqqa. For every
+20 hyæna-men there
+will be a dominant
+hyæna-man leader
+that stands up to
+eight feet in height, a
+paragon of ferocity and
+madness.

@@ -1,0 +1,55 @@
+BASILISK
+No. Encountered: 1 (1d2)
+Alignment: Neutral
+Size: L
+Movement: 20
+Dexterity: 9
+Armour Class: 4
+Hit Dice: 6+4
+Attack Rate: 1/1 (bite)
+Damage: 2d6
+Saving Throw: 14
+Morale: 9
+Experience Points: 1,050
+Treasure Class: F
+A magical beast of legendry, this large, eight-legged
+reptile typically dwells in caverns or thick, tangled
+forests. Those who meet its gaze or touch its hide
+are turned to stone.
+The basilisk is about
+10 feet long (not
+including tail),
+with dun-coloured
+scales and a yellow
+underbelly. Its jaws
+are lined with sharp
+teeth, and its eyes are
+large, blue-green, and
+somewhat lamp-like.
+With their eight short
+and powerful legs,
+basilisks can scale
+vertical surfaces to the
+caves within which
+they build their nests;
+oft these caves appear
+to be statuaries of
+the men and beasts
+that daringly (or
+unwittingly) entered
+the monsters’ lairs.
+Special:
+¬¬ Meeting its gaze or touching its
+hide causes one to turn to stone unless
+a transformation save is made. Surprized
+combatants almost always (5-in-6 chance) look in
+the basilisk’s eyes. Combatants in melee combat
+with the creature can look away, but doing so
+causes their attack rolls and armour class to be at
+−2 penalties.
+¬¬ The basilisk can be turned to stone if it sees its
+reflexion in a mirror; of course, effectively using
+a mirror requires sufficient lighting. The base
+chance of success is 2-in-6, subject to the referee’s
+discretion. The basilisk must make a transformation
+save to avoid the effect.

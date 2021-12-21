@@ -1,0 +1,31 @@
+CYCLOPS
+No. Encountered: 1 (2d4)
+Alignment: Chaotic Evil
+Size: L
+Movement: 30
+Dexterity: 7
+Armour Class: 5
+Hit Dice: 12
+Attack Rate: 1/1 (weapon)
+Damage: 4d6
+Saving Throw: 11
+Morale: 9
+Experience Points: 1,700
+Treasure Class: C
+Cyclopes are a race of giant, one-eyed humanoids,
+typically standing 20 feet in height. They savour the
+flesh of men, taking exceptional pleasure in cruelty and
+torment. The cyclops’ single eye is large and centred in
+the middle of its forehead. Some present horned heads
+as well, typically with a single horn, but sometimes
+with two. Typically cyclopes will fight with massive
+clubs or spears, though they are also expert rock
+hurlers.
+Cyclopes usually live alone or in small family
+groups, oft in a cave or on an island. Although of low
+intelligence and naïve to the tricks of men, they can
+raise cattle and grow vegetables. Most speak a proto-
+Hellenic dialect and/or the Common tongue.
+Special:
+¬¬ Can hurl a boulder to a range of 100 (or to 200 at a
+−2 penalty) for 3d8 hp damage.

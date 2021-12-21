@@ -1,0 +1,60 @@
+TIGER Tiger Sabre-Tooth
+(Smilodon)
+Sabre-Tooth
+Superior
+No. Encountered: 1 (1d4) 1 (1d4) 1
+Alignment: Neutral Neutral Neutral
+Size: M L L
+Movement: 50 50 40
+Dexterity: 14 14 15
+Armour Class: 6 6 5
+Hit Dice: 6 8 10
+Attack Rate: 3/1 (claw / claw / bite) 3/1 (claw / claw / bite) 5/1 (claw ×4 / bite)
+Damage: 1d6 / 1d6 / 2d6 1d6+1 / 1d6+1 / 2d8 1d8+2 (×4) / 2d10
+Saving Throw: 14 13 12
+Morale: 8 8 9
+Experience Points: 420 840 1,300
+Treasure Class: — — —
+A tiger is a great striped cat that inhabits the
+grasslands and woodlands of Hyperborea. Whitecoated
+tigers with black or brown stripes are the norm
+in the grasslands and tundra, whereas tigers of yellowbrown
+coats and black stripes roam the woodlands.
+Adult males typically measure eight feet long (plus tail)
+and weigh as much as 650 pounds; adult females are
+about three-quarters this size.
+A sabre-tooth is an enormous and powerful cat built
+for strength; it has short limbs, a thick, powerful
+body, and curved canine teeth of 10-inch length. The
+hindquarters are striped, the front thickly furred with
+spots. Adults measure up to 10 feet long (plus tail)
+and 4 feet at the shoulder,
+weighing 800 pounds.
+Hunters of giant elk, woolly
+mammoths, and musk oxen,
+these great cats range over
+plains and tundra, scarcely
+finding men worth their
+efforts, but they will attack if
+desperate or incited.
+The sabre-tooth superior is
+the largest of the great cats.
+This six-legged beast has stout
+limbs and a thick, heavily
+muscled back. Adults measure
+up to 12 feet long (plus tail)
+and 5 feet at the shoulder,
+weighing 1,200 pounds. Their
+coats are tan and spotted,
+and their canine teeth are 12 inches long. These are the
+most feared predators of the Hyperborean steppes,
+taking down the largest herbivores—as well as other
+carnivores. Usually they ignore men, unless desperate
+or threatened. They typically rear up on their hind legs
+when fighting, rending with their front four claws.
+Special (all):
+¬¬ All tigers are superior stalkers; chance to surprize
+increased by 2-in-6.
+Special (tiger and sabre-tooth):
+¬¬ If both claw attacks hit, the cat automatically rakes
+with its two rear claws for 2d4 hp damage each.

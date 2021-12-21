@@ -1,0 +1,43 @@
+GHOST, BANSHEE (Baobhan Sith) (Undead Type 10)
+No. Encountered: 1
+Alignment: Chaotic Evil
+Size: M
+Movement: 20 (fly 50)
+Dexterity: 12
+Armour Class: 0
+Hit Dice: 7
+Attack Rate: 1/1 (touch)
+Damage: 1d10
+Saving Throw: 13
+Morale: 10
+Experience Points: 1,110
+Treasure Class: D
+Two different types of banshee are known; both
+are hazy, ghostly manifestations of a female spirit.
+The first is the benevolent sort (typically a Keltic
+ancestor spirit) that will warn of an impending death
+in the family; this warning is made obvious by the
+banshee’s long and frightful wail, or keening. The
+second is the one represented in the above statistics:
+a malevolent phantom of different purpose. These
+frightful apparitions loathe the living. Typically they
+lurk in places of ruin, or locales where misfortune has
+transpired. Malevolent banshees use their keening
+power to slay the living.
+Special:
+¬¬ Sight causes fear, unless sorcery saves are made.
+The saves are modified by willpower adjustment (see
+Vol. I, p. 9: Attributes, wisdom), if applicable.
+If failed, victims flee for 2d6 rounds; if fleeing not
+possible, victims cower and weep.
+¬¬ Immune to poison, paralysis, fear, cold, and
+electricity.
+¬¬ The spell perform exorcism destroys a banshee.
+¬¬ Harmed only by silver or magical weapons.
+¬¬ Touch attack (the above-noted 1d10 hp damage) is
+considered cold damage.
+¬¬ Once per day, and only in darkness, can emit a wail
+that slays living creatures within 30-foot radius,
+unless death saves are made; victims die of heartstopping
+fear, so willpower adjustment applies (see
+Vol. I, p. 9: Attributes, wisdom).

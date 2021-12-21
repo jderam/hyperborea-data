@@ -1,0 +1,36 @@
+GIANT, FROST Frost Giant Jarl
+No. Encountered: 1d2 (2d10) 1:12
+Alignment: Chaotic Evil Chaotic Evil
+Size: L L
+Movement: 40 40
+Dexterity: 7 6
+Armour Class: 4 4
+Hit Dice: 10 14
+Attack Rate: 1/1 (weapon) 1/1 (weapon)
+Damage: 4d6 5d6
+Saving Throw: 12 10
+Morale: 9 10
+Experience Points: 1,300 2,500
+Treasure Class: E Q (×5)
+Frost giants are the true sons of Ymir, with ice-blue skin
+and red or yellow hair. They stand some 16 or more feet
+in height and weigh as much as 2,000 pounds. They are
+known to train winter wolves or polar bears to hunt or
+to guard their dwellings: labyrinthine ice caverns or vast,
+mountaintop castles.
+Frost giants are cruel, hateful humanoids. In Hyperborea
+they are the natural enemies of Vikings, who believe
+Ymir spawns frost giants in his image to challenge their
+strength and loyalty. Frost giants work enormous forges,
+able to craft massive weapons of iron and steel; also they
+enslave dwarfs to forge for them. They are particularly
+fond of axes and hammers. Larger clans will have a
+prominent jarl, a 20-foot-tall, 3,000-pound frost giant of
+enormous girth and greater wickedness; for every 12 frost
+giants there is 1 jarl. Frost giants speak Old Norse and the
+Common tongue.
+Special:
+¬¬ Immune to cold.
+¬¬ Vulnerable to fire: +1 hp per die of damage.
+¬¬ Can hurl a boulder to a range of 150 (or to 300 at a
+−2 attack penalty) for 3d6 hp damage.

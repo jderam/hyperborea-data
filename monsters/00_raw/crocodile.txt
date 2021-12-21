@@ -1,0 +1,42 @@
+CROCODILE Crocodile Giant Crocodile
+No. Encountered: 1d6 1
+Alignment: Neutral Neutral
+Size: L L
+Movement: 30 (swim 40) 40 (swim 50)
+Dexterity: 10 9
+Armour Class: 3 0
+Hit Dice: 5 12
+Attack Rate: 1/1 (bite) 1/1 (bite)
+Damage: 2d8 3d12
+Saving Throw: 14 11
+Morale: 7 9
+Experience Points: 275 2,300
+Treasure Class: — —
+Crocodiles are semi-aquatic, predatory reptiles with
+long jaws and tails, short legs, and horny, textured skin.
+Often they dwell in or near water (fresh or salt) and will
+submerse themselves so as to sneak up on prey. Typical
+specimens are of about 20-foot length. In Hyperborea,
+crocodiles scarcely are found about the main continent;
+they inhabit the tropical isles at the Rim of the World.
+Giant crocodiles of 50-foot length lurk in the sea,
+though sometimes in coastal marshlands. They are
+notorious for tearing open the hulls of ships.
+Special (crocodile):
+¬¬ On any successful bite that delivers 9+ hp damage,
+a crocodile holds its victim and goes into a death
+spin, causing an additional 3d4 hp damage per
+round. In water waist deep or greater, the victim
+risks drowning (see Vol. III, p. 263: Special
+Damage, asphyxia). Escaping a death spin requires
+an extraordinary feat of strength (see Vol. I, p. 7:
+Attributes, strength).
+Special (giant crocodile):
+¬¬ On a natural 19 or 20 attack roll, the giant crocodile
+swallows its victim whole, inflicting 1d6 hp damage
+per round thereafter; after 3 rounds, the victim may
+asphyxiate (see Vol. III, p. 263: Special Damage,
+asphyxia). Swallowed prey can cut its way out with
+a WC 1–3 blade, with an attack penalty equal to
+the weapon class. If 12 hp damage is inflicted from
+within, a large enough rent is cut for escape.

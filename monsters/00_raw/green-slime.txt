@@ -1,0 +1,39 @@
+GREEN SLIME
+No. Encountered: 1
+Alignment: Neutral
+Size: S
+Movement: 0
+Dexterity: —
+Armour Class: —
+Hit Dice: 2
+Attack Rate: 1/1 (touch)
+Damage: —
+Saving Throw: 16
+Morale: 12
+Experience Points: 100
+Treasure Class: —
+This formless terror appears as a green, dripping, algal
+growth. In colonies it exists in subterranean dungeons
+and wet caverns, where it seeks warm-blooded creatures
+to use as hosts from which to feed and multiply. Often
+a green slime colony dwells in ceiling cracks, waiting to
+fall upon unsuspecting prey.
+The creature dissolves all material except stone. It burns
+through clothing in 2 rounds, through leather in 4
+rounds, and through metal in 6 rounds; likewise, weapons
+that contact green slime are destroyed in 6 rounds. Once
+contact with flesh is established, at once the green slime
+begins to transform its host. N.B.: These creatures are
+listed with movement 0 but in fact they can move about
+12 inches per day, positioning themselves advantageously.
+Special:
+¬¬ Unharmed by all weapons and spells, except fire and
+cold. If a fire or cold spell is used against a slime that
+is affixed to a victim, the creature and victim both
+suffer full normal damage. (Each is allowed a saving
+throw, if applicable.)
+¬¬ Cure disease destroys a green slime.
+¬¬ Once flesh is contacted, victim becomes green slime
+in 1d4 rounds; no saving throw is allowed.
+¬¬ Effects avoided if scraped off within 1 round of
+contact and scraping tool is then cast aside.

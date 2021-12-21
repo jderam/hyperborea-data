@@ -1,0 +1,65 @@
+DÆMON, SUBLUNARY, GHUL
+(Desert Dæmon) (Undead Type 13)
+No. Encountered: 1
+Alignment: Lawful Evil
+Size: L
+Movement: 50
+Dexterity: 17
+Armour Class: 2
+Hit Dice: 9+6
+Attack Rate: 3/1 (claw / claw / bite)
+Damage: 1d4+4 / 1d4+4 / 2d6
+Saving Throw: 12
+Morale: 9
+Experience Points: 3,400
+Treasure Class: E
+In their natural state, these shape-shifting dæmons
+present as emaciated humanoids of from seven- to
+nine-foot height, with cadaverously pale skin, stringy
+hair, and black, sunken eyes. Their long arms end
+in blood-red talons, and their double-rowed teeth
+triangulate like those of a shark. Ghuls dwell in deserts
+and tundra; highly intelligent and manipulative, they
+oft assume positions of leadership over lesser species
+such as hyæna-men, orcs, and vhuurmis. Ghuls are
+loathed by most men, notorious for robbing graves
+from which they either take their provender or, in some
+cases, utilize a cadaver for baleful necromancies and
+other foul rites. Ghuls are noted
+servants of Mordezzan, and when
+in the dead of night they arrive
+in charnel houses, the black
+priests of Mordezzan
+will lavish upon the
+dæmons all their
+unspeakable
+desires.
+Special:
+¬¬ 4-in-20 spell resistance versus CA 12 casters.
+For every CA level less than 12, the chancein-
+twenty increases by one (+1) (see Vol.
+III, p. 261: Saving Throw, spell resistance).
+¬¬ Immune to death magic.
+¬¬ Cold, electricity, fire, and gas attacks
+inflict ½ damage, or ¼ damage if save is
+made.
+¬¬ Harmed only by silver or magical
+weapons.
+¬¬ Can command undead at TA 9 capacity (see
+Vol. III, p. 252: Combat Actions, magic).
+¬¬ Once per day, can summon 1d6 ghouls,
+arriving 1d4 rounds later, with 1-in-6
+chance that one is a ghast.
+¬¬ A ghul has the sorcery ability of a 9th-level
+necromancer. The referee can select spells
+accordingly (5 × level 1, 4 × level 2,
+3 × level 3, 2 × level 4, 1 × level 5),
+or use the following default selections:
+÷÷ Level 1: animate carrion, command,
+locate the dead, protection from good,
+scare
+÷÷ Level 2: darkness, forest of bones, ghoul
+touch, ray of enfeeblement
+÷÷ Level 3: dispel magic, lightning bolt, slow
+÷÷ Level 4: animate dead, black tentacles
+÷÷ Level 5: gelatinize bones

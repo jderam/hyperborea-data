@@ -1,0 +1,137 @@
+SPIDER, GIANT Giant Black
+Widow
+Giant Crab
+Spider
+Giant Ogrefaced
+Spider
+Giant Phase
+Spider
+Giant Trapdoor
+Spider
+Giant Wolf
+Spider
+No. Encountered: 1d4 1d4+1 1d6 1d6 1d6 1d6
+Alignment: Neutral Neutral Neutral Chaotic Evil Neutral Neutral
+(or Chaotic Evil)
+Size: M M L L L L
+Movement: 30 40 30 50 30 50
+Dexterity: 12 12 10 14 13 14
+Armour Class: 6 7 6 7 6 5
+Hit Dice: 3 2 3 5+4 3+2 4
+Attack Rate: 1/1 (bite) 1/1 (bite) 1/1 (bite) 1/1 (bite) 1/1 (bite) 1/1 (bite)
+Damage: 2d6 1d8 2d4 1d6 1d8 2d6
+Saving Throw: 15 16 15 14 15 15
+Morale: 7 7 7 8 7 8
+Experience Points: 161 32 167 740 105 255
+Treasure Class: A C D E C C
+The giant black widow is a six-foot-long arachnid,
+black with a red or orange “hourglass” mark on the
+abdomen. These spiders weave tangled webs of 100 ×
+100 feet or more. A black widow can sense when a living
+creature touches its web and at once will move in for
+the kill. Encountered black widows are always female;
+males are the size of a man’s fist and unaggressive.
+The giant crab spider is a five-foot-long arachnid that
+does not use webs to capture prey; rather, it lies in
+wait and pounces. Crab spiders’ bodies are somewhat
+flat, and (unlike most spiders) their front legs angle
+outward, giving them the appearance of crabs; too, they
+can move sidewise and backwards as easily as forwards.
+Their chameleonic ability allows them to blend with
+their environs.
+The giant ogre-faced spider is an eight-foot-long
+arachnid renowned for its face, which is reminiscent
+of a mountain ape—specifically its disturbingly large
+eyes, one twice the size of the other. From trees, crags,
+or abandoned buildings, it hangs by a strand of dry
+silk, holding its web net with its four front legs. As prey
+passes below, it stretches open the net, casting it over
+and enveloping the prey.
+The giant phase spider is a huge arachnid that
+appears as a seven-foot-long black tarantula, though
+it is something more: At will it can shift from one
+reality to another, “phasing” to and from worlds such
+as Hyperborea to its Æthereal realm of origin. Phase
+spiders are web builders, constructing sticky vertical or
+horizontal snares. Multiple phase spiders communicate
+by means of a haunting whistle, known to raise the
+hackles of dogs and to inspire skittishness in horses.
+Sages posit that phase spiders might originate from the
+same dimension as Kraken, “The Dimensional Dweller”.
+N.B.: A variation of this species is said to dwell in the
+Plain of Leng and the canyons of the Leng Plateau.
+These are known as the purple spiders of Leng, as their
+black fur is spotted with purple rings. These creatures
+prey upon Esquimaux, men of Leng, and other natives.
+The giant trapdoor spider is a seven-foot-long
+arachnid that digs a burrow in the ground, which it
+covers with a lid or trapdoor built of mud and silk,
+some folding open from the middle. When prey passes,
+the spider springs out to attack. Its bite delivers venom
+that may be deadly. Giant trapdoor spiders’ burrows are
+tubular and can be as long as 75 feet. They are lined with
+silk webs and may have branches that serve as extra
+hiding places; inside the burrows are also their nests.
+The giant wolf spider is a nine-foot-long arachnid
+that thrives in various environs. Aggressive hunters,
+these spiders are notorious for chasing down prey
+and pouncing on it after emerging from trees, or from
+under rocks or shrubs. They are brownish in colour,
+with long, stout, hairy legs and four pairs of eyes, one
+set being much larger than the others. They have large,
+powerful jaws with paralytic venom. A female might
+be seen carrying on its back a large, grey-white silk sac
+filled with hundreds of eggs.
+N.B.: Whether it be the result of foul sorcery or
+dæmonic corruption, intelligent giant wolf spiders are
+reputed to exist, almost always female. These talking
+spiders are Evil creatures that derive sadistic pleasure
+in cruelty, and some exhibit a lust for treasure. Often
+they are bound to the task of guardianship of a place or
+thing.
+Special (all except giant crab spider):
+¬¬ If entrapped in a web, a man can break free in
+19 rounds − strength score; e.g., 3 rounds with 16 ST.
+Special (giant black widow):
+¬¬ Bite victim must make death (poison) save or
+be paralyzed, dying in 1 turn. Wound becomes
+necrotic in any event, with 3-in-6 chance of
+infection unless cure disease is cast. After 30 days
+victim must make another save or die; otherwise,
+infection subsides.
+Special (giant crab spider):
+¬¬ Chameleonic ability increases chance to surprize
+by 2-in-6.
+¬¬ Can move across walls and ceilings at normal MV.
+¬¬ Bite victim must make death (poison) save or suffer
+additional 1d8 hp damage.
+Special (giant ogre-faced spider):
+¬¬ Chance to surprize increased by 1-in-6 when
+attacking from above.
+¬¬ Throws web net over a single Small or Medium
+victim. If victim is surprized, success is automatic;
+if not surprized, avoidance save is allowed to evade.
+¬¬ Bite victim experiences extreme swelling and skin
+ulcerations, coupled with intense joint pain that
+limits physical activity (½ MV; −2 penalty to attack
+rolls, damage, and saving throws). Death ensues
+in 6d6 turns unless death (poison) save is made;
+swelling subsides in 1d4+6 hours.
+Special (giant phase spider):
+¬¬ Phases before and after attacking; opponent must
+make a successful test of dexterity (see Vol. I, p. 7:
+Attributes, dexterity) to attempt a counterattack.
+¬¬ Bite is highly venomous; make death (poison) save
+or die.
+Special (giant trapdoor spider):
+¬¬ Chance to surprize increased by 2-in-6 when
+pouncing from trapdoor nest.
+¬¬ Bite victim must make death (poison) save or suffer
+1 hp damage per round for 2d6 rounds.
+Special (giant wolf spider):
+¬¬ Bite victim must make death (poison) save or be
+paralyzed in 1d2 rounds, lasting 2d6 turns. Wound
+becomes necrotic in any event, with 3-in-6 chance
+of infection unless cure disease is cast. After 30 days
+victim must make another save or die; otherwise,
+infection subsides.

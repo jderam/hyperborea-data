@@ -1,0 +1,26 @@
+GRIFFIN
+No. Encountered: 1d2 (2d6)
+Alignment: Neutral
+Size: L
+Movement: 40 (fly 120)
+Dexterity: 13
+Armour Class: 5
+Hit Dice: 7
+Attack Rate: 3/1 (claw / claw / bite)
+Damage: 1d6 / 1d6 / 2d6
+Saving Throw: 13
+Morale: 9
+Experience Points: 570
+Treasure Class: C, S
+This legendary beast is of 10- to 12-foot length (plus tail)
+and weighs as much as 800 pounds. It has the head,
+wings, and fore claws of a giant eagle, with the body
+and hind legs of a large lion. Griffins make their nests
+on high cliffs and mountains, attacking any creature
+that approaches.
+Griffins are notorious predators with a taste for horse
+and camel. They might be tamed as pets or flying
+mounts if captured as hatchlings; their craving for
+horse and camel, however, is inexorable, which can
+have unfortunate consequences. The saddle and harness
+of a trained griffin cost at least 300 gp to commission.

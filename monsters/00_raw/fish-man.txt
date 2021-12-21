@@ -1,0 +1,90 @@
+FISH-MAN
+(Deep Dweller, Deep One) Fish-Man Sub-Chief Chieftain Hybrid
+No. Encountered: 2d6 (2d4×10) 1:10 1:50 2d6 (5d20×10)
+Alignment: Chaotic Evil Chaotic Evil Chaotic Evil Chaotic Evil
+Size: M M L M
+Movement: 40 (swim 80) 40 (swim 80) 40 (swim 80) 40 (swim 30)
+Dexterity: 9 10 12 9
+Armour Class: 5 4 2 8
+Hit Dice: 2+2 4+4 7+7 1+1
+Attack Rate: 2/1 (claw / claw)
+or 1/1 (weapon)
+2/1 (claw / claw)
+or 3/2 (weapon)
+2/1 (claw / claw
+or weapon) 1/1 (weapon)
+Damage: 1d4+1 / 1d4+1
+(or per weapon)
+1d4+2 / 1d4+2
+(or per weapon +1)
+1d4+4 / 1d4+4
+(or per weapon +3) (per weapon)
+Saving Throw: 16 15 13 16
+Morale: 8 9 9 8
+Experience Points: 41 175* 680 20*
+Treasure Class: A Q I J
+* Refer to p. 294: Table 122 for classed individuals.
+These ichthyic, otherworldly humanoids
+have oily, grey-green skin, with jaundiced
+underbellies and backs ridged with scales.
+They have anthropoid bodies and piscine
+heads with round, bulging eyes that
+never blink. Their necks are folded with
+gill slits, and their long, webbed paws are
+taloned black. Their long legs with inverted
+knee joints effect a hopping gait, though
+some ambulate on all fours. For every 10
+fish-men there is 1 sub-chief, a superior
+specimen with leadership ability; for
+every 50 there is 1 chieftain, the largest of
+fish-men, with a thicker hide and superior
+fighting capacity.
+Oft referred to as deep ones or deep dwellers,
+this ultra-telluric species is millions of
+years old, having known conflict with
+crab-men, elder things, and snakemen;
+their provenance is speculated to
+be Ouranos or Poseidenos. In Hyperborea
+they inhabit subaqueous cities of alien
+architecture, constructed millennia
+ago; their Shangri-La, as it were, is lost
+R’lyeh. Fish-men are disciples of sleeping
+Kthulhu, though they oft will supplicate
+Mother Hydra (an otherworldly hydra
+that roams the Hyperborean Sea) or Father
+Dagon (her mate, a 20-foot-tall fish-man of
+prodigious power).
+Fish-men have slowly degenerated, yet
+struggle to persist, and in mankind have
+found a vessel of compatibility: When
+fish-men breed with humans, a hybrid
+is produced that appears human but will
+metamorphose into a fish-man at puberty. Some hybrids might
+never transform, but exhibit fish-man characteristics: Their heads
+elongate, their necks shorten, their eyes bulge, their skin moistens,
+and they lose their hair. To the ignorant, these traits might be
+viewed as the by-product of inbreeding. Seaside towns and villages
+are typical targets for such breeding and assimilation.
+Special (all except hybrids):
+¬¬ Amphibious; can function on land or sea but must
+immerse in water at least once per week.
+¬¬ Can track by scent at 10-in-12 chance of success (see
+Vol. I, p. 26: Fighter Subclasses, barbarian).
+¬¬ Wide field of vision reduces chance to be surprized
+by 1-in-6.
+¬¬ Fish-men wield javelins, spears, tridents, or special
+underwater crossbows. Sub-chiefs and chieftains
+have mastery of one or two weapons, respectively
+(+1 to attack and damage rolls, increased attack
+rate, etc.; see Vol. I, p. 112: Weapon Skill, weapon
+mastery).
+¬¬ Fish-man shamans conform to sub-chief
+statistics. They can advance as high as 7th level; for
+each level beyond 4th, they add 1 hit die (d8) to their
+base 4+4 HD.
+Special (hybrids):
+¬¬ Limited amphibious capacity; some hybrids
+possess aquatic traits, others do not.
+¬¬ Rare hybrids will practice a character class, as
+developed by the referee; for each level beyond 1st,
+they add 1 hit die (d8) to their base 1+1 HD.

@@ -1,0 +1,50 @@
+MAMMOTH,
+WOOLLY
+Woolly
+Mammoth
+Woolly
+Mammoth
+Superior
+No. Encountered: 1 (1d6+6
+or 4d6×10) 1
+Alignment: Neutral Neutral
+Size: L L
+Movement: 40 40
+Dexterity: 7 7
+Armour Class: 3 2
+Hit Dice: 12 16
+Attack Rate: 2/1 (gore / trample) 2/1 (gore / trample)
+Damage: 2d6 / 4d6 2d8 / 4d8
+Saving Throw: 11 9
+Morale: 8 9
+Experience Points: 1,700 3,300
+Treasure Class: — —
+The woolly mammoth is the only member of the
+elephant family known to thrive in Hyperborea. Woolly
+mammoths are massive, lumbering beasts up to 15
+feet at the shoulder and weighing as much as 14,000
+pounds. They have thick, shaggy fur and enormous,
+yellow tusks as long as 15 feet.
+If raised from a calf, a mammoth can be used as a
+beast of burden; in Hyperborea, mammoths pull great
+waggons with wheels eight feet high. They also can
+be used in war, driven by trained riders to trample
+enemy troops. When encountered in the wild, woolly
+mammoths are either solitary or in family groups, but
+when the great herds gather, hundreds will assemble.
+In Hyperborea’s remotest regions dwells the woolly
+mammoth superior. It stands some 18 feet at the
+shoulder and has four great tusks. These intractable
+beasts cannot be tamed and will chase down men on
+sight.
+N.B.: Mammoth ivory is prized by some cultures, and
+tusks can fetch 100–600 gp apiece.
+Special:
+¬¬ Every time mammoths are struck for damage, they
+may go berserk on a 2-in-6 chance, attacking at +2
+to attack and damage rolls for the remainder of
+the fight (and equally dangerous to their human
+masters, if applicable).
+¬¬ A bull in musth is always in a berserk state, as
+above; furthermore, it has ML 12 and relentlessly
+will pursue its target(s).

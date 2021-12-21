@@ -1,0 +1,38 @@
+BAT Bat Giant Bat
+No. Encountered: 1d% (1d10×100) 1d10 (1d10×10)
+Alignment: Neutral Neutral
+Size: S S
+Movement: 10 (fly 80) 10 (fly 70)
+Dexterity: 15 12
+Armour Class: 5 6
+Hit Dice: ¼ 2
+Attack Rate: 1/1 (bite) 1/1 (bite)
+Damage: 1 1d4
+Saving Throw: 17 16
+Morale: 5 7
+Experience Points: 9 64
+Treasure Class: — —
+A bat is the typical brown, black, red, or silver-haired
+variety that might be encountered in forests, caves,
+caverns, dungeons, and ruins. Bats are of course
+nocturnal creatures; during extended periods of
+complete daylight, many species will hibernate.
+A giant bat is a bloodthirsty bat of four-foot wingspan.
+Continental species present copper-brown fur during
+high summer and white fur for the remaining calendar
+years; island species usually remain copper perennially.
+In Hyperborea, Xathoqquans hold this creature in high
+esteem, perhaps of spiritual import.
+Special (all):
+¬¬ 1-in-4 bats will carry a disease. A bite victim
+must make a death (poison) save or suffer pain
+and burning at the site of the infection, followed
+by headaches, muscle spasms, and difficulty
+swallowing. Death ensues in 2d6 days unless cure
+disease is cast.
+Special (giant bat):
+¬¬ Bite causes paralysis for 1d10 rounds unless death
+save is made; bat will then drain victim of blood,
+causing 1d4 hp damage per round for 2d4 rounds,
+before flying away. If victim survives, disease also
+must be checked, as above.

@@ -1,0 +1,68 @@
+CRAB-MAN Crab-Man Overlord
+No. Encountered: 1d6 (4d6×10) 1:20
+Alignment: Neutral Neutral
+Size: L L
+Movement: 30 30
+Dexterity: 9 12
+Armour Class: 3 0
+Hit Dice: 3+3 6+6
+Attack Rate: 2/1 (pincer / pincer)
+or 3/1 (laser rifle)
+2/1 (pincer / pincer)
+or 3/1 (laser rifle)
+Damage: 2d4 / 2d4
+or 3d6 (×3)
+2d6 / 2d6
+or 3d6 (×3)
+Saving Throw: 15 14
+Morale: 9 10
+Experience Points: 75 (or 165
+with laser rifle)
+450 (or 750
+with laser rifle)
+Treasure Class: N; I, O, P,
+Q (×10), X, Y N (×5), Q
+Reputed to originate from the ocean planet Poseidenos,
+this highly technological alien race builds cities from
+chitinous materials deep below the sea; likewise are
+their water-filled spacecraft constructed. Crab-men are
+aquatic, though resilient enough to thrive out of water
+for as long as three days. At the seacoast, crab-men
+typically are encountered in small hunting parties, but
+their undersea cities are said to contain hundreds. They
+speak a strange, clicking tongue, enhanced by limitedrange
+empathy.
+Crab-men are vaguely humanoid in shape. The head
+is a disc-shaped carapace from three to four feet
+in diameter. The abdomen is perpendicular to the
+head, vertically oriented like a humanoid torso, with
+exoskeletal arms extending from shoulder joints; the
+arms terminate in great claws capable of rending flesh
+and bone. Four exoskeletal legs project from the bottom
+of the abdomen, each treble-jointed and tapering to
+points on which the creatures balance themselves
+and ambulate sideways. Crab-man overlords are
+physically dominating examples that naturally assume
+positions of leadership in the crab-man hierarchy.
+These robust specimens are not only superior
+combatants, but they also possess thicker exoskeletons.
+The motives of this strange species are unknown, but
+they are worshipped (in a sense) by certain Picts and
+Esquimaux, who dye their skin red or blue and don
+armour and headgear to appear more like crab-men.
+Curiously, these crab-Picts and crab-Esquimaux despise
+each other, each believing that they are the chosen of
+the crab-men. The more privileged of these idolizers
+understand the basics of crab-man speech, but cannot
+actually articulate it; hence they might be used as
+translators.
+Special:
+¬¬ Crab-man warriors and overlords each are fitted
+with a gauntlet-like laser rifle over one claw, built
+so that the claw is inserted, and the pincer ends
+manipulate the trigger mechanism (a function a
+man is unable to mimic). The laser rifle is shot at a
++2 attack bonus, causes 3d6 hp damage, and may be
+fired thrice per round (each at a single target) to a
+range of 150 (sans range penalties). A typical laser
+rifle cartridge has 144 charges.

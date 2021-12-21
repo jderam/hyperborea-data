@@ -1,0 +1,31 @@
+SLITHERING SLIME
+No. Encountered: 1d2
+Alignment: Neutral
+Size: S
+Movement: 30
+Dexterity: 7
+Armour Class: 5
+Hit Dice: 5
+Attack Rate: 1/1 (touch)
+Damage: 1d6
+Saving Throw: 14
+Morale: 9
+Experience Points: 300
+Treasure Class: C
+This three-inch-thick, three-foot-diameter pool of
+slime absorbs the fluids of other organisms through
+protoplasmic fingers on its underside. The slithering
+slime is a transparent dungeon dweller; often it comes
+upon its quarry by surprize, paralyzing with its touch
+and then draining its victim dry. Once it smells prey, it
+will follow for several hours and wait to attack when the
+target is asleep, sensitive to breathing patterns. It can
+squeeze through small openings, under doors, and so
+forth.
+Special:
+¬¬ Transparency increased chance to surprize by
+2-in-6.
+¬¬ Touch paralyzes for 2d6 turns unless death save is
+made. Creature then drains fluids from paralyzed
+victim at a rate of 1d6 hp per round; typically it is
+sated after draining 1d20+20 hp.

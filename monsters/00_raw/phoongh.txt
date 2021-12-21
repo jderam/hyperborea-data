@@ -1,0 +1,97 @@
+PHOONGH
+No. Encountered: 1
+Alignment: Chaotic Evil
+Size: L
+Movement: 60
+Dexterity: 17
+Armour Class: −1
+Hit Dice: 9+3
+Attack Rate: 2/1 (slash / slash)
+Damage: 2d4+4 / 2d4+4
+Saving Throw: 10
+Morale: 9
+Experience Points: 1,450
+Treasure Class: M, N, Q
+The phoongh are pale grey, nine-foot-tall insectan
+creatures of otherworldly origin. They present as
+weird, bipedal grasshoppers (vaguely humanoid)
+that typically garb themselves in dark, ceremonial
+vestments; they oft wear broad hats and drape their
+shoulders with long cloaks. How the phoongh
+reproduce or whether in the depths of Underborea they
+gather in numbers is unknown and the subject of wild
+speculation amongst the learned and the mad, but all
+reports from the surface relate encounters with solitary
+phoongh.
+The phoongh are creatures of mad craft and bizarre
+caprice, and they pursue their inscrutable errands
+in lonely places, attracted to ruins, caves, and places
+of desolation. (The savage Kimmerian steppe riders
+and Kimmeri-Kelts of the Fields of Vol claim they can
+smell the phoongh and know where one has lingered.)
+Their motivations are obscure, but their deadliness is
+obvious. Phoongh kill out of whim, entertainment, or
+simple reflex, and they oft play pointless tricks on the
+unsuspecting before they attack.
+Phoongh are strong and agile creatures. They possess
+tough carapaces, and the brachial plates of their upper
+limbs seem to be a source of pride; they will burnish
+and file them. In combat they can attack savagely, oft
+leaping madly as they fight, dancing amongst their
+enemies; indeed, the best time to encounter a phoongh
+is when other enemies are nearby, for the phoongh do
+not discriminate amongst targets.
+A phoongh will continue to live even when reduced
+to −10 hit points or fewer. Fire, acid, or complete
+destruction of the head is necessary to kill one, though
+a dismembered phoongh slowly will desiccate and
+die over the course of several days. A phoongh that is
+not dismembered eventually will regenerate if left for
+dead—yet these bizarre creatures have been known
+simply to stop fighting and allow themselves to be
+cut down. Whether this behaviour fulfils some inner
+drive or completes another step in the plans of some
+nameless god is unknowable, but the wise do not rely
+on such an event.
+Special:
+¬¬ Once per day can emanate shadows in a
+three-foot radius. Within the shadows they can
+hide at 10-in-12 chance of success (see Vol. I, p. 21:
+Classes, thief). Any target that passes within 10
+feet of a successfully hidden phoongh is subject to a
+single surprize backstab attack at a +4 bonus and ×4
+base damage (i.e., 8d4+4 hp damage).
+¬¬ Even when not using their emanate shadows ability,
+phoongh are natural hide-and-strike predators;
+chance to surprize opponents increased by 2-in-6.
+¬¬ A phoongh can leap 30 feet from a standing start
+(counted as part of its normal movement), leaping
+once or twice per round (once per phase) or four
+times if charging (see Vol. III, p. 254: Combat
+Actions, movement); note that these leaps need
+not be in a straight line. If not charging, the
+phoongh can make its two attacks at any points
+in its leaps, though (as
+with aerial combat) its
+opponents have the
+opportunity to strike
+back (see Vol. III,
+p. 268: Aerial
+Combat, aerial
+melee combat).
+When charging
+(requiring at
+least two leaps),
+the phoongh
+delivers a single
+attack at the end
+of its charge at
+a +2 damage
+bonus, though
+with a −1 AC
+penalty (see
+Vol. III,
+p. 249:
+Combat
+Actions,
+melee).

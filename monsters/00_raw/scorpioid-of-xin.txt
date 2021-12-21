@@ -1,0 +1,78 @@
+SCORPIOID of XIN
+No. Encountered: 1d4 (5d8)
+Alignment: Chaotic Evil
+Size: L
+Movement: 50
+Dexterity: 16
+Armour Class: 4
+Hit Dice: 5
+Attack Rate: 5/1 (blade / blade / pincer / pincer / sting)
+Damage: 1d8 / 1d8 / 1d4 / 1d4 / 1d6
+Saving Throw: 14
+Morale: 9
+Experience Points: 350*
+Treasure Class: N (females); F, I
+* Refer to p. 294: Table 122 for classed individuals.
+Scorpioids are giant scorpions with humanoid—almost
+human—foreparts, standing from eight to nine feet tall.
+Their torsos mostly are covered in hard, black chitin.
+They inhabit the plateau of Xin and are associated with
+the deity Aurorus. How they serve this god of Chaos
+is unknown, but haunted-looking travellers have told
+of witnessing their inhuman rites and revels on nights
+when auroræ light the sky above Xin.
+Scorpioids are known to employ arms that they
+hone from the pincers of their fallen kin. These black
+chitinous blades are sharpened to scimitar-like
+weapons. They also attack with their terrible pincers and
+deadly tail stingers, a veritable onslaught of attacks for
+the unprepared.
+The mystic and recondite scorpioid society is
+matriarchal. Female scorpioids choose their mates for
+their strength and ferocity. Shortly after an agonizing
+and nigh interminable mating ritual, the male scarcely
+can avoid cannibalization by the dominant female. Once
+a brood is born (typically consisting of six young), the
+offspring will cling to their mother’s body for weeks.
+Scorpioids have their own language of clicks, keens,
+and whistles, and numerous meaningful components
+of this language lie outside the realm of human
+senses. Scorpioid females also are likely to speak any of
+the Hellenic or Thracian dialects of Hyperborea and/or
+the Common tongue, but their complex maxillofacial
+architecture and the resonant chambers within their
+chitin do not impart inflexion to human words.
+Outside of Xin, scorpioids scarcely are observed except
+in subterranean mazes or perhaps the spiral towers
+of Khromarium’s “Old City”, where they are said to
+seek sacred mysteries; they possibly may make use of
+adventurers to further their clandestine schemes. In
+extremely rare cases, atypical scorpioids of Xin have
+been known to tolerate and even impart their secrets to
+human monks. These scorpioids are reputed to be monks
+themselves, some adopting the Neutral alignment.
+Special:
+¬¬ Immune to the fear effect and killing wail of
+banshees; in fact, scorpioid lairs oft are found near
+the haunted zone of a banshee.
+¬¬ When sorcerous ultraviolet vision is in effect, a
+scorpioid takes on a phosphorescent glow; all
+attacks against it are at a +1 attack bonus.
+¬¬ If both pincers hit, stinger attack is made at a +2
+bonus on the attack roll.
+¬¬ Stinger delivers deadly venom unless death (poison)
+save is made, causing immediate loss of speech,
+paralysis 1 round later, and death in 2d4 rounds.
+Female scorpioids can lessen the concentration of
+their venom; in such cases, a failed save results in
+deathlike catalepsy for 2d6 turns.
+¬¬ Some scorpioids
+adopt the monk
+class. They can
+advance to 9th
+level; for each
+level beyond
+5th, they add
+1 hit die (d8)
+to their
+base 5 HD.

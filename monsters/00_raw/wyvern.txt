@@ -1,0 +1,28 @@
+WYVERN
+No. Encountered: 1 (1d6)
+Alignment: Neutral
+Size: L
+Movement: 30 (fly 90)
+Dexterity: 16
+Armour Class: 3
+Hit Dice: 7+4
+Attack Rate: 2/1 (bite / sting)
+Damage: 2d8 / 1d8
+Saving Throw: 13
+Morale: 10
+Experience Points: 1,080
+Treasure Class: E
+This is the two-legged dragon of myth and legend, with
+large pteropine wings, ruddy grey scales, red eyes, and a
+long, barbed tail. Wyverns possess limited intelligence,
+their communication slightly more advanced than
+normal reptiles. This beast attacks with a venomous tail
+sting, poisoning its victims before devouring them.
+Wyverns thrive in many environments, including the
+deepest dungeons and subterranean caverns.
+Special:
+¬¬ Tail sting delivers venom;
+make death (poison) save
+or suffer instant paralysis,
+followed by death in 2d4
+rounds.

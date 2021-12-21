@@ -1,0 +1,63 @@
+TOAD Giant Toad Ice Toad
+No. Encountered: 1d6 1d2 (2d6)
+Alignment: Neutral Neutral
+Size: L S
+Movement: 20 (hop 50) 10 (hop 20)
+Dexterity: 10 10
+Armour Class: 5 9
+Hit Dice: 3+2 ¼
+Attack Rate: 1/1 (bite) —
+Damage: 1d6 —
+Saving Throw: 15 17
+Morale: 6 4
+Experience Points: 195 9
+Treasure Class: — —
+Giant toads are enormous, man-eating amphibians
+that have stout legs and thick, warty skin. They weigh
+as much as 700 pounds and are up to 10 feet in length.
+They can shoot their sticky tongues up to 18 feet, and
+their skin is poisonous to the touch. These creatures
+also possess camouflage and have a taste for the flesh
+of man, whom they can swallow whole. They dwell
+in caverns, dungeons, forests, and swamps; a white
+variety also thrives in arctic environments.
+Ice toads are tiny creatures, white as snow, with
+bright blue warts and vivid cerulean eyes. They are
+said to thrive in the coldest environments, their blood
+unfreezing.
+Special (giant toad):
+¬¬ If lying in wait, camouflage increases chance to
+surprize by 1-in-6.
+¬¬ If the toad’s skin is touched, a death (poison) save
+must be made or the victim will suffer 1d8 hp
+damage. Unless the secretion immediately is wiped
+away (with something suitable, as a cloth), damage
+will persist every round at 1 hp less than the
+previous round (i.e., if the initial damage is 7 hp,
+then the next round is 6 hp, followed by 5 hp, and
+so forth), until the result is 0 hp damage.
+N.B.: 1-in-6 giant toads has deadly toxin; a failed
+save results in paralysis, followed by death in 1
+turn.
+¬¬ On a natural 20 attack roll, the tongue reels in and
+swallows victim whole, inflicting 1d6 hp damage
+per round thereafter; after 3 rounds, the victim may
+asphyxiate (see Vol. III, p. 263: Special Damage,
+asphyxia). Swallowed prey can cut its way out with
+a WC 1–3 blade, with an attack penalty equal to
+the weapon class. If 6 hp damage is inflicted from
+within, a large enough rent is cut for escape.
+Special (ice toad):
+¬¬ Immune to the effects of normal cold to −15°F; they
+must burrow to survive colder temperatures.
+¬¬ Camouflage provides 6-in-12 chance to hide in snow
+(see Vol. I, p. 21: Classes, thief).
+¬¬ If ice toad is bitten or licked, a death (poison) save
+must be made or the victim suffers 1d4 hp damage.
+Ice toad toxin does not cause continuing damage.
+A toad produces enough toxin to coat a dagger
+when provoked; enterprising sorcerers are known
+to use their toad familiars to envenom their blades
+or fill a phial with a single dose once per day. The
+toxin evaporates after 6 turns or a single successful
+strike; if bottled, it remains efficacious for 24 hours.
