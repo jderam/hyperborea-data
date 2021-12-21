@@ -1,0 +1,31 @@
+LEECH, GIANT
+No. Encountered: 1d4
+Alignment: Neutral
+Size: M
+Movement: 0 (swim 10)
+Dexterity: 8
+Armour Class: 7
+Hit Dice: 5
+Attack Rate: 1/1 (bite)
+Damage: 1d6
+Saving Throw: 14
+Morale: 11
+Experience Points: 225
+Treasure Class: —
+These are aquatic, bloodsucking worms up to five feet
+in length. They are equipped with sucker mouths at
+both ends, attaching to their victims and draining
+blood. They are insatiable, drinking the blood of a man
+until his death and thenceforth dropping away. They
+are encountered in swamp, marsh, pond, lake, and wet
+cavern environments; typically they are the bane of
+giant herbivores such as aurochs, mammoths, and
+sloths.
+Special:
+¬¬ Chance to surprize increased by 2-in-6 when target
+traverses water.
+¬¬ Following a hit, drains 1d6 hp per round; must be
+killed to be removed.
+¬¬ Anticoagulant causes 1 hp damage per round
+for 2d4 rounds after leech removed; if tightly
+bandaged, blood loss reduced to 1d4 rounds.

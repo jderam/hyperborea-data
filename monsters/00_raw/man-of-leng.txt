@@ -1,0 +1,73 @@
+MAN of LENG (Satyr)
+No. Encountered: 1d6 (3d6)
+Alignment: Neutral
+Size: M
+Movement: 60
+Dexterity: 15
+Armour Class: 5
+Hit Dice: 5
+Attack Rate: 1/1 (gore) or 3/2 (weapon)
+Damage: 2d6+2 (or per weapon +1)
+Saving Throw: 14
+Morale: 10
+Experience Points: 525
+Treasure Class: S, T, U
+Men of Leng stand from six to seven feet tall, with the
+naked torsos of men, the hoofed legs of goats, and the
+spiral horns of rams. Their legs and forearms are thick
+with grey-white fur, and so too do their long manes and
+beards grow. Their eyes are sky-blue,
+their ruddy faces folded with many
+wrinkles.
+These enigmatic creatures
+thrive in harsh and
+unforgiving tundra. If men
+of Leng speak, they never
+have revealed this capacity to
+mankind. Instead they convey
+emotions with panpipes,
+their haunting melodies
+perhaps serving as some
+species of empathic
+language, but also they
+communicate much with
+their body language and facial
+expressions.
+Men of Leng ride leaper camels, typically
+bearing spears and composite short
+bows; when they cross the tundra, beasts
+and men alike are driven with fear.
+Notwithstanding, the sorcery of certain
+bards is believed to derive from these
+strange creatures, who are reputed to
+take precocious young humans under their
+tutelage for a year or more; such individuals
+oftest fail to remember their time with the
+men of Leng after returning to civilization.
+Men of Leng are held to venerate Aurorus,
+“The Shining One”, but their piping is
+believed to tap vibrations associated with
+Azathoth.
+Special:
+¬¬ 7-in-20 spell resistance versus CA 12 casters. For
+every CA level less than 12, the chance-in-twenty
+increases by one (+1) (see Vol. III p. 261: Saving
+Throw, spell resistance).
+¬¬ Mastery of one weapon as selected by the referee
+(+1 to attack and damage rolls, increased attack
+rate, etc.; see Vol. I, p. 112: Weapon Skill, weapon
+mastery).
+¬¬ With panpipes, can produce any of the following
+spell-like effects in a 60-foot radius: cause fear
+(reverse of remove fear), charm person, inflict
+madness, sleep, suggestion. Each effect functions as
+the respective spell and is negated by a successful
+sorcery save.
+¬¬ Each man of Leng has the sorcery ability of an
+8th-level bard. The referee can select spells
+accordingly (1 each of druid and illusionist spells
+levels 1–4), or use the following default selections:
+÷÷ Level 1: influence normal fire; auditory glamour
+÷÷ Level 2: cure light wounds; cause deafness
+÷÷ Level 3: hold animal; hallucinatory terrain
+÷÷ Level 4: them; dispel magic

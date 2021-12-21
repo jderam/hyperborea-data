@@ -1,0 +1,26 @@
+MANTICORE
+No. Encountered: 1d2
+Alignment: Chaotic Evil
+Size: L
+Movement: 40 (fly 60)
+Dexterity: 14
+Armour Class: 4
+Hit Dice: 6
+Attack Rate: 4/1 (claw / claw / bite / sting)
+Damage: 1d4 / 1d4 / 1d8 / 1d4
+Saving Throw: 14
+Morale: 9
+Experience Points: 580
+Treasure Class: E
+This horrific beast of legendry has the goat-horned head
+of a man whose face betrays madness; the body of a
+robust lion; great pteropine wings; and the tail stinger
+of a giant scorpion. Manticores are sadistic creatures
+with tastes for human flesh. Typically they dwell in
+mountains, deserts, or abandoned places, such as castle
+ruins. Manticores are known to follow the scent of
+travelling men, seeking ambush.
+Special:
+¬¬ If stinger hits, victim must make death (poison)
+save or suffer paralysis in 1d4 rounds, frothing
+terribly and gagging; death follows in 1d3 turns.

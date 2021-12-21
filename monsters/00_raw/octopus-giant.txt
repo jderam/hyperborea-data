@@ -1,0 +1,45 @@
+OCTOPUS, GIANT (Spawn of Kraken)
+No. Encountered: 1
+Alignment: Chaotic Evil
+Size: L
+Movement: 0 (swim 40)
+Dexterity: 14
+Armour Class: 7
+Hit Dice: 8
+Attack Rate: 8/1 (lash ×8)
+Damage: 1d4 (×8)
+Saving Throw: 13
+Morale: 7
+Experience Points: 1,000
+Treasure Class: —
+In the depths of the ocean dwell giant octopuses, which
+men of Hyperborea oft refer to as the “Spawn of Kraken,
+the Dimensional Dweller”. These great leviathans of the
+deep weigh as much as 1,000 pounds and have eight
+suckered arms of 50-foot length. They lair in undersea
+caves and feed nocturnally. Octopuses are of abstruse
+intelligence and sinister disposition, notorious for
+dragging men from ships or even wharfs to devour
+them.
+Special:
+¬¬ Against underwater foes they may make their full
+allotment of attacks; against enemies on ships or
+aground they will use two arms to brace themselves
+on something solid whilst reaching up with from
+one to six remaining arms to snag prey.
+¬¬ Each arm delivers 1d6 hp constriction damage per
+round after a hit is scored. If two or more arms
+strike a single target, the victim is in 2 rounds
+pulled to the beaked mouth of the beast, which will
+bite automatically for 2d4 hp damage per round
+(in addition to constriction damage). To escape
+the grasp of a giant octopus, an extraordinary feat
+of strength or dexterity can be used to break or slip
+free (see Vol. I, p. 7: Attributes, strength and
+dexterity). Allies can wrest a victim free if their
+strength totals at least 60.
+¬¬ One arm is severed or otherwise rendered useless
+for every 8 hp damage the monster sustains.
+¬¬ If four arms are destroyed or morale otherwise
+fails, the monster will release a massive cloud of
+ink whilst jetting away at treble movement.

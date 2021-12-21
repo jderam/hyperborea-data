@@ -1,0 +1,62 @@
+NAGA
+No. Encountered: 1d2
+Alignment: Lawful Evil
+Size: L
+Movement: 50
+Dexterity: 15
+Armour Class: 3
+Hit Dice: 12
+Attack Rate: 1/1 (bite)
+Damage: 1d6
+Saving Throw: 11
+Morale: 11
+Experience Points: 2,900
+Treasure Class: H
+This monster has the 20-foot-long body of a python,
+surmounted by the head of a disturbingly ugly woman
+with fangs for teeth and a shock of tangled, whitestreaked
+hair. Nagas are the servants of otherworldly
+powers, typically assigned to guard some place of
+religious significance; some sages posit that these
+guardians originally were created by the weird science
+of snake-men. Nagas are cruel and relentless creatures,
+possessed of keen intelligence and cunning trickery. In
+their sibilant tongue they sing haunting melodies to
+raise the hackles of any man.
+Special:
+¬¬ Singing voice once per day can charm 1d6 victims
+of 6 or fewer HD, unless sorcery saves are made;
+the saves are modified by willpower adjustment (see
+Vol. I, p. 9: Attributes, wisdom), if applicable.
+Charmed individuals stand dumbly, allowing naga
+to do as it will—even kill them.
+¬¬ Bite delivers venom; make death (poison) save or
+suffer paralysis for 1d6+6 turns.
+¬¬ On successful bite attack (whether or not paralysis
+results), monster enwraps and constricts its victim
+for additional 2d4 hp damage
+per round. The naga can squeeze
+one victim to death whilst
+continuing to bite other targets.
+To escape constriction, victim
+must make an extraordinary feat
+of strength or dexterity (see Vol.
+I, p. 7: Attributes, strength and
+dexterity). Otherwise, allies whose
+strength totals at least 60 may
+pull the victim free.
+¬¬ A naga has the sorcery ability of
+a 6th-level cleric. The referee can
+select spells accordingly
+(3 × level 1, 2 × level 2,
+2 × level 3), or use the
+following default selections:
+÷÷ Level 1: command, cure light
+wounds, protection from good
+÷÷ Level 2: darkness, hold person
+÷÷ Level 3: dispel magic, inflict
+blindness
+¬¬ N.B.: As the naga frequently is
+charged with the protection of a
+place, often it will place a glyph of
+warding thereabouts.
