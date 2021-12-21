@@ -1,0 +1,30 @@
+PTERODACTYL
+No. Encountered: 1 (5d6)
+Alignment: Neutral
+Size: L
+Movement: 10 (fly 80)
+Dexterity: 15
+Armour Class: 6
+Hit Dice: 3+3
+Attack Rate: 1/1 (bite)
+Damage: 2d4
+Saving Throw: 15
+Morale: 7
+Experience Points: 90
+Treasure Class: —
+These pterosaurs have long, slender heads and necks,
+with short tails. Their bat-like, membranous wings
+span 20–30 feet, and their beaks are lined with sharp
+teeth. Hyperborean pterodactyls are thick with downy
+feathers, which can range from white to grey to dun.
+Pterodactyls are agile and skilled fliers and will swarm
+to prey, though they are not averse to scavenging. These
+beasts typically build their eyries near active volcanoes
+and also at the Rim of the World, where volcanic
+islands present a more hospitable climate. Rare are the
+pterodactyls seen above the
+cold wastes of mainland
+Hyperborea, but they
+will hunt the forests,
+grasslands,
+and swamps.

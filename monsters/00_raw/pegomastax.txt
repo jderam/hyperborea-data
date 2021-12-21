@@ -1,0 +1,38 @@
+PEGOMASTAX
+No. Encountered: 1 (1d6)
+Alignment: Neutral
+Size: S
+Movement: 50
+Dexterity: 12
+Armour Class: 6
+Hit Dice: ½
+Attack Rate: 3/1 (claw / claw / bite)
+Damage: 1 / 1 / 1d3
+Saving Throw: 17
+Morale: 5
+Experience Points: 7
+Treasure Class: —
+A bipedal reptilian of ancient
+origins, the cat-sized
+pegomastax has a long
+neck and tail, a hooked
+beak beweaponed with
+large upper and lower
+tusks, a pair of grasping
+forelimbs, and two
+strong, claw-tipped
+legs. Long, soft
+bristles cover the
+rear of its
+mottled
+brown
+head and
+back.
+The pegomastax inhabits arid regions such as Diamond
+Desert, where it feeds on tough leaves and other
+vegetation. Like archæopteryges, some are trained as
+familiars by magicians and witches.
+Special:
+¬¬ If both claw attacks hit one opponent, it uses its
+rear claws to rend, each causing 1d2 hp additional
+damage.
