@@ -1,0 +1,89 @@
+SNAKE,
+GIANT
+Giant
+Asp
+Giant
+Python
+Giant
+Spitting
+Cobra
+Giant
+Water
+Snake
+No. Encountered: 1 (5d4) 1 1 1
+Alignment: Neutral Neutral Neutral Neutral
+Size: L L L L
+Movement: 40 30 (swim 20) 30 30 (swim 40)
+Dexterity: 9 8 12 8
+Armour Class: 5 6 3 6
+Hit Dice: 6 5 8 3
+Attack Rate: 1/1 (bite) 1/1 (bite) 1/1 (bite) 1/1 (bite)
+Damage: 1d6 1d4 1d6 1d6
+Saving Throw: 14 14 13 15
+Morale: 9 8 9 6
+Experience Points: 500 300 1,080 95
+Treasure Class: — — — —
+Snakes of great size inhabit the dark corners of
+Hyperborea; whether their prodigious length is a
+natural development or the result of sorcery is a matter
+of conjecture. Except on some islands at the Rim of the
+World, these reptiles are less active during the winter
+years.
+The giant asp is a dark, narrow-hooded cobra of about
+12-foot length. These dungeon-dwelling reptiles are
+notorious for their deadly venom. In the darkest pits
+they congregate up to a score, writhing together.
+The giant python is an enormous snake of from 20-
+to 40-foot length, with scales of alternating colours
+and patterns (oft spiroid), depending on its native
+environment. They will bite and latch on to their
+prey and then constrict the victim until he ceases to
+struggle. Many have a taste for man. A pale grey-white
+species with blue and yellow markings is said to thrive
+in wintery conditions.
+The giant spitting cobra is a solitary creature up to
+30 feet long and nearly exclusive to dungeon depths.
+The scales of these monstrous reptiles are hard as iron.
+They are reputed to possess quasi-intelligence; some
+sages posit they are former Ixian priests of Yig (Apep)
+transmogrified.
+The giant water snake is a huge black reptile of up to
+30-foot length that thrives in fresh water or brackish
+marshes. Water snakes emerge to breathe about once
+per six hours. Their bite injects slow-acting paralytic
+venom. Often a snake will retreat after biting a victim
+and lurk nearby, awaiting the poison to take effect so it
+then can consume its prey.
+Special (giant asp):
+¬¬ Bite injects venom thrice per day. Victim must
+make death (poison) save or die at once; even if save
+is successful, 6d6 hp damage is sustained (a terrible
+blood-burning sensation). Site of wound is
+purple and swollen; may become septic if
+victim survives (cure disease heals).
+Special (giant python):
+¬¬ Infrared vision (as the spell) to 60-foot range.
+¬¬ Upon successful bite, giant python constricts
+prey for 2d6 hp damage per round. Victim
+can attempt to escape via extraordinary feat
+of strength or dexterity (see Vol. I,
+p. 7: Attributes, strength and dexterity).
+Otherwise, allies whose strength totals at
+least 75 can remove snake in 1d4 rounds.
+¬¬ Whilst constricting prey, giant python suffers
+a −2 AC penalty (AC 8).
+Special (giant spitting cobra):
+¬¬ Once per day can spit venom to range of 30,
+aiming for target’s eyes. If venom hits, victim
+must make death (poison) save or be blinded.
+Only cure blindness restores sight. Great helm
+(typically included with field plate and full plate)
+blocks venom on 3-in-6 chance.
+¬¬ Bite injects venom thrice per day. Victim must
+make death (poison) save or die in 1d6+6 rounds.
+Special (giant water snake):
+¬¬ Bite injects venom thrice per day. Victim must
+make death (poison) save or become numb-skinned
+after 1d6 rounds; face muscles also fail to actuate,
+and speech is garbled. Paralysis takes effect 1d4
+turns later and lasts 1d6+6 turns.

@@ -1,0 +1,48 @@
+ZOMBIE, INTESTINE (Undead Type 3)
+No. Encountered: 1d6+5
+Alignment: Chaotic Evil
+Size: M
+Movement: 30
+Dexterity: 3
+Armour Class: 7
+Hit Dice: 3
+Attack Rate: 1/1 (whip, pummel, or bite)
+Damage: 1d4+1 or 1d8 or 1d3
+Saving Throw: 15
+Morale: 12
+Experience Points: 53
+Treasure Class: —
+Originally created by the Ixian necromancer Yileenda,
+intestine zombies present as common zombies. Within
+30 feet, however, illuminance (and a careful eye) may
+reveal a large stitched seam running from neck to waist—
+and serpentine writhing beneath the abdominal skin.
+At about 20 feet distance from its victim, the intestine
+zombie’s abdominal seam bursts open, releasing foul,
+bile-oozing intestines that unravel through the air to
+entangle foes with unnatural strength. Once entangled,
+the victim is strangled slowly until he passes out.
+An unbound intestine zombie then will devour its
+incapacitated foe, but if under the command of a master,
+it may carry off its victim for unspeakable atrocities.
+Special:
+¬¬ Immune to poison, paralysis, fear, and cold.
+¬¬ Arrows and bolts inflict but 1 hp damage (plus
+bonuses, if applicable); other piercing / thrusting
+weapons cause ½ damage (damage dice halved,
+with bonuses added afterwards).
+¬¬ Intestine zombies always attempt to engage
+enemies from a distance with their intestines’ 20-
+foot reach, oftest gaining first strike (see Vol. III, p.
+244: Combat, initiative).
+¬¬ Following the initial damage of a successful attack,
+the bile-covered intestine curls around the throat
+of the victim. After 3 rounds, the victim may
+asphyxiate (see Vol. III, p. 263: Special Damage,
+asphyxia).
+¬¬ Intestines struck for 10 hp damage are severed or
+rendered useless; this damage does not detract
+from the monster’s overall hit point total.
+Alternatively, intestines can be broken with
+an extraordinary feat of strength (see Vol. I, p. 7:
+Attributes, strength).

@@ -1,0 +1,62 @@
+WHALE Blue Whale Killer Whale
+(Orca) Narwhale
+No.
+Encountered: 2 (1d4+1) 1 (1d4) 1 (1d4)
+Alignment: Neutral Neutral Lawful Good
+Size: L L L
+Movement: 0 (swim 60) 0 (swim 80) 0 (swim 70)
+Dexterity: 4 8 8
+Armour Class: 5 5 6
+Hit Dice: 18 6 9
+Attack Rate: 1/1 (bite) 1/1 (bite) 1/1 (gore)
+Damage: 4d6 3d6 2d6
+Saving Throw: 8 14 12
+Morale: 8 9 10
+Experience
+Points: 5,500 500 1,300
+Treasure Class: — — —
+The blue whale is the largest marine mammal of
+Hyperborea. It reaches lengths of 100 or more feet
+and has speckled blue-grey or white skin. It feeds on
+krill and will not seek human prey, but might swallow
+a lone swimmer if hungry enough. If harpooned the
+blue whale can be quite deadly, overturning the largest
+vessels. Typically they feed in the shallow waters of
+coastal Hyperborea and breed near the Rim of the
+World.
+The killer whale is a black and white hunter of the
+sea, up to 30 feet long and weighing as much as 30,000
+pounds. Killer whales (orcas) prey on fish, mammals,
+and other whales. Of course, they will devour men, too.
+The narwhale is a grey, spotted, 20-foot-long mammal
+prized for its great spiral horn of from 8- to 10-foot
+length (valued at 2,000 gp), found only on the males of
+the species. Peaceful and intelligent, these “unicorns
+of the sea” scour glacial waters for prey and will
+molest a man only if threatened—except in the case of
+fish-men, which they attack on sight. Narwhales are
+believed to communicate via telepathy.
+Special (blue whale):
+¬¬ If bite attack hits by a margin of 4 or more (or on a
+natural 20 in any case), victim is swallowed whole,
+inflicting 1d6 hp damage per round thereafter; after
+3 rounds, the victim may asphyxiate (see Vol. III,
+p. 263: Special Damage, asphyxia). Swallowed
+prey can cut its way out with a WC 1–3 blade, with
+an attack penalty equal to the weapon class. If 20
+hp damage is inflicted from within, a large enough
+rent is cut for escape.
+Special (killer whale):
+¬¬ On a natural 20 attack roll, a Small or Medium
+victim is swallowed whole, inflicting 1d6 hp
+damage per round thereafter; after 3 rounds,
+the victim may asphyxiate (see Vol. III, p. 263:
+Special Damage, asphyxia). Swallowed prey can
+cut its way out with a WC 1–3 blade, with an attack
+penalty equal to the weapon class. If 20 hp damage
+is inflicted from within, a large enough rent is cut
+for escape.
+Special (narwhale):
+¬¬ If incited (e.g., pups threatened), can deliver
+a charge attack (see Vol. III, p. 249: Combat
+Actions, melee) for treble damage dice (6d6).

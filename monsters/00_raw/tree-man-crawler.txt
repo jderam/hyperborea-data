@@ -1,0 +1,79 @@
+TREE-MAN CRAWLER
+(Pinophytal Horror, Sailback Treant)
+No. Encountered: 1d3+1
+Alignment: Neutral
+Size: L
+Movement: 40
+Dexterity: 12
+Armour Class: 2
+Hit Dice: 10
+Attack Rate: 5/1 (lash ×4 / bite)
+Damage: 2d6 (×4) / 3d8
+Saving Throw: 12
+Morale: 11 (8)
+Experience Points: 1,300 (1,450 if hp 55+)
+Treasure Class: Q (×5)
+These carnivorous tree-men of from 20- to 30-foot
+height do not walk upright in a bipedal fashion; rather,
+when they uproot themselves to ambulate, they tip
+over and place their trunks parallel to the ground. Next,
+they use their branches to crawl as centipedes—
+except for the branches on the topside of the trunk,
+which are raised like a sail (hence the name “sailback
+treants”). Once parallel to the ground, a tree-man
+crawler will utilize large knots on opposite sides of its
+trunk to see; these weird, wooden oculi evince the cold,
+dead stare of a doll’s eyes.
+When in ambulatory form, a tree-man crawler
+unleashes its four tentacle-like roots (“rootacles”) to
+attack prey (typically mammals), lashing and drawing
+victims to its terrible maw. Like other tree-men, treeman
+crawlers are conifers; consequently, their rootacles
+are covered in sap and adhere to whatever they touch.
+In fact, resin suffuses these creatures inside and out,
+hence their vulnerability to fire.
+Tree-man crawlers typically are found in high-elevation
+glaciated regions, and they tend to be territorial:
+Adults rarely stray more than 100 yards from their
+home grounds, and they attack on sight any perceived
+threat within that range. Saplings, after reaching about
+one foot in height, scurry away to find new grounds
+where they can root themselves; they oft are mistaken
+for giant centipedes during such journeys. In the
+hoary depths of the Savage Boreal Coast, legends
+persist of enormous redwood horrors standing over
+400 feet tall, capable of devouring whole a woolly
+mammoth. Esquimaux and Half-Blood Pictish sages
+and shamans aver that these beings grew from eggs
+shed by Kraken (Khalk-Xu).
+Special:
+¬¬ Vulnerable to fire: +2 hp per die of damage, −2
+saving throw penalty.
+¬¬ ML reduced to 8 in presence of fire.
+¬¬ If a Medium creature is struck by two or more
+rootacles, the crawler will pull the victim to its
+maw and bite automatically for 3d8 hp damage. The
+next round, the victim will be constricted for 2d6
+hp damage per attached rootacle. Furthermore, the
+crawler will continue to bite each round that two
+or more rootacles are attached, and it automatically
+can attach its remaining rootacles, which each
+will begin inflicting 2d6 hp damage on the round
+following attachment. Escaping the crawler’s grasp
+requires an extraordinary feat of strength (see Vol.
+I, p. 7: Attributes, strength), success indicating
+the rootacle is broken; alternatively, one may sever
+a rootacle with a blade, but it must suffer 10 hp
+damage to break (separate from the main body’s hp
+total). A held victim is at a disadvantage, suffering
+a −4 penalty to attack rolls.
+¬¬ The largest tree-man crawlers (those of 55 or more
+hit points) are long enough that they may use
+the last four to six feet of their lengths to sweep
+opponents off their feet. A successful sweep attack
+deals 2d6 hp damage and knocks prone Small or
+Medium creatures (see Vol. III, p. 242: Combat,
+attack modifiers). A successful avoidance save halves
+the damage and allows
+the subject to remain
+standing.

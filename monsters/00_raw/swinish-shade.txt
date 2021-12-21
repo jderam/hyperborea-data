@@ -1,0 +1,87 @@
+SWINISH SHADE (Undead Type 1)
+No. Encountered: 1d20×10
+Alignment: Chaotic Evil
+Size: S
+Movement: 50
+Dexterity: 12
+Armour Class: −3
+Hit Dice: 1 hp
+Attack Rate: —
+Damage: —
+Saving Throw: —
+Morale: 12
+Experience Points: 15
+Treasure Class: —
+It is well known amongst savants that orcs are the
+spawn of fleshly men and dæmons, given life by the fell
+bargains of desperate folk in ancient times. What is less
+known is that the dæmonic essence lingers even after
+the foul orcish flesh is buried, burnt, or (oftest) eaten by
+fellow orcs. In a place where many orcs died in a short
+time, such as a great battlefield or an orcish settlement
+whose inhabitants were massacred, these unseen
+swinish shades can be numerous enough to affect the
+world of the living.
+In a haunted area (usually no more than one square
+mile), swinish shades will manifest during hours of
+darkness as a foul wind that plucks and tears at the
+bodies of the living and torments their souls. Those
+who listen closely might perceive a sound like the
+squealing and shrieking of myriad pigs. Although
+naturally invisible, if swinish shades are revealed
+through true seeing or a like ability, they present as an
+indistinct cloud of darkness with scores of burning
+eyes, portions of the mass occasionally coalescing into
+the leering faces of dæmonic pigs. When few swinish
+shades are present, this wind can but annoy and harass
+(e.g., extinguishing torches or lanterns, moving small
+objects), but when many such entities exist, they can
+present a real danger to life and limb.
+Special:
+¬¬ Immune to most sorcery. Protection from evil will
+prevent swinish shades from affecting those
+so warded. Dispel evil cast within their area of
+manifestation will destroy all swinish shades
+present.
+¬¬ +1 or better weapon to hit.
+¬¬ An attacker with true seeing or like means to
+penetrate invisibility receives a +4 attack bonus
+versus swinish shades.
+¬¬ During hours of darkness, living beings in a place
+haunted by swinish shades suffer −2 penalties on all
+attack rolls, damage rolls, and saving throws.
+¬¬ During hours of darkness, swinish shades can work
+as one entity, engulfing a single victim and exerting
+a strength score (ST) equal to 1 per 10 shades
+present (18 maximum). (Conversely, for every 10
+shades turned or destroyed, ST is reduced by −1.)
+This strength manifests as a physical force against
+the victim. If the victim is of equal or greater
+strength, he merely will suffer double the usual
+penalties (i.e., −4 on attack rolls, damage rolls, and
+saving throws). Weaker victims are overpowered
+and helpless, dragged at 50 MV toward a pit, a
+precipice, or some other deadly position. This final
+push can be evaded through an avoidance save;
+however, the shades relentlessly will continue to
+push every round (requiring subsequent avoidance
+saves). The success of attempts by companions
+to prevent this dragging and pushing must be
+adjudicated by the referee. Once a victim has been
+dropped to his doom, the swinish shades may
+return for another.
+¬¬ When swinish shades are massed as one entity,
+every hit point of damage inflicted upon them
+destroys one shade (e.g., a single strike from
+a magical sword causing 5 hp damage would
+eliminate five swinish shades). This attrition
+gradually diminishes the shades’ strength (see
+above).
+¬¬ Living beings that remain in an area haunted by
+swinish shades eventually will sicken and die.
+These unfortunates will be unable to sleep and
+will recover neither hit points nor spells. After
+spending 24 hours in such an area, they must make
+death saves or suffer 1d4 hp damage. In subsequent
+24-hour periods, this damage is automatic, with no
+saves permitted.

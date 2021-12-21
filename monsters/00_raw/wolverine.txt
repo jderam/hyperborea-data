@@ -1,0 +1,44 @@
+WOLVERINE Wolverine Giant Wolverine
+No. Encountered: 1d2 1d2
+Alignment: Neutral Chaotic Evil
+Size: S M
+Movement: 40 50
+Dexterity: 17 18
+Armour Class: 5 4
+Hit Dice: 3 4+5
+Attack Rate: 3/1
+(claw / claw / bite)
+3/1
+(claw / claw / bite)
+Damage: 1d4 / 1d4 / 1d6 1d6 / 1d6 / 1d8
+Saving Throw: 15 15
+Morale: 9 11
+Experience Points: 53 225
+Treasure Class: — Q, Y
+The wolverine is a stocky, short-legged, carnivorous
+mammal known for its dark, shaggy coat and bushy
+tail. (These are remarkable for their lighter-coloured
+bands; hence the coat can be of value to hunters.)
+Typical wolverines in Hyperborea are about four feet
+long and weigh as much as 70 pounds. They are robust
+creatures of nasty temperament, with semi-retractable
+claws and powerful teeth, and they carry an odious
+musk stench.
+Wolverines are held to possess intelligence slightly
+above that of other animals. They dwell in boreal forests
+and tundra regions, hunting deer, elk, and even other
+predators. They chase down their prey, pounce on it, and
+drag it to the ground. A wolverine will attack a man on
+sight.
+The giant wolverine is a bearlike beast that measures up
+to six feet long and three feet at the shoulder, weighing
+as much as 400 pounds. In addition to the prey noted
+above, a giant wolverine will hunt musk oxen and even
+small woolly mammoths. Giant wolverines are beasts of
+higher intelligence, capable of speech and aligned with
+Chaotic Evil.
+Special (all):
+¬¬ Offensive musk odour; death (poison) save for any
+creature within 10 feet or suffer a −2 attack penalty
+due to burning and watering eyes.
+¬¬ All attack rolls made at +4 bonus.

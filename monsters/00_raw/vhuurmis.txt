@@ -1,0 +1,42 @@
+VHUURMIS (Beast-Man)
+No. Encountered: 2d6 (5d6)
+Alignment: Neutral
+Size: M
+Movement: 50
+Dexterity: 11
+Armour Class: 4
+Hit Dice: 3+2
+Attack Rate: 1/1 (weapon)
+Damage: (per weapon +1)
+Saving Throw: 15
+Morale: 8
+Experience Points: 105
+Treasure Class: B
+The vhuurmis are a degenerate race of quasi-men that
+stand some six feet in height and are covered in shaggy,
+umber-coloured fur. Their faces are fur-hedged as those
+of baboons, except they are disturbingly human, with
+bright blue eyes, smooth ruddy skin, and pointed ears.
+They wield primitive weapons, and they communicate
+via a complex barking and howling language. Typically
+they lair in caves that pock the faces of sheer mountain
+walls and are generally inaccessible to most other
+creatures.
+The vhuurmis are amongst the more ancient races
+native to Hyperborea. When the decadent empire of the
+snake-men fell, it was the vhuurmis who, from their
+cliff-side palaces, ruled the Hyperborean mainland
+for ages; they rose to power and then degenerated
+to savagery. The first men followed: Hyperborean
+witches and warlocks who wrested control and hunted
+the vhuurmis. The dwindling vhuurmis retreated to
+Mount Vhuurmithadon, a treble-peaked volcano deep
+in the Spiral Mountain Array. Then came the Green
+Death. Mankind was driven to nigh extinction, and in
+the subsequent Dark Age, the vhuurmis rebounded.
+Presently their savage tribes populate mountain lairs
+all about the realm.
+Special:
+¬¬ Climb on 11-in-12 chance of success, at full
+movement rate (see Vol. I, p: 21: Classes, thief).
+¬¬ +2 bonus to saves versus cold-related attacks.

@@ -1,0 +1,79 @@
+VAMPIRE (Undead Type 11)
+No. Encountered: 1 (2d4)
+Alignment: Evil (Lawful or Chaotic)
+Size: M
+Movement: 40 (fly 80)
+Dexterity: 16
+Armour Class: 2
+Hit Dice: 9+2
+Attack Rate: 2/1 (pummel / pummel)
+Damage: 2d6 / 2d6
+Saving Throw: 12
+Morale: 10
+Experience Points: 2,650*
+Treasure Class: F
+* Refer to p. 294: Table 122 for classed individuals.
+This notorious undead monster is a cursed man
+arisen from the grave to prey on the weak and drink
+their blood. Vampires take many forms, some being
+incorporeal manifestations that haunt locales of
+unfortunate occurrences. The most common vampires
+are those oft told of in folklore: malevolent corpses
+that dwell in cursed tombs, ruins, and other desolate
+places, where they slumber in coffins, sarcophagi, or
+like receptacles. Vampires are perhaps the most feared
+undead because of their brutal power and ability to
+command both the living and the dead. They are as
+clever and resourceful as they are sadistic and cruel; to
+conquer a vampire is no easy task.
+Special:
+¬¬ At will, can assume the shape of a bat, giant bat, or
+wolf, or gaseous form (as the potion; see Vol. V,
+p. 438: Magical Treasure, magical potions).
+¬¬ Immune to poison, paralysis, fear, and cold.
+¬¬ Will not cross a body of water unless secured in its
+coffin.
+¬¬ Strong odour of garlic repels a vampire, unless
+death (poison) save is made.
+¬¬ Even if turning is not possible (or if turn attempt
+fails), vampires will recoil from the boldly
+presented holy symbol of a Lawful Good cleric,
+priest, or paladin.
+¬¬ +1 or better weapon to hit.
+¬¬ Regenerates 3 hp per round; if reduced to 0 hp,
+assumes gaseous form and returns to its coffin,
+where it regenerates at 3 hp per turn.
+¬¬ Disintegrated by direct sunlight, unless death
+save is made, in which case creature is burnt for
+1d6 hp damage per round; this damage does not
+regenerate unless vampire returns to its coffin for
+24 hours. If reduced to 0 hp in sunlight, vampire
+disintegrates.
+¬¬ To otherwise kill a vampire, wooden stake must
+be driven through its heart when reduced to 0 hp;
+body must be placed in a coffin and sealed, and
+decapitated head buried elsewhere.
+¬¬ Once per day can summon 3d6 giant bats, 6d6 rats,
+2d12 giant rats, 2d6 wolves, or 1d8 dire wolves,
+which arrive 1d4 rounds later.
+¬¬ Once per victim per day, can ensorcel a man
+with its gaze; must make sorcery save at −2
+penalty or acquiesce to vampire’s will. The save is
+modified by willpower adjustment (see Vol. I, p. 9:
+Attributes, wisdom), if applicable. Vampire then
+can bite victim’s neck to drain blood for 1 point of
+constitution per round. Those drained to 1 or 2 CN
+become vampire
+thralls; those
+drained to 0
+CN are slain.
+Survivors regain
+lost CN at 1 point
+per day of complete
+bed rest.
+¬¬ Rare is the vampire
+that retains a class from
+its mortal life (oftest a
+magician or cleric), with
+abilities as high as 9th level,
+but no additional HD.

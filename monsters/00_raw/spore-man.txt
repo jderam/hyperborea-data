@@ -1,0 +1,48 @@
+SPORE-MAN
+No. Encountered: 1d3
+Alignment: Lawful Evil
+Size: M
+Movement: 40
+Dexterity: 9
+Armour Class: 6
+Hit Dice: 3+2
+Attack Rate: 2/1 (claw / claw)
+Damage: 1d8+1 / 1d8+1
+Saving Throw: 15
+Morale: 9
+Experience Points: 165
+Treasure Class: J, K, L, M
+Spore-men present as men, cave-men, ape-men, orcs,
+or other mammalian humanoids. However, they have
+been infected by the spores of the russet mould, a
+highly intelligent fungus of otherworldly origin able
+to endure the cold vacuum of the Black Gulf, traversing
+the cosmos on comets and meteors. When a mammal
+steps within five feet of the russet mould, it releases
+rust-coloured spores. The target must make a death
+(poison) save or suffer infection; cure disease is effective
+if cast within 48 hours.
+Aggressively the spores multiply and release an
+enzyme that breaks down flesh, muscles, and organs,
+all quite painful and debilitating. This necrosis kills
+most mammals after 48 hours, but with men and other
+mammalian humanoids, the spores form a symbiotic
+relationship, controlling the host like a puppet. The
+spores cover the victim in lumpy russet mould, joining
+with the skin and hair and leaving two dead white eyes.
+Notwithstanding, the victim still can be saved and
+revived via a cure disease spell from a CA 6 or greater
+sorcerer; survival also requires a trauma survival check
+(see Vol. I, p. 8: Attributes, constitution).
+Spore-men reserve the highest esteem for Yug and
+Azathoth. Often they assume positions of leadership in
+the societies of cave-men (their primary host species),
+selectively infecting their leaders. Spore-men are
+strong, intelligent, cruel, and manipulative. From their
+hands they can form sickle claws of three-foot length,
+composed entirely of spores as hard and sharp as steel.
+Special:
+¬¬ Can exhale spores once per day in a cone 20 feet
+long and 10 feet wide at the terminus. Target must
+make death (poison) save or suffer russet mould
+infection, as above.

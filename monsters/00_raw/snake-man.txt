@@ -1,0 +1,57 @@
+SNAKE-MAN
+No. Encountered: 1 (2d12)
+Alignment: Lawful Evil
+Size: M
+Movement: 20 (slither 40)
+Dexterity: 10
+Armour Class: 6
+Hit Dice: 2+2
+Attack Rate: 1/1 (bite or weapon)
+Damage: 1d4 (or per weapon)
+Saving Throw: 16
+Morale: 9
+Experience Points: 107*
+Treasure Class: A, S, T
+* Refer to p. 294: Table 122 for classed individuals.
+Long before man struggled up from the lowly depths
+of apedom, this semi-anthropoid race of reptiles ruled
+the continent of Hyperborea. They built vast cities of
+crystal and stone, and throughout millennia they knew
+conflict with the crab-men, elder things, fish-men,
+Great Race, and mi-go. Whither the snake-men, not
+even the wisest of sages can say, for their epoch ended
+long before the rise of the Hyperborean race of Old
+Earth. They slithered to the bowels of Underborea, like
+worms of the earth, and for untold ages went unseen.
+But lo, in the most unhallowed corners of Hyperborea,
+the hated snake-men have materialized, taking the
+guise of sages and assuming advisory positions to
+knights and nobles, kings and overlords.
+In their true forms, snake-men have vaguely human
+bodies, though with snake heads and long tails; too,
+they are covered in reticulated scales of variable
+colour. They may ambulate as men do, though with
+awkward, swaying gaits, but are faster when they
+drop to their bellies and slither. Snake-men are highly
+intelligent, and they speak in a sibilant tongue that
+man cannot duplicate; only with specially concocted
+potions can snake-men speak the languages of men.
+They are acclaimed as brilliant scientists, sorcerers,
+dweomercræfters, and toxicologists. Most snake-men
+venerate Yig, “The Great Serpent”.
+Special:
+¬¬ Infrared vision (as the spell) to 60-foot range.
+¬¬ Can alter self at will (as the spell).
+¬¬ Snakes and giant snakes obey the will of snakemen
+without question; thus snake-men oft will
+have asps, spitting cobras, or vipers in their
+presence.
+¬¬ Bite delivers venom; make death (poison) save or
+suffer additional 1d6 hp damage, with paralysis
+occurring within 1d4 rounds for a duration of 2d6
+turns.
+¬¬ Most snake-men adopt a class; typical examples
+include magician, illusionist, necromancer, monk,
+priest, and assassin. They can advance to 11th level;
+for each level beyond 2nd, they add 1 hit die (d8) to
+their base 2+2 HD.

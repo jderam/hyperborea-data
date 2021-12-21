@@ -1,0 +1,43 @@
+TROGLODYTE
+(Trog) Troglodyte Chieftain
+No. Encountered: 2d4 (1d6×10) 1:20
+Alignment: Chaotic Evil Chaotic Evil
+Size: M M
+Movement: 40 (swim 50) 40 (swim 50)
+Dexterity: 10 12
+Armour Class: 5 3
+Hit Dice: 2 5
+Attack Rate: 3/1 (claw / claw /
+bite) or 1/1 (weapon)
+3/1 (claw / claw /
+bite) or 1/1 (weapon)
+Damage: 1d3 / 1d3 / 1d4
+(or per weapon)
+1d4 / 1d4 / 1d6
+(or per weapon)
+Saving Throw: 16 14
+Morale: 9 10
+Experience Points: 32 225
+Treasure Class: J; A M (×2)
+Troglodytes are reptilian humanoids of primitive
+intelligence, capable of weapon use and simple technology.
+They are violent creatures who despise men and attack on
+sight. They dwell in subterranean caverns or dungeons,
+and they see in the dark through bulging, lamp-like eyes.
+Troglodytes have scaly skin, long legs, short tails, and
+spiny combs that protrude from head, neck, and back;
+smaller combs protrude from the backs of their arms.
+The digits of their hands and feet are webbed, and they
+are superior swimmers, able to hold their breath for as
+long as two hours. These creatures also possess natural
+chameleonic abilities and can emit a musk scent that
+nauseates other creatures. For every 20 troglodytes, there
+will be 1 troglodyte chieftain, an exceptional beast with
+overlapping, chitinous scales.
+Special:
+¬¬ Chameleonic ability increases chance to surprize
+enemies by 2-in-6.
+¬¬ Nauseating musk odour surrounds them in 10-foot
+radius; make death (poison) save or suffer −2 attack
+penalty for
+1d6 rounds.

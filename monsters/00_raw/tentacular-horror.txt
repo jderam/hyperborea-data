@@ -1,0 +1,37 @@
+TENTACULAR HORROR
+No. Encountered: 1
+Alignment: Chaotic Evil
+Size: L
+Movement: 50
+Dexterity: 15
+Armour Class: 7
+Hit Dice: 5
+Attack Rate: 2/1 (tentacle / tentacle)
+Damage: 2d4 / 2d4
+Saving Throw: 14
+Morale: 8
+Experience Points: 250
+Treasure Class: D
+This otherworldly parasite is transmitted to a host
+(typically a mammal) through contact with infected
+fæcal matter. The digestive system of the host is
+attacked, proving fatal within 24–48 hours. Dogs,
+wolves, and (especially) blink dogs can sense an
+infected victim and will howl and bristle in response.
+Tentacular horrors fear and loathe blink dogs, which
+are immune to affliction.
+Upon death, the host sprouts six legs of eight-foot
+length, similar to those of a daddy longlegs; typically
+these legs burst from the ribcage of the host. From the
+back or shoulders of the victim emerge two powerful
+tentacles of 12-foot length, edged with sharp horns. The
+tentacles are coated with a paralytic enzyme. Paralyzed
+victims are consumed by the tentacular horror host’s
+mouth, be it that of a man, a dog, a horse, a lion, a bear,
+or the like.
+Special:
+¬¬ Tentacles paralyze on contact for 2d6 turns unless
+death save is made.
+¬¬ Cure disease can alleviate affliction during
+incubation period. Also it can kill a tentacular
+horror outright, unless a death save is made.
