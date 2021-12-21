@@ -1,0 +1,30 @@
+RAT Rat Giant Rat
+No. Encountered: 2d10 (5d10) 3d6 (3d10)
+Alignment: Neutral Neutral
+Size: S S
+Movement: 30 (swim 20) 40 (swim 20)
+Dexterity: 16 8
+Armour Class: 9 7
+Hit Dice: ¼ ½
+Attack Rate: 1/1 (bite) 1/1 (bite)
+Damage: 1 1d4
+Saving Throw: 17 17
+Morale: 5 8
+Experience Points: 7 9
+Treasure Class: — C
+A rat is a largish rodent with a pointed snout and
+a long, hairless tail. Two varieties are extant in
+Hyperborea: one with brown fur, the other black. Rats
+are from one to two feet long (plus tail), are aggressive
+when hungry, and will attack men if desperate. A giant
+rat measures about three feet long (plus tail) and
+weighs as much as 60 pounds. These vermin are ofter
+found in dungeons, though they might plague cities.
+Special:
+¬¬ 1-in-6 chance to infect victim with disease upon
+successful hit, unless death (poison) save is made.
+If save fails, victim either dies in 1d6 days after
+suffering fevers and delusion, or is bedridden for a
+month with pain and fever. Roll a d6: On a score of
+1–2 (rats) or 1–3 (giant rats), the disease is terminal;
+otherwise the non-deadly strain is contracted.
