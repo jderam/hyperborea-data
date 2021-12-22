@@ -1,19 +1,18 @@
-CAVE-MAN
+CAVE-MAN SUB-CHIEF
 (Neanderthal)
-No. Encountered: 1d6 (6d6 or 10d10)
+No. Encountered: 1:10
 Alignment: Chaotic Evil
 Size: M
 Movement: 30
 Dexterity: 10
 Armour Class: 8 (or per armour)
-Hit Dice: 1+1
-Attack Rate: 1/1 (weapon)
-Damage: (per weapon +1)
-Saving Throw: 16
-Morale: 8
-Experience Points: 20*
-Treasure Class: L; C, Q (×10), S
-* Refer to p. 294: Table 122 for classed individuals.
+Hit Dice: 3+3
+Attack Rate: 3/2 (weapon) 3/2 (weapon)
+Damage: (per weapon +2)
+Saving Throw: 15
+Morale: 9
+Experience Points: 90
+Treasure Class: M (×5)
 These are quasi-men of robust physicality, with
 squat, muscular bodies, thick bones, and apelike
 countenances of receding foreheads and pronounced
@@ -44,6 +43,5 @@ wander into human settlements to engage in trade, but
 generally they are not allowed in taverns, inns, and the
 like.
 Special:
-¬¬ Cave-man shamans (male or female) can advance
-as high as 6th level; for each level beyond 1st, they
-add 1 hit die (d8) to their base 1+1 HD.
+¬¬ Sub-chiefs are +1 to attack rolls and +2 to damage
+via weapon mastery and high strength.

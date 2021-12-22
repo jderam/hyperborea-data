@@ -1,0 +1,44 @@
+MONSTROUS GREEN CENTIPEDE
+No. Encountered: 1d4
+Alignment: Neutral
+Size: L
+Movement: 40
+Dexterity: 10
+Armour Class: 3
+Hit Dice: 10
+Attack Rate: 1/1 (bite)
+Damage: 3d6+3
+Saving Throw: 12
+Morale: 10
+Experience Points: 1,750
+Treasure Class: J, K, L, M, N, Q
+The monstrous green centipede is a myriapod from 30
+to 40 feet long that dwells in the deepest subterranean
+caverns of Hyperborea. Its large mandibles inflict
+crushing damage, but its venom is less toxic than its
+smaller counterparts. This centipede is a surprisingly
+fast creature that aims to entrap its prey in an
+underbelly cavity; it then retreats to digest its victims’
+flesh and blood, ejecting any other remains in a
+spherical pile.
+Special:
+¬¬ Bite delivers venom; make
+death (poison) save or suffer
+slow effect (as the spell) for
+2d6 turns.
+¬¬ Can entrap slowed victims:
+The centipede rears up, its
+underbelly exoskeletal plates
+swing open, and its legs
+scoop the victim into one of its two or three coffinsized
+cavities. This manoeuvre requires a separate
+attack roll (non-damaging), and an avoidance
+save is permitted. Inside the centipede, an acidic,
+digestive gel releases, causing 1 hp damage per
+turn until death or escape. The entrapped may
+attempt to push open the exoskeletal plates via
+an extraordinary feat of strength (see Vol. I, p. 7:
+Attributes, strength). Alternatively, he can use
+a WC 1–3 blade to cut his way free, with an attack
+penalty equal to the weapon class; the entrapped
+must inflict 20 hp damage to break free.

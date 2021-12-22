@@ -1,0 +1,32 @@
+GIANT BLACK CENTIPEDE
+No. Encountered: 3d4 (3d12)
+Alignment: Neutral
+Size: S
+Movement: 20
+Dexterity: 13
+Armour Class: 9
+Hit Dice: ½
+Attack Rate: 1/1 (bite)
+Damage: 1d2
+Saving Throw: 17
+Morale: 7
+Experience Points: 25
+Treasure Class: —
+Giant centipedes are multi-segmented arthropods,
+up to 2½ feet long and narrow, with a pair of legs
+projecting from each segment. They typically inhabit
+mild, moist environments, as well as caverns and
+dungeons deep. Many varieties of giant centipede exist
+(some of which are edible). Notorious species include
+the giant black centipede, a glossy black variety noted
+for its bands of orange and yellow; the giant brown
+centipede, noted for its light red underbelly; and the
+giant pink centipede, noted for its green spots. The
+black and pink centipedes’ pincer bites inflict minimal
+damage, but their venom is potentially deadly; the
+brown centipede’s pincer bite delivers acidic, skineating
+venom.
+Special:
+¬¬ Bite delivers venom; make death (poison) save or
+suffer an additional 2d6 hp damage—a painful,
+blood-boiling sensation.

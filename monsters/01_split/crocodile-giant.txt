@@ -1,0 +1,26 @@
+GIANT CROCODILE
+No. Encountered: 1
+Alignment: Neutral
+Size: L
+Movement: 40 (swim 50)
+Dexterity: 9
+Armour Class: 0
+Hit Dice: 12
+Attack Rate: 1/1 (bite)
+Damage: 3d12
+Saving Throw: 11
+Morale: 9
+Experience Points: 2,300
+Treasure Class: —
+Giant crocodiles of 50-foot length lurk in the sea,
+though sometimes in coastal marshlands. They are
+notorious for tearing open the hulls of ships.
+Special:
+¬¬ On a natural 19 or 20 attack roll, the giant crocodile
+swallows its victim whole, inflicting 1d6 hp damage
+per round thereafter; after 3 rounds, the victim may
+asphyxiate (see Vol. III, p. 263: Special Damage,
+asphyxia). Swallowed prey can cut its way out with
+a WC 1–3 blade, with an attack penalty equal to
+the weapon class. If 12 hp damage is inflicted from
+within, a large enough rent is cut for escape.

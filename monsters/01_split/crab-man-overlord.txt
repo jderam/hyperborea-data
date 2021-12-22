@@ -1,17 +1,17 @@
-CRAB-MAN
-No. Encountered: 1d6 (4d6×10)
+CRAB-MAN OVERLORD
+No. Encountered: 1:20
 Alignment: Neutral
 Size: L
 Movement: 30
-Dexterity: 9
-Armour Class: 3
-Hit Dice: 3+3
+Dexterity: 12
+Armour Class: 0
+Hit Dice: 6+6
 Attack Rate: 2/1 (pincer / pincer) or 3/1 (laser rifle)
-Damage: 2d4 / 2d4 or 3d6 (×3)
-Saving Throw: 15
-Morale: 9
-Experience Points: 75 (or 165 with laser rifle)
-Treasure Class: N; I, O, P, Q (×10), X, Y
+Damage: 2d6 / 2d6 or 3d6 (×3)
+Saving Throw: 14
+Morale: 10
+Experience Points: 450 (or 750 with laser rifle)
+Treasure Class: N (×5), Q
 Reputed to originate from the ocean planet Poseidenos,
 this highly technological alien race builds cities from
 chitinous materials deep below the sea; likewise are
