@@ -1,18 +1,17 @@
-ELEMENTAL,
-WATER Class I Class II Class III
-No. Encountered: 1 1 1
-Alignment: Neutral Neutral Neutral
-Size: L L L
-Movement: 20 (swim 60) 20 (swim 60) 20 (swim 60)
-Dexterity: 11 11 11
-Armour Class: 2 0 −2
-Hit Dice: 8 12 16
-Attack Rate: 1/1 (slam) 1/1 (slam) 1/1 (slam)
-Damage: 1d20 2d20 3d20
-Saving Throw: 13 11 9
-Morale: 10 10 10
-Experience Points: 840 2,700 4,800
-Treasure Class: — — —
+WATER ELEMENTAL Class I
+No. Encountered: 1
+Alignment: Neutral
+Size: L
+Movement: 20 (swim 60)
+Dexterity: 11
+Armour Class: 2
+Hit Dice: 8
+Attack Rate: 1/1 (slam)
+Damage: 1d20
+Saving Throw: 13
+Morale: 10
+Experience Points: 840
+Treasure Class: —
 This semi-intelligent elemental manifests as a
 standing wave of bubbling water, with dæmonic eyes
 and frowning mouth at the centre of its bulk. Water

@@ -1,17 +1,17 @@
-ELEMENTAL, AIR Class I Class II Class III
-No. Encountered: 1 1 1
-Alignment: Neutral Neutral Neutral
-Size: M L L
-Movement: 40 (fly 120) 40 (fly 120) 40 (fly 120)
-Dexterity: 11 11 11
-Armour Class: 2 0 −2
-Hit Dice: 8 12 16
-Attack Rate: 1/1 (slam) 1/1 (slam) 1/1 (slam)
-Damage: 2d8 4d8 6d8
-Saving Throw: 13 11 9
-Morale: 10 10 10
-Experience Points: 920 2,900 5,100
-Treasure Class: — — —
+AIR ELEMENTAL Class III
+No. Encountered: 1
+Alignment: Neutral
+Size: L
+Movement: 40 (fly 120)
+Dexterity: 11
+Armour Class: −2
+Hit Dice: 16
+Attack Rate: 1/1 (slam)
+Damage: 6d8
+Saving Throw: 9
+Morale: 10
+Experience Points: 5,100
+Treasure Class: —
 These semi-intelligent whirlwinds present as inverted
 cones that shew vaguely humanoid countenances as
 they pummel their foes with high-velocity air. Each

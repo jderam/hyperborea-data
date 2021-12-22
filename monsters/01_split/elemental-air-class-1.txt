@@ -1,0 +1,33 @@
+AIR ELEMENTAL Class I
+No. Encountered: 1
+Alignment: Neutral
+Size: M
+Movement: 40 (fly 120)
+Dexterity: 11
+Armour Class: 2
+Hit Dice: 8
+Attack Rate: 1/1 (slam)
+Damage: 2d8
+Saving Throw: 13
+Morale: 10
+Experience Points: 920
+Treasure Class: —
+These semi-intelligent whirlwinds present as inverted
+cones that shew vaguely humanoid countenances as
+they pummel their foes with high-velocity air. Each
+type has a truncated bottom diameter of about two feet,
+a height in feet equal to its HD, and a top diameter of
+approximately half its height; hence an 8-HD specimen
+is about eight feet tall with a four-foot-diameter top.
+They can move across land or swirl up into the sky.
+Special:
+¬¬ Immune to cold.
+¬¬ +1 or better weapon to hit.
+¬¬ Inflicts an extra 1d8 hp damage versus airborne
+foes.
+¬¬ Class I can sweep away creatures of no more than
+1 HD, unless avoidance saves are made. Class II can
+sweep away creatures of 2 HD or fewer; class III,
+creatures of 3 HD or fewer. Victims are lifted as
+high as possible and then dropped (see Vol. III, p.
+263: Damage, falling damage).

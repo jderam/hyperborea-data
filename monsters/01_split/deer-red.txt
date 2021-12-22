@@ -1,0 +1,23 @@
+RED DEER
+No. Encountered: 5d6 (2d10×10)
+Alignment: Neutral
+Size: M
+Movement: 70
+Dexterity: 13
+Armour Class: 8
+Hit Dice: 1
+Attack Rate: 1/1 (gore)
+Damage: 1d4
+Saving Throw: 16
+Morale: 3
+Experience Points: 13
+Treasure Class: —
+Red deer have a coat of red in the four years of summer,
+or grey in the other nine years of the 13-year Hyperborean
+cycle. They stand from three to four feet at the shoulder
+and weigh 250–350 pounds. They flee from most
+everything, though a cornered hart can butt with its
+antlers.
+Special:
+¬¬ Charging gore attack results in double damage dice.
+Special (giant elk):

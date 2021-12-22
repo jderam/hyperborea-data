@@ -1,23 +1,17 @@
-ELEMENTAL,
-EARTH Class I Class II Class III
-No. Encountered: 1 1 1
-Alignment: Neutral Neutral Neutral
-Size: M L L
-Movement: 40 40 40
-Dexterity: 7 6 5
-Armour Class: 2 0 −2
-Hit Dice: 8 12 16
-Attack Rate: 1/1
-(pummel)
-1/1
-(pummel)
-1/1
-(pummel)
-Damage: 3d6 6d6 9d6
-Saving Throw: 13 11 9
-Morale: 10 10 10
-Experience Points: 840 2,700 4,800
-Treasure Class: — — —
+EARTH ELEMENTAL Class III
+No. Encountered: 1
+Alignment: Neutral
+Size: L
+Movement: 40
+Dexterity: 5
+Armour Class: −2
+Hit Dice: 16
+Attack Rate: 1/1 (pummel)
+Damage: 9d6
+Saving Throw: 9
+Morale: 10
+Experience Points: 4,800
+Treasure Class: —
 These humanoid creatures are composed of hardpacked
 dirt, sand, and rock. Resembling roughly
 hewn statues, their steps are thunderous, and they

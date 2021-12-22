@@ -1,17 +1,17 @@
-ELEMENTAL, FIRE Class I Class II Class III
-No. Encountered: 1 1 1
-Alignment: Neutral Neutral Neutral
-Size: L L L
-Movement: 40 40 40
-Dexterity: 11 11 11
-Armour Class: 2 0 −2
-Hit Dice: 8 12 16
-Attack Rate: 1/1 (touch) 1/1 (touch) 1/1 (touch)
-Damage: 4d4 8d4 12d4
-Saving Throw: 13 11 9
-Morale: 10 10 10
-Experience Points: 840 2,700 4,800
-Treasure Class: — — —
+FIRE ELEMENTAL Class II
+No. Encountered: 1
+Alignment: Neutral
+Size: L
+Movement: 40
+Dexterity: 11
+Armour Class: 0
+Hit Dice: 12
+Attack Rate: 1/1 (touch)
+Damage: 8d4
+Saving Throw: 11
+Morale: 10
+Experience Points: 2,700
+Treasure Class: —
 This semi-intelligent, conical pillar of roaring flames
 is as tall in feet as its HD, with a base of like diameter.
 Small gouts of blue or green flames simulate mouth
