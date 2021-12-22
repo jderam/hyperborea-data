@@ -1,4 +1,5 @@
-DÆMON, LESSER, CLASS xiv (Undead Type 13)
+DÆMON, LESSER, CLASS xiv
+(Undead Type 13)
 No. Encountered: 1d4
 Alignment: Chaotic Evil
 Size: L

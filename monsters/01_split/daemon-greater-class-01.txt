@@ -1,4 +1,5 @@
-DÆMON, GREATER, CLASS I (Undead Type 13)
+DÆMON, GREATER, CLASS I
+(Undead Type 13)
 No. Encountered: 1d3
 Alignment: Chaotic Evil
 Size: L

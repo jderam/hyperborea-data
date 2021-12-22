@@ -1,4 +1,5 @@
-ELDER THING (Elder One, Old One)
+ELDER THING
+(Elder One, Old One)
 No. Encountered: 1d8
 Alignment: Chaotic Evil
 Size: L

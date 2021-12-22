@@ -1,4 +1,5 @@
-DÆMON, LESSER, CLASS ix (Undead Type 13)
+DÆMON, LESSER, CLASS ix
+(Undead Type 13)
 No. Encountered: 1d6
 Alignment: Chaotic Evil
 Size: M
