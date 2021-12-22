@@ -1,0 +1,19 @@
+OWL
+No. Appearing: 1 (1d2)
+Alignment: Neutral
+Size: S
+Movement: 10 (fly 80)
+Dexterity: 15
+Armour Class: 7
+Hit Dice: ½
+Attack Rate: 3/1 (claw / claw / bite)
+Damage: 1 / 1 / 1
+Saving Throw: 17
+Morale: 4
+Experience Points: 11
+Treasure Class: —
+Special:
+¬¬ Owls are silent fliers; chance to surprize opponents increased by 3-in-6
+at night.
+¬¬ Dive bomb attack (claws only) from 50+ feet at +2 damage bonus,
+with −1 AC penalty.

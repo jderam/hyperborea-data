@@ -1,0 +1,31 @@
+ANIMAL, UNDEAD, MEDIUM
+(Undead Type 1)
+No. Encountered: 1 (1d6)
+Alignment: Chaotic Evil
+Size: M
+Movement: 30
+Dexterity: 10
+Armour Class: 7
+Hit Dice: 1
+Attack Rate: 1/1 (claw, bite, etc.)
+Damage: 2d4
+Saving Throw: 16
+Morale: 12
+Experience Points: 16
+Treasure Class: —
+These are the risen skeletons of animal carrion, raised
+to serve the vile purposes of some wicked necromancer.
+They are fearless in their guardianship, but their
+comprehension of directives is dubious at best. They
+will attack using a means standard to their type, though
+limited to one such attack per round; too, undead
+animals no longer retain special abilities such as flight,
+musk, venom, and so forth. For more information,
+refer to the spells animate carrion, animate carrion II, and
+animate carrion III.
+Special:
+¬¬ Immune to poison, paralysis, fear, and cold.
+¬¬ Edged and piercing weapons cause ½ damage
+against them (damage dice halved, with bonuses
+added afterwards), but blunt weapons inflict
+normal damage.

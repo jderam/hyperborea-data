@@ -1,0 +1,46 @@
+FLESH AUTOMATON
+No. Encountered: 1
+Alignment: Neutral
+Size: M
+Movement: 20
+Dexterity: 7
+Armour Class: 7
+Hit Dice: 9+2
+Attack Rate: 2/1 (pummel)
+Damage: 2d8 / 2d8
+Saving Throw: 12
+Morale: 11
+Experience Points: 1,600
+Treasure Class: —
+Automata are humanoid constructs of mad sorcerers
+and their ilk, the formulæ for the creation of
+which trace back to a bygone age when Atlanteans,
+Hyperboreans, and Lemurians commingled sorcery
+and science. Strange wires, conduits, batteries, cells,
+and circuits are installed in many of these creations,
+though no two manuals of automaton creation (see
+Vol. V, p. 482: Magical Treasure, miscellaneous
+magic items) describe precisely identical processes;
+alternative methods of creation were engendered by the
+ancients, but this is a lost science in rapidly decaying
+Hyperborea.
+A flesh automaton is built from the corpses of at least
+five men. Though the creature is impervious to most
+harm (unless magical), the creator might yet gird his
+golem in armour. The flesh automaton obeys the will
+of its creator; commands must be simple, for the brute
+retains limited intelligence.
+Special:
+¬¬ +1 or better weapon to hit.
+¬¬ Immune to charm, hold, sleep, and other mindaffecting
+sorcery.
+¬¬ Electrical attacks heal the monster instead of
+damaging it.
+¬¬ 1-in-10 chance per round of combat that creature
+loses control, attempting to kill all in sight. It
+attacks berserkly at +2 to attack and damage
+rolls and then flees after 2d6 rounds. It thereafter
+will wander aimlessly, avoiding civilization;
+rehabilitation is no simple matter. Some flesh
+automata are said to manifest rudimentary
+intelligence and emotion after such episodes.

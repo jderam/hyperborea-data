@@ -1,18 +1,18 @@
-ABOMINABLE SNOW-MAN
+ABOMINABLE SNOW-MAN ALPHA
 (Yeti)
-No. Encountered: 1d6 (6d6)
+No. Encountered: 1:8
 Alignment: Chaotic Evil
 Size: M
-Movement: 50
-Dexterity: 10
-Armour Class: 4
-Hit Dice: 4+4
-Attack Rate: 2/1 (claw / claw) or 1/1 (weapon)
-Damage: 1d6+1 / 1d6+1 (or per weapon +1)
-Saving Throw: 15
-Morale: 9
-Experience Points: 175
-Treasure Class: D
+Movement: 40
+Dexterity: 8
+Armour Class: 3
+Hit Dice: 6+4
+Attack Rate: 2/1 (claw / claw) or 3/2 (weapon)
+Damage: 1d8+2 / 1d8+2 (or per weapon +2)
+Saving Throw: 14
+Morale: 10
+Experience Points: 510
+Treasure Class: Q
 These despicable, flesh-eating humanoids inhabit the
 coldest, least hospitable regions. They stand eight feet
 tall, weigh 350–400 pounds, and are covered in shaggy,

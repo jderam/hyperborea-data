@@ -1,0 +1,17 @@
+FALCON / HAWK
+No. Appearing: 1 (1d6)
+Alignment: Neutral
+Size: S
+Movement: 10 (fly 120)
+Dexterity: 15
+Armour Class: 5
+Hit Dice: ½
+Attack Rate: 3/1 (claw / claw / bite)
+Damage: 1 / 1 / 1
+Saving Throw: 17
+Morale: 4
+Experience Points: 9
+Treasure Class: —
+Special:
+¬¬ Dive bomb attack (claws only) from 100+ feet at +2 bonus to attack and
+damage rolls.

@@ -1,24 +1,18 @@
-ANIMAL,
-UNDEAD
-Small Undead Animal
+ANIMAL, UNDEAD, SMALL
 (Undead Type 0)
-Medium Undead Animal
-(Undead Type 1)
-Large Undead Animal
-(Undead Type 2)
-No. Encountered: 1 (1d6) 1 (1d6) 1 (1d2)
-Alignment: Chaotic Evil Chaotic Evil Chaotic Evil
-Size: S M L
-Movement: 30 30 30
-Dexterity: 10 10 9
-Armour Class: 8 7 6
-Hit Dice: ½ 1 5
-Attack Rate: 1/1 (claw, bite, etc.) 1/1 (claw, bite, etc.) 1/1 (claw, bite, etc.)
-Damage: 1d4 2d4 3d4
-Saving Throw: 17 16 14
-Morale: 12 12 12
-Experience Points: 9 16 200
-Treasure Class: — — —
+No. Encountered: 1 (1d6)
+Alignment: Chaotic Evil
+Size: S
+Movement: 30
+Dexterity: 10
+Armour Class: 8
+Hit Dice: ½
+Attack Rate: 1/1 (claw, bite, etc.)
+Damage: 1d4
+Saving Throw: 17
+Morale: 12
+Experience Points: 9
+Treasure Class: —
 These are the risen skeletons of animal carrion, raised
 to serve the vile purposes of some wicked necromancer.
 They are fearless in their guardianship, but their

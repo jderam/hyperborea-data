@@ -1,0 +1,18 @@
+FOX
+No. Appearing: 1d2 (1d4+1)
+Alignment: Neutral
+Size: S
+Movement: 50
+Dexterity: 15
+Armour Class: 7
+Hit Dice: ½
+Attack Rate: 1/1 (bite)
+Damage: 1d3
+Saving Throw: 17
+Morale: 5
+Experience Points: 7
+Treasure Class: —
+Special:
+¬¬ Pelt turns white in winter years; camouflage
+provides 6-in-12 chance to hide in snow
+(see Vol. I, p. 21: Classes, thief).

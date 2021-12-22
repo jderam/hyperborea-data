@@ -1,18 +1,17 @@
-APE-MAN
-No. Encountered: 1d6 (6d6)
-Alignment: Neutral or Lawful Evil
+APE-MAN ALPHA
+No. Encountered: 1:12
+Alignment:  Neutral or Lawful Evil
 Size: M
 Movement: 30
-Dexterity: 10
-Armour Class: 8
-Hit Dice: 1+2
-Attack Rate: 1/1 (weapon)
+Dexterity: 12
+Armour Class: 7
+Hit Dice: 3+4
+Attack Rate: 3/2 (weapon)
 Damage: (per weapon +1)
-Saving Throw: 16
+Saving Throw: 15
 Morale: 9
-Experience Points: 24*
-Treasure Class: L; C, Q (×2), S
-* Refer to p. 294: Table 122 for classed individuals.
+Experience Points: 90
+Treasure Class: M, Q (×2); Q (×5)
 These quasi-humans walk upright as men; males are
 from five to six feet tall, females from four to five feet
 tall on average. Ape-men have the base countenance
@@ -44,6 +43,3 @@ beneficiaries of otherworldly sponsorship.
 Special:
 ¬¬ Climb on 11-in-12 chance of success, at full
 movement rate (see Vol. I, p: 21: Classes, thief).
-¬¬ Ape-man shamans can advance as high as 5th level;
-for each level beyond 1st, they add 1 hit die (d8) to
-their base 1+2 HD.

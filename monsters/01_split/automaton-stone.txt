@@ -1,0 +1,42 @@
+STONE AUTOMATON
+No. Encountered: 1
+Alignment: Neutral
+Size: L
+Movement: 20
+Dexterity: 5
+Armour Class: 5
+Hit Dice: 14+2
+Attack Rate: 1/1 (weapon)
+Damage: 6d6
+Saving Throw: 10
+Morale: 12
+Experience Points: 3,250
+Treasure Class: —
+Automata are humanoid constructs of mad sorcerers
+and their ilk, the formulæ for the creation of
+which trace back to a bygone age when Atlanteans,
+Hyperboreans, and Lemurians commingled sorcery
+and science. Strange wires, conduits, batteries, cells,
+and circuits are installed in many of these creations,
+though no two manuals of automaton creation (see
+Vol. V, p. 482: Magical Treasure, miscellaneous
+magic items) describe precisely identical processes;
+alternative methods of creation were engendered by the
+ancients, but this is a lost science in rapidly decaying
+Hyperborea.
+A stone automaton is a 10-foot-tall statue chiselled
+from granite or marble, oft with the likeness of a
+sword or an axe in hand. Stone automata are the least
+intelligent type, able to comprehend seven simple
+commands, which must be programmed during the
+creation process. Typical commands include “Attack!”,
+“Capture!”, “Follow!”, “Stop!”, and “Wait!” Ambiguous
+commands such as “Guard!” may be misunderstood;
+the monster might guard a place instead of a person,
+even if a person was the intent.
+Special:
+¬¬ +1 or better weapon to hit.
+¬¬ Immune to sorcery, except stone to flesh (renders
+creature AC 8 and vulnerable to normal weapons
+for 1d4 rounds) and transmute rock to mud (functions
+as slow spell for 2d6 rounds).

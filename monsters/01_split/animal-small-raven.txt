@@ -1,0 +1,18 @@
+RAVEN
+No. Appearing: 1d20
+Alignment: Neutral
+Size: S
+Movement: 10 (fly 80)
+Dexterity: 12
+Armour Class: 9
+Hit Dice: ¼
+Attack Rate: 1/1 (peck)
+Damage: 1
+Saving Throw: 17
+Morale: 4
+Experience Points: 9
+Treasure Class: —
+Special:
+¬¬ A natural 20 attack roll indicates the raven has struck an eye and may
+have plucked it out (base 2-in-6 chance; 1-in-6 if wearing a helm, no
+chance if wearing a great helm).

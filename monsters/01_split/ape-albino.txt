@@ -1,21 +1,18 @@
-APE, ALBINO
-(White Ape) Albino Ape Albino Ape
-Superior
-No. Encountered: 1d2 (1d4+6) 1
-Alignment: Neutral Chaotic Evil
-Size: M L
-Movement: 40 30
-Dexterity: 10 8
-Armour Class: 5 4
-Hit Dice: 4+2 8+4
-Attack Rate: 2/1 (claw / claw) 4/1 (claw ×4) or
-2/1 (weapons)
-Damage: 1d6+1 / 1d6+1 1d8+2 (×4) or
-4d4 / 4d4
-Saving Throw: 15 13
-Morale: 9 10
-Experience Points: 175 1,400
-Treasure Class: C Q
+ALBINO APE
+(White Ape)
+No. Encountered: 1d2 (1d4+6)
+Alignment: Neutral
+Size: M
+Movement: 40
+Dexterity: 10
+Armour Class: 5
+Hit Dice: 4+2
+Attack Rate: 2/1 (claw / claw)
+Damage: 1d6+1 / 1d6+1
+Saving Throw: 15
+Morale: 9
+Experience Points: 175
+Treasure Class: C
 The albino ape is a massive white simian dwelling in
 caves and caverns. Adult males grow up to seven feet
 high and weigh as much as 600 pounds; females are
@@ -32,27 +29,6 @@ will react violently. Albino apes are known to emerge
 in the black of night to chase Ythaqqa, “The Wendigo”,
 across the Plain of Leng, howling and frothing in
 bestial rapture.
-The albino ape superior is a rare specimen, always
-male. Born with six limbs—two pairs of massive arms
-and one pair of stout legs—it grows to nine feet and
-weighs as much as 1,100 pounds. These apes are much
-as their cousins, though they can manipulate weapons
-and are possessed of slightly elevated intelligence (and
-no small amount of wickedness); some have learnt to
-speak the Common tongue of man. They oft assume
-leadership of albino apes, brooding ape-kings.
-Special (all):
+Special:
 ¬¬ Acute sense of smell; chance to be surprized
 reduced by 1-in-6.
-Special (albino ape superior):
-¬¬ If all four claw attacks strike one opponent,
-strangulation ensues the next round, causing
-1d8+2 hp damage per round. An extraordinary feat
-of strength can break the ape’s grasp (see Vol. I,
-p. 7: Attributes, strength); serious damage also
-may compel the beast to let go. After 3 rounds
-of strangulation, the victim must make a test of
-constitution or asphyxiate (see Vol. III, p. 263:
-Special Damage, asphyxia). Rare victims who
-survive this attack have been known to lose their
-voices forever.
