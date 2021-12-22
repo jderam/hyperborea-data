@@ -1,0 +1,28 @@
+CAVE BEAR
+No. Encountered: 1 (1d4)
+Alignment: Neutral
+Size: L
+Movement: 40
+Dexterity: 9
+Armour Class: 5
+Hit Dice: 8+5
+Attack Rate: 3/1 (claw / claw / bite)
+Damage: 1d10 / 1d10 / 2d6
+Saving Throw: 13
+Morale: 9
+Experience Points: 1,000
+Treasure Class: —
+The cave bear is an enormous brown- or grey-furred
+bear that lairs in seaside caves and cavernous dungeons.
+Cave bears measure up to 15 feet in length and weigh as
+much as 1,400 pounds. They are ferocious carnivores
+with a taste for man. Some have been
+known to exhibit rudimentary
+intelligence, wandering
+to ancient shrines of
+Xathoqqua to howl
+and roar, their fur
+bristling.
+Special:
+¬¬ If cave bear hits same victim with both claw
+attacks, it hugs for 2d10 hp damage.

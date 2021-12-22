@@ -1,0 +1,27 @@
+FIRE BEETLE
+No. Encountered: 1d6 (2d6)
+Alignment: Neutral
+Size: S
+Movement: 40
+Dexterity: 9
+Armour Class: 4
+Hit Dice: 1+1
+Attack Rate: 1/1 (bite)
+Damage: 2d4
+Saving Throw: 16
+Morale: 7
+Experience Points: 20
+Treasure Class: —
+The fire beetle is a giant insect of from 3- to 3½-foot
+length, with large, serrated pincers. Fire beetles are
+found in two distinct types: one, subterranean; the
+other, aboveground, nocturnal bog dwellers.
+(The latter oft are referred to as “jigs” because of the
+male’s strange mating rituals: It will stand erect on
+its hind legs and perform a dance to attract females.)
+Two brightly glowing glands are located above the
+fire beetle’s eyes, with a third by the abdomen. For the
+subterranean type, these glands radiate red light in a
+10-foot radius; surface-dwellers present a more fulvous
+phosphorescence. If a fire beetle’s glands are extracted
+carefully, they will continue to glow for 1d6 days.
