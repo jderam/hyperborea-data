@@ -1,4 +1,5 @@
-GHOST, BANSHEE (Baobhan Sith) (Undead Type 10)
+BANSHEE
+(Baobhan Sith) (Undead Type 10)
 No. Encountered: 1
 Alignment: Chaotic Evil
 Size: M

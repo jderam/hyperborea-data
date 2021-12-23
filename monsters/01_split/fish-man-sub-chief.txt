@@ -1,18 +1,19 @@
-FISH-MAN
+FISH-MAN SUB-CHIEF
 (Deep Dweller, Deep One)
-No. Encountered: 2d6 (2d4×10)
+No. Encountered: 1:10
 Alignment: Chaotic Evil
 Size: M
 Movement: 40 (swim 80)
-Dexterity: 9
-Armour Class: 5
-Hit Dice: 2+2
-Attack Rate: 2/1 (claw / claw) or 1/1 (weapon)
-Damage: 1d4+1 / 1d4+1 (or per weapon)
-Saving Throw: 16
-Morale: 8
-Experience Points: 41
-Treasure Class: A
+Dexterity: 10
+Armour Class: 4
+Hit Dice: 4+4
+Attack Rate: 2/1 (claw / claw) or 3/2 (weapon)
+Damage: 1d4+2 / 1d4+2 (or per weapon +1)
+Saving Throw: 15
+Morale: 9
+Experience Points: 175*
+Treasure Class: Q
+* Refer to p. 294: Table 122 for classed individuals.
 These ichthyic, otherworldly humanoids
 have oily, grey-green skin, with jaundiced
 underbellies and backs ridged with scales.

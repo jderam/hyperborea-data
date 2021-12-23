@@ -1,17 +1,17 @@
-FROST GIANT
-No. Encountered: 1d2 (2d10)
+FROST GIANT JARL
+No. Encountered: 1:12
 Alignment: Chaotic Evil
 Size: L
 Movement: 40
-Dexterity: 7
+Dexterity: 6
 Armour Class: 4
-Hit Dice: 10
+Hit Dice: 14
 Attack Rate: 1/1 (weapon)
-Damage: 4d6
-Saving Throw: 12
-Morale: 9
-Experience Points: 1,300
-Treasure Class: E
+Damage: 5d6
+Saving Throw: 10
+Morale: 10
+Experience Points: 2,500
+Treasure Class: Q (×5)
 Frost giants are the true sons of Ymir, with ice-blue skin
 and red or yellow hair. They stand some 16 or more feet
 in height and weigh as much as 2,000 pounds. They are

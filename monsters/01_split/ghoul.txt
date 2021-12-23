@@ -1,4 +1,5 @@
-GHOUL (Undead Type 3)
+GHOUL
+(Undead Type 3)
 No. Encountered: 1d6 (2d8)
 Alignment: Chaotic Evil
 Size: M

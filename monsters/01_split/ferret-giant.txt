@@ -1,4 +1,4 @@
-FERRET, GIANT
+GIANT FERRET
 No. Encountered: 1d6
 Alignment: Neutral
 Size: M

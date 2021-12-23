@@ -1,18 +1,18 @@
-FISH-MAN
+FISH-MAN CHIEFTAIN
 (Deep Dweller, Deep One)
-No. Encountered: 2d6 (2d4×10)
+No. Encountered: 1:50
 Alignment: Chaotic Evil
-Size: M
+Size: L
 Movement: 40 (swim 80)
-Dexterity: 9
-Armour Class: 5
-Hit Dice: 2+2
-Attack Rate: 2/1 (claw / claw) or 1/1 (weapon)
-Damage: 1d4+1 / 1d4+1 (or per weapon)
-Saving Throw: 16
-Morale: 8
-Experience Points: 41
-Treasure Class: A
+Dexterity: 12
+Armour Class: 2
+Hit Dice: 7+7
+Attack Rate: 2/1 (claw / claw or weapon)
+Damage: 1d4+4 / 1d4+4 (or per weapon +3)
+Saving Throw: 13
+Morale: 9
+Experience Points: 680
+Treasure Class: I
 These ichthyic, otherworldly humanoids
 have oily, grey-green skin, with jaundiced
 underbellies and backs ridged with scales.

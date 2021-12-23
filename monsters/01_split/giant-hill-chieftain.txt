@@ -1,18 +1,18 @@
-HILL GIANT
+HILL GIANT CHIEFTAIN
 (Fomorian)
-No. Encountered: 1d4 (2d6)
+No. Encountered: 1:8
 Alignment: Chaotic Evil
 Size: L
 Movement: 40
 Dexterity: 8
 Armour Class: 4
-Hit Dice: 8
+Hit Dice: 10
 Attack Rate: 1/1 (weapon)
-Damage: 4d4
-Saving Throw: 13
-Morale: 8
-Experience Points: 680
-Treasure Class: M (×10); D
+Damage: 5d4
+Saving Throw: 12
+Morale: 12
+Experience Points: 1,150
+Treasure Class: M (×20)
 A hill giant is a massive humanoid 12 feet in height
 and weighing as much as 1,500 pounds. These brutes
 are misshapen and warty, with thick, hairy hides.

@@ -1,0 +1,30 @@
+SHRIEKER FUNGUS
+No. Encountered: 2d6
+Alignment: Neutral
+Size: M
+Movement: 10
+Dexterity: 3
+Armour Class: 7
+Hit Dice: 3
+Attack Rate: —
+Damage: —
+Saving Throw: 15
+Morale: 2
+Experience Points: 35
+Treasure Class: —
+Shrieker fungi are unintelligent, ambulatory plants
+from three to five feet in height. The fungus’ shape
+corresponds to a mushroom, though with a stem of
+one-foot diameter and an umbrella-like cap of from
+three- to five-foot diameter. Exclusively they thrive in
+cool, lightless, subterranean environments.
+Shrieker fungi are nontoxic and edible. The
+distinguishing feature of this species (besides its
+ambulation) is its ability to release an ear-piercing
+shriek in reaction to the proximity of light (e.g., torch,
+lantern, sorcery) within 30 feet. The shriek lasts for
+about three minutes and will begin anew if light still
+remains in its presence.
+Special:
+¬¬ The shriek of this plant trebles the probability of
+attracting wandering monsters.

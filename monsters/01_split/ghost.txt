@@ -1,4 +1,5 @@
-GHOST (Undead Type 10)
+GHOST
+(Undead Type 10)
 No. Encountered: 1 (1d10)
 Alignment: Lawful Evil
 Size: M

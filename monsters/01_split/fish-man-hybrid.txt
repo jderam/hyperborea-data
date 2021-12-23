@@ -1,18 +1,19 @@
-FISH-MAN
+FISH-MAN HYBRID
 (Deep Dweller, Deep One)
-No. Encountered: 2d6 (2d4×10)
+No. Encountered: 2d6 (5d20×10)
 Alignment: Chaotic Evil
 Size: M
-Movement: 40 (swim 80)
+Movement: 40 (swim 30)
 Dexterity: 9
-Armour Class: 5
-Hit Dice: 2+2
-Attack Rate: 2/1 (claw / claw) or 1/1 (weapon)
-Damage: 1d4+1 / 1d4+1 (or per weapon)
+Armour Class: 8
+Hit Dice: 1+1
+Attack Rate: 1/1 (weapon)
+Damage: (per weapon)
 Saving Throw: 16
 Morale: 8
-Experience Points: 41
-Treasure Class: A
+Experience Points: 20*
+Treasure Class: J
+* Refer to p. 294: Table 122 for classed individuals.
 These ichthyic, otherworldly humanoids
 have oily, grey-green skin, with jaundiced
 underbellies and backs ridged with scales.
@@ -55,19 +56,8 @@ and they lose their hair. To the ignorant, these traits might be
 viewed as the by-product of inbreeding. Seaside towns and villages
 are typical targets for such breeding and assimilation.
 Special:
-¬¬ Amphibious; can function on land or sea but must
-immerse in water at least once per week.
-¬¬ Can track by scent at 10-in-12 chance of success (see
-Vol. I, p. 26: Fighter Subclasses, barbarian).
-¬¬ Wide field of vision reduces chance to be surprized
-by 1-in-6.
-¬¬ Fish-men wield javelins, spears, tridents, or special
-underwater crossbows. Sub-chiefs and chieftains
-have mastery of one or two weapons, respectively
-(+1 to attack and damage rolls, increased attack
-rate, etc.; see Vol. I, p. 112: Weapon Skill, weapon
-mastery).
-¬¬ Fish-man shamans conform to sub-chief
-statistics. They can advance as high as 7th level; for
-each level beyond 4th, they add 1 hit die (d8) to their
-base 4+4 HD.
+¬¬ Limited amphibious capacity; some hybrids
+possess aquatic traits, others do not.
+¬¬ Rare hybrids will practice a character class, as
+developed by the referee; for each level beyond 1st,
+they add 1 hit die (d8) to their base 1+1 HD.

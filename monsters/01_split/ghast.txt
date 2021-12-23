@@ -1,4 +1,5 @@
-GHAST (Undead Type 6)
+GHAST
+(Undead Type 6)
 No. Encountered: 1 (1d4)
 Alignment: Chaotic Evil
 Size: M
