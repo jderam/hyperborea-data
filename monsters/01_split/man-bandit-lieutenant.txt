@@ -4,7 +4,7 @@ Alignment: Chaotic Evil
 Size: M
 Movement: 30
 Dexterity: 11
-Armour Class: 5 (chain mail; DR 1)
+Armour Class: 5
 Hit Dice: 3
 Attack Rate: 3/2 (weapon)
 Damage: (per weapon)

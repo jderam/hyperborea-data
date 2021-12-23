@@ -4,7 +4,7 @@ Alignment: Chaotic Evil
 Size: M
 Movement: 40
 Dexterity: 9
-Armour Class: 7 (leather)
+Armour Class: 7
 Hit Dice: 1
 Attack Rate: 1/1 (weapon)
 Damage: (per weapon)
