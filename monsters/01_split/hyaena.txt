@@ -1,30 +1,24 @@
-HYÆNA Hyæna Giant Hyæna
-(Hyænodon)
-No. Encountered: 2d4 (5d10) 2d6 (3d10)
-Alignment: Neutral Neutral
-Size: M L
-Movement: 50 40
-Dexterity: 13 10
-Armour Class: 7 5
-Hit Dice: 3 5
-Attack Rate: 1/1 (bite) 1/1 (bite)
-Damage: 1d8 1d12
-Saving Throw: 15 14
-Morale: 7 8
-Experience Points: 35 150
-Treasure Class: — —
-The hyæna is a carnivorous, doglike animal noted
-for its coarse, spotted fur and powerful jaws, but
-most famous for its weird and haunting howl, which
-resembles the hysterical laughter of a man. Hyænas
-are notorious scavengers, able to sniff out carrion from
-several miles away. Typically they will not attack men
-unless desperate.
-The giant hyæna (hyænodon) is five feet at the shoulder
-and weighs as much as 1,000 pounds. Giant hyænas
-have long, narrow skulls and massive teeth for
-crushing bones. As their smaller cousins, they can emit
-disconcerting howls, not unlike the bawling of a man
-suffering. These creatures are oft at odds with sabretooths,
-competing for the same prey. Accounts speak
-of giant hyænas guarding ruined shrines to Xathoqqua.
+HYÆNA
+No. Encountered: 2d4 (5d10)
+Alignment: Neutral
+Size: M
+Movement: 50
+Dexterity: 13
+Armour Class: 7
+Hit Dice: 3
+Attack Rate: 1/1 (bite)
+Damage: 1d8
+Saving Throw: 15
+Morale: 7
+Experience Points: 35
+Treasure Class: —
+Carnivorous, doglike animal noted for its coarse, spotted
+fur and powerful jaws, but most famous for its
+weird and haunting howl, which resembles the hysterical
+laughter of a human, albeit a mad one. Two species
+are extant in mainland Hyperborea: the common hyæna
+and the giant hyæna.
+Hyænas are notorious scavengers, able to
+sniff out carrion from several miles away. Typically,
+they will not attack humans unless desperate or if they
+significantly outnumber their prey.

@@ -1,0 +1,55 @@
+WEREWOLF
+No. Encountered: 1 (2d4)
+Alignment: Chaotic Evil
+Size: M
+Movement: 60
+Dexterity: 14
+Armour Class: 5
+Hit Dice: 4
+Attack Rate: 3/1 (claw / claw / bite)
+Damage: 1d4 / 1d4 / 2d4
+Saving Throw: 15
+Morale: 8
+Experience Points: 285
+Treasure Class: B
+A werewolf is a cursed man who transforms into a
+wolf-man at will, except during the three nights when
+Selene is full and the one night when Phobos is full (see
+Vol. VI, p. 500: Table 153), when the change occurs
+regardless of the werewolf ’s wishes. Werewolves are
+bipedal, standing five or more feet in height, with
+the fur of wolves. They have powerful legs, clawed
+hands, and elongated snouts with large fangs. Even as
+beasts they retain semi-intelligence, albeit violent and
+temperamental. The werewolf superior is perhaps the
+most potent lycanthrope: larger, more ferocious, and
+wickedly cunning. Often they lead other werewolves.
+Special:
+¬¬ Horses are keen to the presence of lycanthropes
+and will snort with fear when they approach.
+¬¬ Harmed only by silver or magical weapons.
+¬¬ If wolfsbane is wrapped about the point of a spear
+or like weapon, and a lycanthrope is struck, it
+must make a death (poison) save or flee in panic (or
+possibly cower and surrender).
+¬¬ Bite confers lycanthropy unless a death (poison)
+save is made.
+¬¬ If killed, lycanthrope
+reverts to human form.
+¬¬ Every 91 days, when
+both moons are full,
+all lycanthropes are
+especially ferocious,
+gaining +2 damage
+bonuses to every
+successful attack. During
+this period they also are
+enhanced temporarily
+by +2 hp per HD; these
+bonus hit points are
+deducted first when the
+lycanthrope is damaged,
+and they dissipate as the
+moons wane.
+¬¬ Can summon 1d4 wolves thrice per day, which
+arrive 1d4 rounds later.

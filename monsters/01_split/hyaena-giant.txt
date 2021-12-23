@@ -1,0 +1,29 @@
+GIANT HYÆNA
+(Hyænodon)
+No. Encountered: 2d6 (3d10)
+Alignment: Neutral
+Size: L
+Movement: 40
+Dexterity: 10
+Armour Class: 5
+Hit Dice: 5
+Attack Rate: 1/1 (bite)
+Damage: 1d12
+Saving Throw: 14
+Morale: 8
+Experience Points: 150
+Treasure Class: —
+Carnivorous, doglike animal noted for its coarse, spotted
+fur and powerful jaws, but most famous for its
+weird and haunting howl, which resembles the hysterical
+laughter of a human, albeit a mad one. Two species
+are extant in mainland Hyperborea: the common hyæna
+and the giant hyæna.
+The giant hyæna (hyænodon) is five feet at the shoulder
+and weighs as much as 1,000 pounds. Giant hyænas
+have long, narrow skulls and massive teeth for
+crushing bones. As their smaller cousins, they can emit
+disconcerting howls, not unlike the bawling of a man
+suffering. These creatures are oft at odds with sabretooths,
+competing for the same prey. Accounts speak
+of giant hyænas guarding ruined shrines to Xathoqqua.

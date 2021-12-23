@@ -1,0 +1,30 @@
+GIANT DRACO LIZARD
+No. Encountered: 1d4+1
+Alignment: Neutral
+Size: L
+Movement: 50 (glide 70)
+Dexterity: 15
+Armour Class: 5
+Hit Dice: 4+2
+Attack Rate: 1/1 (bite)
+Damage: 1d10
+Saving Throw: 15
+Morale: 7
+Experience Points: 175
+Treasure Class: —
+Giant lizard species can be encountered in the more
+temperate surface areas of Hyperborea during the
+spring and summer years, but by Twilight they will
+hibernate. Exceptions include specimens that populate
+some of the warmer outer islands, such as New
+Amazonia, and those that inhabit warm subterranean
+lairs.
+A giant draco lizard is a rusty-orange lizard of sevenfoot
+length (plus tail). Folds of skin stretch from its
+ribs in a fanlike shape, enabling it to glide hundreds of
+yards. Giant draco lizards attack in groups, sweeping
+down to bite their prey. N.B.: Lizard-men are known to
+ride these flying reptiles.
+Special:
+¬¬ Initial attack is a swooping bite at a +2 attack
+bonus.

@@ -1,0 +1,34 @@
+PYRO-HYDRA (5-headed)
+No. Encountered: 1 (1d2)
+Alignment: Neutral
+Size: L
+Movement: 40
+Dexterity: 9
+Armour Class: 5
+Hit Dice: 5
+Attack Rate: 5/1 (bites)
+Damage: 1d10 (per head)
+Saving Throw: 14
+Morale: 9
+Experience Points: 525
+Treasure Class: B
+A hydra is the scaly serpent of legendry, with five, seven,
+or nine serpentine heads (1 per HD) of from 8- to 10-foot
+length—heads that regenerate if severed—at one end of
+its 30-foot, ophidian body. These beasts oftest are solitary
+and found in any environment, the colour of their scales
+corresponding thusly.
+Pyro-hydræ are legless terrestrial monsters, with scales
+of orange to reddish colour banded in pink and yellow.
+These mythic beasts breathe fire and oft are deemed sacred
+by religiously inclined pyromancer cults. They lair in
+deserts and mountains and oft breed in volcanoes.
+Special:
+¬¬ Immune to fire.
+¬¬ Vulnerable to cold: +2 hp per die of damage.
+¬¬ Each head can breathe fire once per day in a cone 25
+feet long and 10 feet wide at its terminus, delivering
+2d6 hp damage (per head); an avoidance save is allowed
+for ½ damage.
+¬¬ Each head has its own 7 hp; if destroyed, it regenerates
+to full health in 3 rounds.

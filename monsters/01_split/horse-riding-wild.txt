@@ -1,0 +1,28 @@
+RIDING / WILD HORSE
+No. Encountered: 1 (5d6)
+Alignment: Neutral
+Size: L
+Movement: 60
+Dexterity: 10
+Armour Class: 7
+Hit Dice: 2
+Attack Rate: 1/1 (hoof or bite)
+Damage: 1d4 or 1d3
+Saving Throw: 16
+Morale: 6
+Experience Points: 20
+Treasure Class: —
+These solid-hoofed, herbivorous mammals oft are
+domesticated and trained. Typically they have long,
+flowing tails and manes and (in Hyperborea) thick,
+shaggy coats. Many breeds exist and are classified in
+general terms.
+A riding horse is smaller and lighter-boned than a
+draught horse, but capable of bearing a rider for great
+distances. Wild horses of riding horse quality run free
+on the Hyperborean plains. Wild foals may be tamed,
+though the older the horse, the less likely this prospect
+becomes.
+Special:
+¬¬ Horses (but not donkeys, mules, or ponies) can
+treble their movement rates in short bursts.

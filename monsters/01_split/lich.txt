@@ -1,4 +1,5 @@
-LICH (Undead Type 12)
+LICH
+(Undead Type 12)
 No. Encountered: 1
 Alignment: Lawful Evil
 Size: M

@@ -1,0 +1,33 @@
+GIANT KOMODO DRAGON
+No. Encountered: 1 (1d4)
+Alignment: Neutral
+Size: L
+Movement: 50
+Dexterity: 9
+Armour Class: 5
+Hit Dice: 7
+Attack Rate: 3/1 (claw / claw / bite)
+Damage: 1d6 / 1d6 / 2d6
+Saving Throw: 13
+Morale: 10
+Experience Points: 1,110
+Treasure Class: —
+Giant lizard species can be encountered in the more
+temperate surface areas of Hyperborea during the
+spring and summer years, but by Twilight they will
+hibernate. Exceptions include specimens that populate
+some of the warmer outer islands, such as New
+Amazonia, and those that inhabit warm subterranean
+lairs.
+A giant komodo dragon is a fire-breathing lizard
+of 20-foot length (plus tail) and 1,200-pound weight,
+with a green-brown scaly body, great claws, and sawlike
+teeth. It dwells in forests and grasslands, scenting
+carrion and driving off other predators; too, this giant
+lizard hunts live prey.
+Special:
+¬¬ Breathes fire thrice per day in a 20-foot-long cone,
+10 feet wide at the terminus, for 3d6 hp damage
+(avoidance save for ½).
+¬¬ Saliva carries deadly bacteria; bite victim must
+make death (poison) save or die in 1d4 days.

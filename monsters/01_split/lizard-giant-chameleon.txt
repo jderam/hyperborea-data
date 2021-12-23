@@ -1,0 +1,32 @@
+GIANT CHAMELEON
+No. Encountered: 1 (2d4)
+Alignment: Neutral
+Size: L
+Movement: 40
+Dexterity: 10
+Armour Class: 5
+Hit Dice: 5
+Attack Rate: 1/1 (bite or tail)
+Damage: 1d10 or 1d6
+Saving Throw: 14
+Morale: 7
+Experience Points: 200
+Treasure Class: —
+Giant lizard species can be encountered in the more
+temperate surface areas of Hyperborea during the
+spring and summer years, but by Twilight they will
+hibernate. Exceptions include specimens that populate
+some of the warmer outer islands, such as New
+Amazonia, and those that inhabit warm subterranean
+lairs.
+A giant chameleon is a carnivorous lizard of six-foot
+length (plus tail), able to blend with its surroundings.
+It attacks by striking with its long, sticky tongue and
+then biting. It also can use its 10-foot-long tail to batter
+targets. The giant chameleon dwells in all environments
+save extreme cold.
+Special:
+¬¬ Blending increases chance to surprize by 2-in-6.
+¬¬ If tail sweep hits, target must make avoidance save
+or be knocked prone (see Vol. III, p. 242: Combat,
+attack modifiers).

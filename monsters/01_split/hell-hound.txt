@@ -1,4 +1,5 @@
-HELL HOUND (Undead Type 13)
+HELL HOUND
+(Undead Type 13)
 No. Encountered: 2d4 (4d4)
 Alignment: Lawful Evil
 Size: M

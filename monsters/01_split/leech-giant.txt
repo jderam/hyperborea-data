@@ -1,4 +1,4 @@
-LEECH, GIANT
+GIANT LEECH
 No. Encountered: 1d4
 Alignment: Neutral
 Size: M

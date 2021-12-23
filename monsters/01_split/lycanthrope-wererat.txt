@@ -1,0 +1,58 @@
+WERERAT
+No. Encountered: 2d6
+Alignment: Chaotic Evil
+Size: M
+Movement: 40
+Dexterity: 15
+Armour Class: 6
+Hit Dice: 3
+Attack Rate: 1/1 (bite or weapon)
+Damage: 1d4 (or per weapon)
+Saving Throw: 15
+Morale: 7
+Experience Points: 161
+Treasure Class: C
+Wererats are cunning lycanthropes that lair in
+dungeons, abandoned buildings, sewers, and
+basements. They can assume three different forms:
+that of a human, a rat-man, and a giant rat; however, on
+the three nights when Selene is full and the one night
+when Phobos is full (see Vol. VI, p. 500: Table 153),
+they transform into rat-man form, regardless of their
+wishes. Typically they use human form to dupe the
+ignorant into entering their lairs. Their rat-man form
+is a four- to five-foot humanoid with a rat’s head, a
+human body (albeit coated in rat fur), and a rat’s long
+tail; the above statistics reflect this form. In their giant
+rat form they have the statistics of a giant rat, but
+retain their current hit points and the Special abilities
+noted hereafter.
+Special:
+¬¬ Horses are keen to the presence of lycanthropes
+and will snort with fear when they approach.
+¬¬ Harmed only by silver or magical weapons.
+¬¬ If wolfsbane is wrapped about the point of a spear
+or like weapon, and a lycanthrope is struck, it
+must make a death (poison) save or flee in panic (or
+possibly cower and surrender).
+¬¬ Bite confers lycanthropy unless a death (poison)
+save is made.
+¬¬ If killed, lycanthrope
+reverts to human form.
+¬¬ Every 91 days, when
+both moons are full,
+all lycanthropes are
+especially ferocious,
+gaining +2 damage
+bonuses to every
+successful attack. During
+this period they also are
+enhanced temporarily
+by +2 hp per HD; these
+bonus hit points are
+deducted first when the
+lycanthrope is damaged,
+and they dissipate as the
+moons wane.
+¬¬ Can summon 3d4 giant rats once per day, which
+arrive 1d4 rounds later.

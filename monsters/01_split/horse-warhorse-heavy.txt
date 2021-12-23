@@ -1,0 +1,27 @@
+HEAVY WARHORSE
+No. Encountered: 1
+Alignment: Neutral
+Size: L
+Movement: 40
+Dexterity: 8
+Armour Class: 7
+Hit Dice: 3+3
+Attack Rate: 3/1 (hoof / hoof / bite)
+Damage: 1d8 / 1d8 / 1d3
+Saving Throw: 15
+Morale: 9
+Experience Points: 90
+Treasure Class: —
+These solid-hoofed, herbivorous mammals oft are
+domesticated and trained. Typically they have long,
+flowing tails and manes and (in Hyperborea) thick,
+shaggy coats. Many breeds exist and are classified in
+general terms.
+A warhorse is bred for strength, power, and the ability
+to charge into battle. Non-warhorses must make
+morale checks each round they are urged to take part
+in combat. If they fail, they will try to flee and possibly
+throw their riders.
+Special:
+¬¬ Horses (but not donkeys, mules, or ponies) can
+treble their movement rates in short bursts.

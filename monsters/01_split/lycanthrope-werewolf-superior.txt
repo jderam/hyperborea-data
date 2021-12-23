@@ -1,32 +1,17 @@
-LYCANTHROPE Wererat Werewolf Werewolf Superior
-No. Encountered: 2d6 1 (2d4) 1
-Alignment: Chaotic Evil Chaotic Evil Chaotic Evil
-Size: M M L
-Movement: 40 60 60
-Dexterity: 15 14 15
-Armour Class: 6 5 5
-Hit Dice: 3 4 6
-Attack Rate: 1/1 (bite or weapon) 3/1 (claw / claw / bite) 3/1 (claw / claw / bite)
-Damage: 1d4 (or per weapon) 1d4 / 1d4 / 2d4 1d6 / 1d6 / 2d6
-Saving Throw: 15 15 14
-Morale: 7 8 10
-Experience Points: 161 285 780
-Treasure Class: C B I
-Wererats are cunning lycanthropes that lair in
-dungeons, abandoned buildings, sewers, and
-basements. They can assume three different forms:
-that of a human, a rat-man, and a giant rat; however, on
-the three nights when Selene is full and the one night
-when Phobos is full (see Vol. VI, p. 500: Table 153),
-they transform into rat-man form, regardless of their
-wishes. Typically they use human form to dupe the
-ignorant into entering their lairs. Their rat-man form
-is a four- to five-foot humanoid with a rat’s head, a
-human body (albeit coated in rat fur), and a rat’s long
-tail; the above statistics reflect this form. In their giant
-rat form they have the statistics of a giant rat, but
-retain their current hit points and the Special abilities
-noted hereafter.
+WEREWOLF SUPERIOR
+No. Encountered: 1
+Alignment: Chaotic Evil
+Size: L
+Movement: 60
+Dexterity: 15
+Armour Class: 5
+Hit Dice: 6
+Attack Rate: 3/1 (claw / claw / bite)
+Damage: 1d6 / 1d6 / 2d6
+Saving Throw: 14
+Morale: 10
+Experience Points: 780
+Treasure Class: I
 A werewolf is a cursed man who transforms into a
 wolf-man at will, except during the three nights when
 Selene is full and the one night when Phobos is full (see
@@ -39,7 +24,7 @@ beasts they retain semi-intelligence, albeit violent and
 temperamental. The werewolf superior is perhaps the
 most potent lycanthrope: larger, more ferocious, and
 wickedly cunning. Often they lead other werewolves.
-Special (all):
+Special:
 ¬¬ Horses are keen to the presence of lycanthropes
 and will snort with fear when they approach.
 ¬¬ Harmed only by silver or magical weapons.
@@ -66,12 +51,5 @@ deducted first when the
 lycanthrope is damaged,
 and they dissipate as the
 moons wane.
-Special (wererat):
-¬¬ Can summon 3d4 giant rats once per day, which
-arrive 1d4 rounds later.
-Special (werewolf ):
-¬¬ Can summon 1d4 wolves thrice per day, which
-arrive 1d4 rounds later.
-Special (werewolf superior):
 ¬¬ Can summon 1d4 dire wolves thrice per day, which
 arrive 1d4 rounds later.

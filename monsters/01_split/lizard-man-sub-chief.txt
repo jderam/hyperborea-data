@@ -1,17 +1,17 @@
-LIZARD-MAN
-No. Encountered: 1d6 (1d6×10)
+LIZARD-MAN SUB-CHIEF
+No. Encountered: 1:12
 Alignment: Neutral
 Size: M
 Movement: 30
-Dexterity: 9
+Dexterity: 10
 Armour Class: 5
-Hit Dice: 2+1
-Attack Rate: 1/1 (bite or weapon)
+Hit Dice: 4+2
+Attack Rate: 1/1 (bite) or 3/2 (weapon)
 Damage: 1d6+1 (or per weapon +1)
-Saving Throw: 16
-Morale: 10
-Experience Points: 35
-Treasure Class: D
+Saving Throw: 15
+Morale: 11
+Experience Points: 150
+Treasure Class: L
 A lizard-man is a water-dwelling, reptilian biped, with an
 iguana-like head, a pronounced spine ridge, and a long
 tail. Its scaly skin ranges from brown to green. Lizardmen
