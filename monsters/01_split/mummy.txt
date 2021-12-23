@@ -1,4 +1,5 @@
-MUMMY (Undead Type 8)
+MUMMY
+(Undead Type 8)
 No. Encountered: 1
 Alignment: Chaotic Evil
 Size: M

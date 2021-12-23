@@ -1,0 +1,41 @@
+ICE MUMMY THRALL
+(Undead Type 2)
+No. Encountered: 4d6 (4d6×10)
+Alignment: Lawful Evil
+Size: M
+Movement: 30
+Dexterity: 7
+Armour Class: 8
+Hit Dice: 2
+Attack Rate: 1/1 (pummel)
+Damage: 1d8
+Saving Throw: 16
+Morale: 12
+Experience Points: 32
+Treasure Class: J, K, L, M
+Ice mummies are corpses that were preserved in
+gruesome, withered forms by cold temperatures
+and which became inhabited by Evil spirits of the
+Hyperborean ice. Their eyes shew a spark of intellect,
+but their only goal is the icy death of all living beings.
+Their victims are buried in snow and rise as ice
+mummy thralls a day later. Whereas the mindless
+thralls simply rend their foes as directed by their
+frigid masters, ice mummies oft accoutre themselves
+with weapons and bits of armour from their halfremembered
+mortal lives; too, some are said to ride
+gaunt, skeletal warhorses (large undead animals).
+Special:
+¬¬ Immune to poison, paralysis, fear, and cold.
+¬¬ Can detect body heat (as the spell) at will.
+¬¬ If exposed to ambient temperatures above 32°F,
+must make a death saving throw every round or fall
+to pieces. Automatically destroyed if exposed to an
+ambient temperature of 60°F or higher.
+¬¬ Suffers double damage from normal or magical
+fire.
+¬¬ Mundane chopping or slashing weapons (e.g., axes,
+scimitars, swords) cause ½ damage to ice mummy
+thralls; mundane blunt or piercing weapons (e.g.,
+hammers, maces, arrows, spears) cause ¼ damage.
+Magical weapons of all kinds cause full damage.

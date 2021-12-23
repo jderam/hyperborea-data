@@ -1,17 +1,17 @@
-MINOTAUR
-No. Encountered: 1 (2d4 or (1d4+1)×10)
+MINOTAUR SUPERIOR
+No. Encountered: 1d2
 Alignment: Evil (Lawful or Chaotic)
-Size: M
-Movement: 40
-Dexterity: 12
-Armour Class: 6
-Hit Dice: 6+6
-Attack Rate: 1/1 (gore) or 3/2 (weapon)
-Damage: 1d6+2 (or per weapon +2)
-Saving Throw: 14
-Morale: 11
-Experience Points: 510
-Treasure Class: C
+Size: L
+Movement: 30
+Dexterity: 14
+Armour Class: 0
+Hit Dice: 10+6
+Attack Rate: 1/1 (gore) or 2 (weapon)
+Damage: 1d10+3 (or per weapon +3)
+Saving Throw: 12
+Morale: 12
+Experience Points: 1,150
+Treasure Class: X, Y
 This is the seven-foot-tall beast of legendry. It has the
 body of a powerfully muscled man, with the massive
 shoulders and horned head of a bull. Minotaurs are

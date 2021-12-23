@@ -1,17 +1,17 @@
-WILD BERSERKER
-No. Encountered: 1d6 (5d10)
+WILD BERSERKER SUB-CHIEF
+No. Encountered: 1:25
 Alignment: Chaotic (usually Evil)
 Size: M
 Movement: 40
-Dexterity: 10
-Armour Class: 8
-Hit Dice: 1+4
+Dexterity: 12
+Armour Class: 7
+Hit Dice: 3+6
 Attack Rate: 2/1 (weapon)
 Damage: (per weapon +2)
-Saving Throw: 14
+Saving Throw: 13
 Morale: 12
-Experience Points: 32
-Treasure Class: K; B
+Experience Points: 120
+Treasure Class: M
 Not to be confused with the berserker class,
 wild berserkers are fighting men who have
 succumbed to utter savagery and Chaos, and so

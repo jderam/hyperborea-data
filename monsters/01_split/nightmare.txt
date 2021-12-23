@@ -1,4 +1,5 @@
-NIGHTMARE (Undead Type 13)
+NIGHTMARE
+(Undead Type 13)
 No. Encountered: 1
 Alignment: Lawful Evil
 Size: L

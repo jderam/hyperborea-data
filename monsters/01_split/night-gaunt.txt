@@ -1,4 +1,5 @@
-NIGHT-GAUNT (Dweller in the Boreas)
+NIGHT-GAUNT
+(Dweller in the Boreas)
 No. Encountered: 1d6
 Alignment: Chaotic Evil
 Size: M

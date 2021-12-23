@@ -6,10 +6,7 @@ Movement: 40
 Dexterity: 11
 Armour Class: −1
 Hit Dice: 6+6
-Attack Rate:
-4/1 (claw ×4) or
-2/1 (scimitar / scimitar) or
-1/1 (laser pistol)
+Attack Rate: 4/1 (claw ×4) or 2/1 (scimitar / scimitar) or 1/1 (laser pistol)
 Damage: 1d4+4 (×4) (or per weapon)
 Saving Throw: 14
 Morale: 10

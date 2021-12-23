@@ -1,4 +1,5 @@
-MUMMY, BOG (Undead Type 3)
+BOG MUMMY
+(Undead Type 3)
 No. Encountered: 1 (1d6)
 Alignment: Chaotic Evil
 Size: M

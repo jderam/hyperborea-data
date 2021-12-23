@@ -1,17 +1,17 @@
-BANDIT
-No. Encountered: 2d6 (1d10×10)
+BANDIT CAPTAIN
+No. Encountered: 1:25
 Alignment: Chaotic Evil
 Size: M
-Movement: 40
-Dexterity: 9
-Armour Class: 7 (leather)
-Hit Dice: 1
-Attack Rate: 1/1 (weapon)
+Movement: 30
+Dexterity: 13
+Armour Class: 4 (banded mail; DR 1)
+Hit Dice: 5
+Attack Rate: 3/2 (weapon)
 Damage: (per weapon)
-Saving Throw: 16
-Morale: 6
-Experience Points: 10
-Treasure Class: L; A
+Saving Throw: 14
+Morale: 8
+Experience Points: 175
+Treasure Class: M (×3)
 Bandits are outlaws, robbers, or pirates who have
 joined together to kill and rob the innocent. Vaguely
 their statistics conform to fighters, though perhaps
@@ -21,3 +21,8 @@ Vol. I, p, 21: Classes, thief). Some bandits might have a
 cleric or magician in their employ. For every 10 bandits
 there will be 1 lieutenant, and for every 25 bandits there
 will be 1 captain.
+Special:
+¬¬ Lieutenants might have weapon mastery with one
+weapon, captains possibly two (+1 to attack and
+damage rolls, increased attack rate, etc.; see Vol. I,
+p. 112: Weapon Skill, weapon mastery).
