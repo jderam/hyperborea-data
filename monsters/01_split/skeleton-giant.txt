@@ -1,18 +1,18 @@
-SKELETON
-(Undead Type 1)
-No. Encountered: 2d4 (10d20)
+GIANT SKELETON
+(Undead Type 3)
+No. Encountered: 1d4
 Alignment: Chaotic Evil
-Size: M
-Movement: 30
-Dexterity: 11
-Armour Class: 7
-Hit Dice: 1
+Size: L
+Movement: 40
+Dexterity: 7
+Armour Class: 5
+Hit Dice: 6
 Attack Rate: 1/1 (claw or weapon)
-Damage: 1d6 (or per weapon)
-Saving Throw: 16
+Damage: 4d6
+Saving Throw: 14
 Morale: 12
-Experience Points: 16
-Treasure Class: Q
+Experience Points: 380
+Treasure Class: Q (×4)
 Animated and conjured to service by the baleful sorcery
 of magicians, clerics, and the like, these are the bones
 of men or humanoids, undead creatures typically found

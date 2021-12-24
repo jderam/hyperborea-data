@@ -1,0 +1,31 @@
+SNAKE, GIANT ASP
+No. Encountered: 1 (5d4)
+Alignment: Neutral
+Size: L
+Movement: 40
+Dexterity: 9
+Armour Class: 5
+Hit Dice: 6
+Attack Rate: 1/1 (bite)
+Damage: 1d6
+Saving Throw: 14
+Morale: 9
+Experience Points: 500
+Treasure Class: —
+Snakes of great size inhabit the dark corners of
+Hyperborea; whether their prodigious length is a
+natural development or the result of sorcery is a matter
+of conjecture. Except on some islands at the Rim of the
+World, these reptiles are less active during the winter
+years.
+The giant asp is a dark, narrow-hooded cobra of about
+12-foot length. These dungeon-dwelling reptiles are
+notorious for their deadly venom. In the darkest pits
+they congregate up to a score, writhing together.
+Special:
+¬¬ Bite injects venom thrice per day. Victim must
+make death (poison) save or die at once; even if save
+is successful, 6d6 hp damage is sustained (a terrible
+blood-burning sensation). Site of wound is
+purple and swollen; may become septic if
+victim survives (cure disease heals).

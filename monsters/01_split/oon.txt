@@ -1,4 +1,5 @@
-OON (Ghost-Man)
+OON
+(Ghost-Man)
 No. Encountered: 1d3 (3d8×10)
 Alignment: Neutral
 Size: M

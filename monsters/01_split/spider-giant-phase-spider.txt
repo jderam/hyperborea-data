@@ -1,0 +1,38 @@
+SPIDER, GIANT PHASE SPIDER
+No. Encountered: 1d6
+Alignment: Chaotic Evil
+Size: L
+Movement: 50
+Dexterity: 14
+Armour Class: 7
+Hit Dice: 5+4
+Attack Rate: 1/1 (bite)
+Damage: 1d6
+Saving Throw: 14
+Morale: 8
+Experience Points: 740
+Treasure Class: E
+The giant phase spider is a huge arachnid that
+appears as a seven-foot-long black tarantula, though
+it is something more: At will it can shift from one
+reality to another, “phasing” to and from worlds such
+as Hyperborea to its Æthereal realm of origin. Phase
+spiders are web builders, constructing sticky vertical or
+horizontal snares. Multiple phase spiders communicate
+by means of a haunting whistle, known to raise the
+hackles of dogs and to inspire skittishness in horses.
+Sages posit that phase spiders might originate from the
+same dimension as Kraken, “The Dimensional Dweller”.
+N.B.: A variation of this species is said to dwell in the
+Plain of Leng and the canyons of the Leng Plateau.
+These are known as the purple spiders of Leng, as their
+black fur is spotted with purple rings. These creatures
+prey upon Esquimaux, men of Leng, and other natives.
+Special:
+¬¬ If entrapped in a web, a man can break free in
+19 rounds − strength score; e.g., 3 rounds with 16 ST.
+¬¬ Phases before and after attacking; opponent must
+make a successful test of dexterity (see Vol. I, p. 7:
+Attributes, dexterity) to attempt a counterattack.
+¬¬ Bite is highly venomous; make death (poison) save
+or die.

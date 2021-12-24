@@ -1,0 +1,30 @@
+SPIDER, GIANT TRAPDOOR SPIDER
+No. Encountered: 1d6
+Alignment: Neutral
+Size: L
+Movement: 30
+Dexterity: 13
+Armour Class: 6
+Hit Dice: 3+2
+Attack Rate: 1/1 (bite)
+Damage: 1d8
+Saving Throw: 15
+Morale: 7
+Experience Points: 105
+Treasure Class: C
+The giant trapdoor spider is a seven-foot-long
+arachnid that digs a burrow in the ground, which it
+covers with a lid or trapdoor built of mud and silk,
+some folding open from the middle. When prey passes,
+the spider springs out to attack. Its bite delivers venom
+that may be deadly. Giant trapdoor spiders’ burrows are
+tubular and can be as long as 75 feet. They are lined with
+silk webs and may have branches that serve as extra
+hiding places; inside the burrows are also their nests.
+Special:
+¬¬ If entrapped in a web, a man can break free in
+19 rounds − strength score; e.g., 3 rounds with 16 ST.
+¬¬ Chance to surprize increased by 2-in-6 when
+pouncing from trapdoor nest.
+¬¬ Bite victim must make death (poison) save or suffer
+1 hp damage per round for 2d6 rounds.

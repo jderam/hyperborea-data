@@ -1,4 +1,4 @@
-SLUG, GIANT
+GIANT SLUG
 No. Encountered: 1
 Alignment: Neutral
 Size: L

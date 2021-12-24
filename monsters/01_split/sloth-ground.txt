@@ -1,4 +1,5 @@
-SLOTH, GROUND (Megatherium)
+GROUND SLOTH
+(Megatherium)
 No. Encountered: 1 (2d4)
 Alignment: Neutral
 Size: L
@@ -6,8 +7,7 @@ Movement: 30
 Dexterity: 6
 Armour Class: 4
 Hit Dice: 12
-Attack Rate: 2/1 (claw / claw) or
-1/1 (tail lash)
+Attack Rate: 2/1 (claw / claw) or 1/1 (tail lash)
 Damage: 2d8 / 2d8 or 3d4
 Saving Throw: 11
 Morale: 7

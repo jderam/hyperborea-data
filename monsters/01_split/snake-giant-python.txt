@@ -1,0 +1,39 @@
+SNAKE, GIANT PYTHON
+No. Encountered: 1
+Alignment: Neutral
+Size: L
+Movement: 30 (swim 20)
+Dexterity: 8
+Armour Class: 6
+Hit Dice: 5
+Attack Rate: 1/1 (bite)
+Damage: 1d4
+Saving Throw: 14
+Morale: 8
+Experience Points: 300
+Treasure Class: —
+Snakes of great size inhabit the dark corners of
+Hyperborea; whether their prodigious length is a
+natural development or the result of sorcery is a matter
+of conjecture. Except on some islands at the Rim of the
+World, these reptiles are less active during the winter
+years.
+The giant python is an enormous snake of from 20-
+to 40-foot length, with scales of alternating colours
+and patterns (oft spiroid), depending on its native
+environment. They will bite and latch on to their
+prey and then constrict the victim until he ceases to
+struggle. Many have a taste for man. A pale grey-white
+species with blue and yellow markings is said to thrive
+in wintery conditions.
+Special:
+¬¬ Infrared vision (as the spell) to 60-foot range.
+¬¬ Upon successful bite, giant python constricts
+prey for 2d6 hp damage per round. Victim
+can attempt to escape via extraordinary feat
+of strength or dexterity (see Vol. I,
+p. 7: Attributes, strength and dexterity).
+Otherwise, allies whose strength totals at
+least 75 can remove snake in 1d4 rounds.
+¬¬ Whilst constricting prey, giant python suffers
+a −2 AC penalty (AC 8).

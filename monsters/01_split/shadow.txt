@@ -1,4 +1,5 @@
-SHADOW (Undead Type 4)
+SHADOW
+(Undead Type 4)
 No. Encountered: 1d4
 Alignment: Chaotic Evil
 Size: M

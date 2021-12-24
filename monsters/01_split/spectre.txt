@@ -1,4 +1,5 @@
-SPECTRE (Undead Type 9)
+SPECTRE
+(Undead Type 9)
 No. Encountered: 1 (1d4)
 Alignment: Chaotic Evil
 Size: M
