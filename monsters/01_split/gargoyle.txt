@@ -1,0 +1,29 @@
+GARGOYLE
+No. Encountered: 1d4
+Alignment: Chaotic Evil
+Size: M
+Movement: 30 (fly 50)
+Dexterity: 12
+Armour Class: 5
+Hit Dice: 4
+Attack Rate: 3/1 (claw / claw / bite)
+or 1/1 (gore)
+Damage: 1d4 / 1d4 / 1d6 or 2d6
+Saving Throw: 15
+Morale: 11
+Experience Points: 150
+Treasure Class: C, M (×10)
+This is a stone-carven grotesque human, beast, or
+devil, typically positioned atop a building or within
+a labyrinth, as well as in hills and mountains. Often
+they are horned, winged, clawed, and fanged, horrific
+monsters of frightful countenance. Enchanted by
+sorcery, they can animate to life, fly, and attack, and
+they are impervious to mundane weaponry. Possessed
+of quasi-intelligence, gargoyles are shrewd and Evil
+creatures.
+Special:
+¬¬ Chance to surprize increased by 2-in-6 if viewers
+believe it a statue.
+¬¬ Immune to charm and sleep spells.
+¬¬ +1 or better weapon to hit.

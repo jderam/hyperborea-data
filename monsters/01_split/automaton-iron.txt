@@ -1,0 +1,48 @@
+IRON AUTOMATON
+No. Encountered: 1
+Alignment: Neutral
+Size: L
+Movement: 20
+Dexterity: 5
+Armour Class: 3
+Hit Dice: 16+2
+Attack Rate: 1/1 (weapon)
+Damage: 4d10
+Saving Throw: 9
+Morale: 12
+Experience Points: 6,000
+Treasure Class: —
+Automata are humanoid constructs of mad sorcerers
+and their ilk, the formulæ for the creation of
+which trace back to a bygone age when Atlanteans,
+Hyperboreans, and Lemurians commingled sorcery
+and science. Strange wires, conduits, batteries, cells,
+and circuits are installed in many of these creations,
+though no two manuals of automaton creation (see
+Vol. V, p. 482: Magical Treasure, miscellaneous
+magic items) describe precisely identical processes;
+alternative methods of creation were engendered by the
+ancients, but this is a lost science in rapidly decaying
+Hyperborea.
+An iron
+automaton is
+a 12-foot iron
+statue. Most
+are moulded
+bearing a
+weapon, such
+as an enormous
+sword or
+axe. The iron
+automaton
+is under the
+command of its
+creator.
+Special:
+¬¬ +1 or better weapon to hit.
+¬¬ Immune to sorcery, except lightning, which
+functions as slow spell for 3 rounds.
+¬¬ Fire attacks heal the monster instead of damaging
+it.
+¬¬ Every 7 rounds, can breathe poison gas cloud of
+10-cubic-foot volume, as the cloudkill spell.

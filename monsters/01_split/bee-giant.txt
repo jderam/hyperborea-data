@@ -1,0 +1,25 @@
+GIANT BEE
+No. Encountered: 1d6 (5d8)
+Alignment: Neutral
+Size: S
+Movement: 10 (fly 50)
+Dexterity: 10
+Armour Class: 7
+Hit Dice: ½
+Attack Rate: 1/1 (sting)
+Damage: 1d3
+Saving Throw: 17
+Morale: 12
+Experience Points: 17
+Treasure Class: —
+These incredibly aggressive, one-foot-long killer bees
+attack without provocation any individual within 50
+feet of their nest. The giant queen bee is a two-footlong
+creature that largely remains in the nest. Giant
+bees hibernate during the winter years.
+Special:
+¬¬ Sting victim must make death (poison) save or
+suffer additional 2d6 hp damage, plus 2-in-6
+chance of death in 1d4 turns due to intensely
+painful inflammation and organ failure.
+¬¬ Giant bee dies when it stings.

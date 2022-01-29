@@ -1,0 +1,33 @@
+SNAKE, GIANT WATER SNAKE
+No. Encountered: 1
+Alignment: Neutral
+Size: L
+Movement: 30 (swim 40)
+Dexterity: 8
+Armour Class: 6
+Hit Dice: 3
+Attack Rate: 1/1 (bite)
+Damage: 1d6
+Saving Throw: 15
+Morale: 6
+Experience Points: 95
+Treasure Class: —
+Snakes of great size inhabit the dark corners of
+Hyperborea; whether their prodigious length is a
+natural development or the result of sorcery is a matter
+of conjecture. Except on some islands at the Rim of the
+World, these reptiles are less active during the winter
+years.
+The giant water snake is a huge black reptile of up to
+30-foot length that thrives in fresh water or brackish
+marshes. Water snakes emerge to breathe about once
+per six hours. Their bite injects slow-acting paralytic
+venom. Often a snake will retreat after biting a victim
+and lurk nearby, awaiting the poison to take effect so it
+then can consume its prey.
+Special:
+¬¬ Bite injects venom thrice per day. Victim must
+make death (poison) save or become numb-skinned
+after 1d6 rounds; face muscles also fail to actuate,
+and speech is garbled. Paralysis takes effect 1d4
+turns later and lasts 1d6+6 turns.

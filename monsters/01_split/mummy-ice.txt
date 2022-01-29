@@ -1,0 +1,50 @@
+ICE MUMMY
+(Undead Type 5)
+No. Encountered: 1d6 (2d6)
+Alignment: Lawful Evil
+Size: M
+Movement: 40
+Dexterity: 10
+Armour Class: 6
+Hit Dice: 4
+Attack Rate: 1/1 (touch or weapon)
+Damage: 1d4 (or per weapon +1)
+Saving Throw: 15
+Morale: 12
+Experience Points: 240
+Treasure Class: B
+Ice mummies are corpses that were preserved in
+gruesome, withered forms by cold temperatures
+and which became inhabited by Evil spirits of the
+Hyperborean ice. Their eyes shew a spark of intellect,
+but their only goal is the icy death of all living beings.
+Their victims are buried in snow and rise as ice
+mummy thralls a day later. Whereas the mindless
+thralls simply rend their foes as directed by their
+frigid masters, ice mummies oft accoutre themselves
+with weapons and bits of armour from their halfremembered
+mortal lives; too, some are said to ride
+gaunt, skeletal warhorses (large undead animals).
+Special:
+¬¬ Immune to poison, paralysis, fear, and cold.
+¬¬ Can detect body heat (as the spell) at will.
+¬¬ Radiates continuous change
+temperature effect (as the spell),
+decreasing temperature in a 10-foot
+radius by 50°F.
+¬¬ If exposed to ambient temperatures
+above 80°F, must make a death
+saving throw every round or fall to
+pieces.
+¬¬ Immune to normal fire; magical fire
+inflicts double damage.
+¬¬ Harmed only by silver or magical
+weapons; silver weapons cause ¼
+damage only.
+¬¬ Touch confers frostbite; victim
+loses 1d4 hp and 1 point of DX per
+round until warmed. Lost DX can
+be recovered at a rate of 1 point
+per hour in a warm environment.
+If DX is reduced below 3, victim
+crystallizes and dies.

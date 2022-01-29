@@ -1,0 +1,69 @@
+ICE MUMMY NOBLE
+(Undead Type 7)
+No. Encountered: 1
+Alignment: Lawful Evil
+Size: M
+Movement: 40
+Dexterity: 10
+Armour Class: 3
+Hit Dice: 7
+Attack Rate: 1/1 (touch or weapon)
+Damage: 1d4 (or per weapon +2)
+Saving Throw: 13
+Morale: 12
+Experience Points: 1,110
+Treasure Class: E
+Ice mummies are corpses that were preserved in
+gruesome, withered forms by cold temperatures
+and which became inhabited by Evil spirits of the
+Hyperborean ice. Their eyes shew a spark of intellect,
+but their only goal is the icy death of all living beings.
+Their victims are buried in snow and rise as ice
+mummy thralls a day later. Whereas the mindless
+thralls simply rend their foes as directed by their
+frigid masters, ice mummies oft accoutre themselves
+with weapons and bits of armour from their halfremembered
+mortal lives; too, some are said to ride
+gaunt, skeletal warhorses (large undead animals).
+In the depths of the Spiral Mountain Array are
+rumoured to exist noble ice mummies as cunning as
+any man, who also command powers of cryomancy.
+Some tribes of savage vhuurmis are thought to
+propitiate them as gods. In the dark year of Nightfall,
+these undying horrors are reputed to sally forth upon
+their skeletal steeds, leading scores of their kindred to
+slaughter all life they encounter.
+Special:
+¬¬ Immune to poison, paralysis, fear, and cold.
+¬¬ Can detect body heat (as the spell) at will.
+¬¬ Radiates continuous change
+temperature effect (as the spell),
+decreasing temperature in a 10-foot
+radius by 50°F.
+¬¬ If exposed to ambient temperatures
+above 80°F, must make a death
+saving throw every round or fall to
+pieces.
+¬¬ Immune to normal fire; magical fire
+inflicts double damage.
+¬¬ Harmed only by silver or magical
+weapons; silver weapons cause ¼
+damage only.
+¬¬ Touch confers frostbite; victim
+loses 1d4 hp and 1 point of DX per
+round until warmed. Lost DX can
+be recovered at a rate of 1 point
+per hour in a warm environment.
+If DX is reduced below 3, victim
+crystallizes and dies.
+¬¬ Noble ice mummies gain +2 bonuses to device and
+sorcery saves.
+¬¬ A noble ice mummy has the sorcery ability of a
+7th-level cryomancer. The referee can select spells
+accordingly (4 × level 1, 3 × level 2, 2 × level 3,
+1 × level 4), or use the following default selections:
+÷÷ Level 1: freezing hands, magic ice dart, precipitate,
+shield
+÷÷ Level 2: gust of wind, obscure, wall of vapours
+÷÷ Level 3: black cloud, freeze surface
+÷÷ Level 4: ice javelin

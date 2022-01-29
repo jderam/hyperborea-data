@@ -1,0 +1,29 @@
+KILLER WHALE
+(Orca)
+No. Encountered: 1 (1d4)
+Alignment: Neutral
+Size: L
+Movement: 0 (swim 80)
+Dexterity: 8
+Armour Class: 5
+Hit Dice: 6
+Attack Rate: 1/1 (bite)
+Damage: 3d6
+Saving Throw: 14
+Morale: 9
+Experience Points: 500
+Treasure Class: —
+The killer whale is a black and white hunter of the
+sea, up to 30 feet long and weighing as much as 30,000
+pounds. Killer whales (orcas) prey on fish, mammals,
+and other whales. Of course, they will devour men, too.
+Special:
+¬¬ On a natural 20 attack roll, a Small or Medium
+victim is swallowed whole, inflicting 1d6 hp
+damage per round thereafter; after 3 rounds,
+the victim may asphyxiate (see Vol. III, p. 263:
+Special Damage, asphyxia). Swallowed prey can
+cut its way out with a WC 1–3 blade, with an attack
+penalty equal to the weapon class. If 20 hp damage
+is inflicted from within, a large enough rent is cut
+for escape.

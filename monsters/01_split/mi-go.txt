@@ -1,0 +1,112 @@
+MI-GO (Fungus from Yuggoth)
+No. Encountered: 2d6 (2d10×10)
+Alignment: Lawful Evil
+Size: M
+Movement: 40
+Dexterity: 11
+Armour Class: −1
+Hit Dice: 6+6
+Attack Rate: 4/1 (claw ×4) or 2/1 (scimitar / scimitar) or 1/1 (laser pistol)
+Damage: 1d4+4 (×4) (or per weapon)
+Saving Throw: 14
+Morale: 10
+Experience Points: 990 (or 1,290 with laser pistol)
+Treasure Class: H, S, T, W
+These crustaceous otherworldly beings are of pale
+pink colour and measure from five to seven feet long.
+Their innards are not organ-based; compact layers of
+brown fungi comprise their viscera. They have several
+sets of articulated limbs, each terminating in threedigit
+pincers, which they manipulate with uncanny
+precision. They have horned, membranous wings,
+which they use to sail the gelid winds of the Black
+Gulf (oft from Yuggoth to Hyperborea); these wings,
+however, are not suited to atmospheric flight and are
+reserved solely for space travel.
+A mi-go’s head is a corrugated ellipsoid from which
+multitudinous antennæ project; when the mi-go
+telepathically communicate with one another, their
+heads glimmer green, indigo, or violet. Also, they
+can effect quasi-vocal communication: a buzzing,
+hauntingly waspish whisper that apes human speech.
+In combat, mi-go can attack with their four foremost
+pincers. However, most prefer the use of laser pistols,
+strange limpid wands that emit disintegration beams.
+Other mi-go will wield paired scimitars of crystal.
+In the vast depths of Underborea, the mi-go harvest
+crystals. Also they maintain vast tunnel vaults, research
+centres, and libraries, the last of which collect alien and
+domestic knowledge in vast tomes of glassy “paper”.
+They monitor mankind from command centres lined
+with display terminals.
+1d4+8 hp damage each (1d8+1 hp damage in the
+hands of men, if the hilts are modified for human
+use).
+¬¬ Some mi-go brandish crystalline laser pistols
+with 12-inch barrels, 1 inch in diameter. The laser
+pistol’s beam is quite narrow, requiring a normal
+attack roll. If the beam hits, the target must make
+a death save (modified by defence adjustment, if
+applicable; see Vol. I, p. 7: Attributes, dexterity)
+or be disintegrated to a smoking pile of ash; if the
+save is successful, damage is 3d6 hp (a grazing
+shot). A typical mi-go laser pistol holds a 28-charge
+clip.
+¬¬ If killed, the creature’s fungous innards rapidly
+break down to a corrosive acid that dissolves the
+deceased mi-go within 1d12+12 hours.
+In labyrinthine mega-dungeons the migo
+are masters of the oon, a sub-race of
+humanity bred in vitro to emotionless
+servility; they are maintained through
+a regular diet of synthetic potions
+that suppress individuality and sexual
+development. Often the mi-go will send
+oon bounty hunters to the surface world
+to abduct men whose minds and talents
+are of particular interest; the mi-go are
+reputed to extract the brains of sages,
+sorcerers, poets, madmen, and the
+like, placing them in metal cylinders
+and conveying them to Yuggoth for
+reasons unclear. Their rituals are said
+to invoke a (possible) deity known as
+Shub-Niggurath, “The Black Goat of the
+Woods with a Thousand Young”.
+Special:
+¬¬ Immune to cold and airless
+vacuum.
+¬¬ Can fly vast distances across
+the Black Gulf via space-folding
+dimensional travel.
+¬¬ Through buzzing whispers, can
+effect sleep in all living creatures of
+6 or fewer HD in a 30-foot radius,
+which must make sorcery saves or
+slumber for 4d6 turns. The minds of
+1d4 sleepers can be implanted with
+a suggestion (as the spell) that takes
+effect upon waking.
+¬¬ Once per day, through a buzzing
+cry, can effect a hold monster spell on
+a single creature.
+¬¬ Can cast extrasensory perception
+thrice per day.
+¬¬ Can wield two crystal scimitars
+with no attack penalty, delivering
+1d4+8 hp damage each (1d8+1 hp damage in the
+hands of men, if the hilts are modified for human
+use).
+¬¬ Some mi-go brandish crystalline laser pistols
+with 12-inch barrels, 1 inch in diameter. The laser
+pistol’s beam is quite narrow, requiring a normal
+attack roll. If the beam hits, the target must make
+a death save (modified by defence adjustment, if
+applicable; see Vol. I, p. 7: Attributes, dexterity)
+or be disintegrated to a smoking pile of ash; if the
+save is successful, damage is 3d6 hp (a grazing
+shot). A typical mi-go laser pistol holds a 28-charge
+clip.
+¬¬ If killed, the creature’s fungous innards rapidly
+break down to a corrosive acid that dissolves the
+deceased mi-go within 1d12+12 hours.

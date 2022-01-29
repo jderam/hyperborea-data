@@ -1,0 +1,53 @@
+DÆMON, GREATER, CLASS I
+(Undead Type 13)
+No. Encountered: 1d3
+Alignment: Chaotic Evil
+Size: L
+Movement: 40 (fly 60)
+Dexterity: 10
+Armour Class: 0
+Hit Dice: 8
+Attack Rate: 5/1 (claw ×4 / bite)
+Damage: 1d8 (×4) / 1d6
+Saving Throw: 13
+Morale: 9
+Experience Points: 1,640
+Treasure Class: B
+This eight- to nine-foot-tall dæmon has a humanoid
+body, with the neck and head of a vulture and charcoalgrey
+wings that span 12 feet. Too, the dæmon’s torso
+is a ruddy grey, girt in black feathers. Class I greater
+dæmons have large, clawed hands and enormous,
+taloned feet. Not the most intelligent of dæmonkind,
+they have a fondness for human flesh, and they are
+quite greedy, hoarding gold and gems. They only dwell
+in the world of men because someone (or something)
+has beckoned them forth.
+Special:
+¬¬ 7-in-20 spell resistance versus
+CA 12 casters. For every
+CA level less than 12, the
+chance-in-twenty increases
+by one (+1) (see Vol. III, p.
+261: Saving Throw, spell
+resistance).
+¬¬ Cold, electricity, fire, and gas
+attacks inflict ½ damage, or
+¼ damage if save is made.
+¬¬ Can cast the following spells
+at will (though only one
+at a time): darkness, detect
+invisibility, infrared vision,
+telekinesis, teleport (without
+error).
+¬¬ Once per day, can attempt
+to beckon another class I
+greater dæmon to fight
+alongside it (as reverse of
+dismissal), with 1-in-6 chance
+of success. Alternatively, it
+can attempt to summon 1d6
+class i lesser dæmons or
+1d4 class ii lesser dæmons,
+with 4-in-6 chance of
+success.

@@ -1,0 +1,28 @@
+SPIDER, GIANT CRAB SPIDER
+No. Encountered: 1d4+1
+Alignment: Neutral
+Size: M
+Movement: 40
+Dexterity: 12
+Armour Class: 7
+Hit Dice: 2
+Attack Rate: 1/1 (bite)
+Damage: 1d8
+Saving Throw: 16
+Morale: 7
+Experience Points: 32
+Treasure Class: C
+The giant crab spider is a five-foot-long arachnid that
+does not use webs to capture prey; rather, it lies in
+wait and pounces. Crab spiders’ bodies are somewhat
+flat, and (unlike most spiders) their front legs angle
+outward, giving them the appearance of crabs; too, they
+can move sidewise and backwards as easily as forwards.
+Their chameleonic ability allows them to blend with
+their environs.
+Special:
+¬¬ Chameleonic ability increases chance to surprize
+by 2-in-6.
+¬¬ Can move across walls and ceilings at normal MV.
+¬¬ Bite victim must make death (poison) save or suffer
+additional 1d8 hp damage.

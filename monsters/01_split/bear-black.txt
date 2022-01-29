@@ -1,0 +1,23 @@
+BLACK BEAR
+No. Encountered: 1 (1d3)
+Alignment: Neutral
+Size: M
+Movement: 60
+Dexterity: 13
+Armour Class: 7
+Hit Dice: 3+3
+Attack Rate: 3/1 (claw / claw / bite)
+Damage: 1d3 / 1d3 / 1d6
+Saving Throw: 15
+Morale: 8
+Experience Points: 105
+Treasure Class: —
+The black bear is the smallest of bear species, a swamp
+and woodland dweller that measures up to six feet long
+and weighs as much as 500 pounds. These scavengers
+are notorious for wandering into civilization to plunder
+food stores. They run quite quickly and are skilled tree
+climbers.
+Special:
+¬¬ If black bear hits same victim with both claw
+attacks, it hugs for 2d4 hp damage.

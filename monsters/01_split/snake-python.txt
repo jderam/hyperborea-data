@@ -1,0 +1,34 @@
+SNAKE, PYTHON
+No. Encountered: 1
+Alignment: Neutral
+Size: M
+Movement: 30 (swim 20)
+Dexterity: 8
+Armour Class: 7
+Hit Dice: 3
+Attack Rate: 1/1 (bite)
+Damage: 1d4
+Saving Throw: 15
+Morale: 9
+Experience Points: 101
+Treasure Class: —
+Several snake species inhabit Hyperborea. The asp,
+python, rattlesnake, spitting cobra, and viper are
+some of the more eminent varieties. They hibernate
+during the winter years, except perhaps on the warmer
+outer islands, such as New Amazonia.
+The python ranges 11–20 feet in length, with scales of
+alternating colours and patterns (oft spiroid) depending
+on its native environment (e.g., forests, grasslands,
+swamps). The python bites, constricts, and then
+swallows whole its prey.
+Special:
+¬¬ Infrared vision (as the spell) to 30-foot range.
+¬¬ Upon successful bite, python constricts prey for
+2d4 hp damage per round. Victim can attempt to
+escape via extraordinary feat of strength or dexterity
+(see Vol. I, p. 7: Attributes, strength and
+dexterity). Otherwise, allies whose strength totals at
+least 60 can remove snake in 1d4 rounds.
+¬¬ Whilst constricting prey, python suffers a −2 AC
+penalty (AC 9).

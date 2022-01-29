@@ -1,0 +1,21 @@
+WAR DOG
+No. Encountered: 1d6
+Alignment: Neutral
+Size: M
+Movement: 40
+Dexterity: 13
+Armour Class: 6
+Hit Dice: 2
+Attack Rate: 1/1 (bite)
+Damage: 1d6
+Saving Throw: 16
+Morale: 9
+Experience Points: 24
+Treasure Class: —
+War dogs are heavier, stronger dogs
+trained to fight and kill on command; typically they are
+accoutred in leather harnesses.
+Special:
+¬¬ Perspicacious to otherworldly horrors and the
+undead; may bark or howl in their presence, even if
+unseen (or disguised).

@@ -1,0 +1,33 @@
+GIANT FROG
+No. Encountered: 2d6 (4d6)
+Alignment: Neutral
+Size: L
+Movement: 10 (hop 60 / swim 30)
+Dexterity: 12
+Armour Class: 7
+Hit Dice: 3
+Attack Rate: 1/1 (bite)
+Damage: 1d6
+Saving Throw: 15
+Morale: 7
+Experience Points: 101
+Treasure Class: —
+These giant amphibians are up to seven feet in length and
+weigh as much as 500 pounds. Each can swallow a man in
+a single gulp, using its sticky, 12-foot-long tongue to reel in
+prey. Giant frogs inhabit swamps, marshes, lakes, ponds,
+rivers, and rainforests, blending with their surroundings
+via chameleonic abilities, though they hibernate during
+the winter years. They can leap as far as 60 feet in a single
+bound, pouncing upon and oft surprizing prey.
+Special:
+¬¬ Chance to surprize increased by 2-in-6 when leaping
+out from water or muck.
+¬¬ On a natural 20 attack roll, the tongue reels in and
+swallows the victim whole, inflicting 1d6 hp damage
+per round thereafter; after 3 rounds, the victim may
+asphyxiate (see Vol. III, p. 263: Special Damage,
+asphyxia). Swallowed prey can cut its way out with
+a WC 1–3 blade, with an attack penalty equal to the
+weapon class. If 6 hp damage is inflicted from within,
+a large enough rent is cut for escape.

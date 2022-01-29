@@ -1,0 +1,37 @@
+OLD TREE-MAN
+(Treant)
+No. Encountered: 1 (1:6)
+Alignment: Chaotic (Good or Evil)
+Size: L
+Movement: 40
+Dexterity: 7
+Armour Class: 1
+Hit Dice: 12
+Attack Rate: 2/1 (claw / claw)
+Damage: 3d6 / 3d6
+Saving Throw: 11
+Morale: 10
+Experience Points: 1,500
+Treasure Class: Q (×5)
+Sometimes considered a type of wood elemental,
+these strange beings typically dwell in ancient forests.
+They are reputed to be the progeny of man and a race
+of intelligent trees. Although they present as trees
+of vaguely humanoid countenance, they are quite
+ambulatory, with long, sinuous arms that open to
+claws. Most tree-men are indifferent to the affairs of
+men, though some are known to take up proactive
+causes for Good or Evil, depending on their individual
+proclivities. They can converse both in the various
+tongues of man and also their own ancient language.
+Tree-men are found in three basic age groups,
+determining the tree-man’s size and total HD: An 8-HD
+adult tree-man is 9–12 feet tall, a 12-HD old tree-man
+is 12–16 feet tall, and a 16-HD ancient tree-man is 16–24
+feet tall. Tree-men typically are encountered alone, or
+in family groups of mostly adults, with 1 old tree-man
+for every 6 and 1 ancient tree-man for every 12. N.B.:
+Hyperborean tree-men are all conifers (e.g., fir, pine,
+spruce).
+Special:
+¬¬ Vulnerable to fire: +2 hp per die of damage.

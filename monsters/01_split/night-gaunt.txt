@@ -1,0 +1,48 @@
+NIGHT-GAUNT
+(Dweller in the Boreas)
+No. Encountered: 1d6
+Alignment: Chaotic Evil
+Size: M
+Movement: 30 (fly 60)
+Dexterity: 16
+Armour Class: 5
+Hit Dice: 4
+Attack Rate: 3/1 (claw / claw / sting)
+Damage: 1d4 / 1d4 / 1d6
+Saving Throw: 15
+Morale: 8
+Experience Points: 120
+Treasure Class: X
+These uncouth monsters, sometimes called “Dwellers
+in the Boreas”, are vaguely humanoid of shape, seven
+or more feet tall, and incredibly thin and rubbery. Their
+skin is jet black and glistens like oil, and from their
+foreheads project two inwards-curving horns. They have
+membranous wings projecting from their shoulder
+blades and barbed, prehensile tails of seven-foot
+length. Each of their fingers terminates in a black talon.
+Perhaps the most disturbing quality of this horror is its
+countenance, for where a face should be there is naught.
+These otherworldly creatures dwell in the illimitable
+Black Gulf, just beyond the rim of Hyperborea’s spilling
+seas. By legion they ride the boreas (North Wind), and
+from there they have the capacity to haunt the dreams
+of the most precocious
+children. On occasion,
+however, they escape,
+bringing terror
+and misfortune
+and engaging
+in unspeakable
+acts.
+Special:
+¬¬ Tail sting
+delivers
+venom;
+make death
+(poison)
+save or
+suffer slow
+effect (as the
+spell) for 2d6
+turns.

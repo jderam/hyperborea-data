@@ -1,0 +1,26 @@
+FIRE SALAMANDER
+No. Encountered: 1d6
+Alignment: Chaotic Evil
+Size: L
+Movement: 40
+Dexterity: 11
+Armour Class: 2
+Hit Dice: 8
+Attack Rate: 3/1 (claw / claw / bite)
+Damage: 1d6 / 1d6 / 2d6
+Saving Throw: 13
+Morale: 8
+Experience Points: 840
+Treasure Class: F
+The fire salamander is a terrestrial species of fire
+elemental, serpentine in form (though four-legged),
+with the head and limbs of a lizard. The beast is as long
+as 15 feet and has bright red scales banded orange,
+black, and yellow. Fire salamanders typically dwell near
+volcanoes, though sometimes too in deserts. They are
+semi-intelligent, malicious creatures, capable of great
+cruelty, and they attack ice salamanders on sight.
+Special:
+¬¬ Immune to fire.
+¬¬ Emits intense heat; any creature within 20 feet
+suffers 1d8 hp damage per round.

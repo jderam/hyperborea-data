@@ -1,0 +1,20 @@
+MONSTROUS CRAB
+No. Encountered: 1
+Alignment: Neutral
+Size: L
+Movement: 20
+Dexterity: 6
+Armour Class: 0
+Hit Dice: 15
+Attack Rate: 2/1 (pincer / pincer)
+Damage: 3d6 / 3d6
+Saving Throw: 9
+Morale: 9
+Experience Points: 3,000
+Treasure Class: —
+Monstrous crabs have been reported, with shells
+that span 15–20 feet in diameter. Such horrors are
+believed to be hundreds of years old, and always they
+are encountered singly. They have been come upon in
+vast subterranean lakes, the ocean deeps, and beneath
+glacial ice.

@@ -1,0 +1,57 @@
+AERIAL MINION
+No. Encountered: 1
+Alignment: Neutral
+Size: M
+Movement: 0 (fly 80)
+Dexterity: 18
+Armour Class: −1
+Hit Dice: 12
+Attack Rate: 1/1 (pummel)
+Damage: 4d8
+Saving Throw: 11
+Morale: 12
+Experience Points: 2,700
+Treasure Class: —
+This species of air elemental is a semi-intelligent
+creature conjured by clerics or cryomancers of no small
+power (see Vol. II, p. 210: Spells: S, summon aerial
+minion). These creatures are naturally invisible; even
+if revealed (by sorcery or otherwise), they appear as
+dim, nebulous shapes of eight-foot height somewhat
+conforming to anthropoid dimensions. When bound to
+service they will not fight, for their function is to find
+and retrieve; they are strong and quick, able to bear
+as much as 1,000 pounds and move unencumbered. If
+bidden to retrieve a creature of Small or Medium size,
+the aerial minion will attempt to seize its quarry with
+force (a grapple attempt; see Vol. III, p. 248: Combat
+Actions, melee). Typically an aerial minion attacks
+only when it must defend itself, or if it is bewildered
+by its assignment, the latter case causing it to become
+insane and return to kill its summoner.
+Special:
+¬¬ Can follow any trail no more
+than two weeks old.
+¬¬ Natural invisibility grants
+3-in-6 bonus to surprize and
++4 bonus to all attack rolls. If
+a target is not surprized, his
+hackles will rise, perceiving
+the unseen threat, but +4
+attack bonus remains.
+¬¬ An attacker with true seeing
+or like means to penetrate
+invisibility receives a +4 attack
+bonus versus an aerial minion.
+¬¬ Destroyed by dispel magic
+versus the summoner’s CA.
+¬¬ Only an extraordinary feat
+of strength (see Vol. I, p. 7:
+Attributes, strength) can
+break creature’s hold if grapple
+is established.
+¬¬ Goes insane and attacks
+summoner if unable to
+complete mission, typically
+if confused by objective or if
+spell’s duration expires.

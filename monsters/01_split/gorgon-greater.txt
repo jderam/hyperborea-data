@@ -1,0 +1,57 @@
+GREATER GORGON
+(Medusa)
+No. Encountered: 1
+Alignment: Chaotic Evil
+Size: M
+Movement: 50 (fly 40)
+Dexterity: 15
+Armour Class: 3
+Hit Dice: 6+6
+Attack Rate: 3/1 (claw / claw / bite)
+Damage: 1d8 / 1d8 / 1d6+1
+Saving Throw: 14
+Morale: 10
+Experience Points: 1,470
+Treasure Class: Z
+Oft called medusæ on account of that most famous of
+gorgons, these accursed creatures have the heads and
+torsos of alluringly curvaceous women, with serpentine
+lower bodies. The gorgon’s “hair” is composed of
+slender, writhing, venomous snakes. Its hands are of
+bronze, and the pteropine wings projecting from its
+shoulder blades are golden hued.
+The sight of a gorgon turns men and other humanoids
+to stone. Often gorgons will robe themselves and sit
+so as to conceal their dæmonic attributes, tricking
+men with the implied beauty of their features, only
+to be petrified. Gorgons usually lead solitary lives,
+sequestered on islands or in caves, though “sister” pairs
+have been reported. Most gorgons speak the Common
+tongue in addition to proto-Hellenic.
+Greater gorgons are reputed to exist on the remotest
+islands and in the deepest dungeons. They are said to
+be faster, more powerful, more cunning, and of course
+more lethal. These rare gorgons can sing a harpy’s
+song, tricking victims to gaze into their eyes.
+Special:
+¬¬ Sight causes petrifaction (no save). Eye contact is automatic unless
+the player specifies that his character is looking
+elsewhere before seeing the revealed face. A mirror
+can be used to view a gorgon without harm; the
+gorgon turns to stone if tricked into seeing its
+own reflexion. Fighting a gorgon with eyes averted
+incurs a −2 penalty to attack rolls and armour class.
+¬¬ +2 bonus to sorcery saves.
+¬¬ On 1-in-4 chance per round, in addition to gorgon’s
+normal claw / claw / bite routine, snakes on
+gorgon’s head extend to attack collectively a single
+creature within five feet, causing 1d6 hp damage
+and delivering deadly venom; victim must make
+death (poison) save or be paralyzed within 1d4
+rounds and slain within 1d4 turns.
+¬¬ Can sing a harpy’s song: charms all within 60
+feet who hear it, unless sorcery saves are made. The
+saves are modified by willpower adjustment (see
+Vol. I, p. 9: Attributes, wisdom), if applicable.
+Charmed individuals stand dumbly and look into
+the gorgon’s eyes if so commanded.

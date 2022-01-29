@@ -1,0 +1,42 @@
+CLAY AUTOMATON
+No. Encountered: 1
+Alignment: Neutral
+Size: M
+Movement: 20
+Dexterity: 5
+Armour Class: 7
+Hit Dice: 11+2
+Attack Rate: 1/1 (pummel)
+Damage: 3d10
+Saving Throw: 11
+Morale: 12
+Experience Points: 2,700
+Treasure Class: —
+Automata are humanoid constructs of mad sorcerers
+and their ilk, the formulæ for the creation of
+which trace back to a bygone age when Atlanteans,
+Hyperboreans, and Lemurians commingled sorcery
+and science. Strange wires, conduits, batteries, cells,
+and circuits are installed in many of these creations,
+though no two manuals of automaton creation (see
+Vol. V, p. 482: Magical Treasure, miscellaneous
+magic items) describe precisely identical processes;
+alternative methods of creation were engendered by the
+ancients, but this is a lost science in rapidly decaying
+Hyperborea.
+A clay automaton is a manlike statue eight feet tall.
+The clay automaton is under its creator’s command;
+typically the creature is appointed a task, such as
+guardianship. N.B.: Clay automata are prone to
+possession by dæmons.
+Special:
+¬¬ +1 or better weapon to hit.
+¬¬ Immune to sorcery, except for disintegrate and
+transmute rock to mud, either of which necessitates a
+death save or the creature is destroyed.
+¬¬ Unharmed by edged or pointed weapons; only
+blunt magical weapons (flail, hammer, mace, etc.)
+are effective.
+¬¬ Damage from its attacks cannot be healed, save by
+the sorcery of a cleric or priest of 9th level or greater;
+otherwise, damage inflicted is permanent.

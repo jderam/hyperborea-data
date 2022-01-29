@@ -1,0 +1,26 @@
+BAT
+No. Encountered: 1d% (1d10×100)
+Alignment: Neutral
+Size: S
+Movement: 10 (fly 80)
+Dexterity: 15
+Armour Class: 5
+Hit Dice: ¼
+Attack Rate: 1/1 (bite)
+Damage: 1
+Saving Throw: 17
+Morale: 5
+Experience Points: 9
+Treasure Class: —
+A bat is the typical brown, black, red, or silver-haired
+variety that might be encountered in forests, caves,
+caverns, dungeons, and ruins. Bats are of course
+nocturnal creatures; during extended periods of
+complete daylight, many species will hibernate.
+Special:
+¬¬ 1-in-4 bats will carry a disease. A bite victim
+must make a death (poison) save or suffer pain
+and burning at the site of the infection, followed
+by headaches, muscle spasms, and difficulty
+swallowing. Death ensues in 2d6 days unless cure
+disease is cast.

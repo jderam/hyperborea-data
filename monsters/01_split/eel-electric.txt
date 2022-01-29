@@ -1,0 +1,27 @@
+ELECTRIC EEL
+No. Encountered: 1d4
+Alignment: Neutral
+Size: L
+Movement: 0 (swim 50)
+Dexterity: 15
+Armour Class: 6
+Hit Dice: 5
+Attack Rate: 1/1 (bite)
+Damage: 2d6
+Saving Throw: 14
+Morale: 7
+Experience Points: 275
+Treasure Class: —
+This is a giant, serpentine fish of from 30- to 60-foot
+length, with poorly developed fins and slimy skin of
+brown colour. Electric eels inhabit freshwater lakes,
+ponds, rivers, streams, and wetlands. They use their
+ability to generate electricity to shock their prey and
+then devour it; in Hyperborea, such prey includes men.
+Special:
+¬¬ Once per turn, can discharge an electric shock
+affecting all within a 15-foot radius for 3d8 hp
+damage (sorcery save for ½ damage, modified by
+defence adjustment, if applicable; see Vol. I, p. 7:
+Attributes, dexterity); assumes victims are in
+water of at least ankle depth.

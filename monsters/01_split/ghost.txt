@@ -1,0 +1,38 @@
+GHOST
+(Undead Type 10)
+No. Encountered: 1 (1d10)
+Alignment: Lawful Evil
+Size: M
+Movement: 30 (fly 50)
+Dexterity: 8
+Armour Class: 0
+Hit Dice: 10
+Attack Rate: 1/1 (touch)
+Damage: —
+Saving Throw: 12
+Morale: 10
+Experience Points: 1,900
+Treasure Class: E, S
+Many forms of ghost exist, from benevolent to malign,
+with several degrees of nuisance and inconvenience
+betwixt and between. Harmful, malicious ghosts
+manifest as apparitions of dead men, haunting and
+nebulous images. Cursed with undeath, these hateful,
+restless beings despise living men and find perverse
+pleasure in draining their life essences to derive
+sustenance.
+Special:
+¬¬ Sight inspires intense fear that causes victims to
+flee by most expeditious means possible for 2d6
+rounds, unless sorcery saves are made. The saves are
+modified by willpower adjustment (see Vol. I, p. 9:
+Attributes, wisdom), if applicable.
+¬¬ Immune to poison, paralysis, fear, and cold.
+¬¬ Harmed only by silver or magical weapons.
+¬¬ Touch attack causes victim to age 13 years
+(1 Hyperborean cycle) unless death save is made.
+Only the spell restoration can reverse this terrible
+effect. N.B.: This ageing is purely physical; if using
+the optional ageing rules, strength, dexterity, and
+constitution are affected, but intelligence and
+wisdom are not (see Vol. I, p. 104: Table 39).

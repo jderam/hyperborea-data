@@ -1,0 +1,51 @@
+SHAMBLING MOUND
+No. Encountered: 1
+Alignment: Neutral
+Size: L
+Movement: 20
+Dexterity: 5
+Armour Class: 0
+Hit Dice: 10
+Attack Rate: 2/1 (lash / lash)
+Damage: 2d8 / 2d8
+Saving Throw: 12
+Morale: 12
+Experience Points: 2,050
+Treasure Class: B, T, X
+These slimy, 8- to 10-foot-tall, vaguely humanoid
+monsters appear to be composed of sopping wet,
+rotting vegetable matter bound by pale roots and
+thick, gnarly tendrils. Shambling mounds dwell in
+swamps, marshes, subterranean caverns, or other
+places where moisture is abundant. They are omnivores
+with insatiable appetites for organic matter (plant
+or animal), and they fearlessly attack with their ropy
+arms, latching on to prey. Shambling mounds are
+possessed of primitive intelligence; their brains are
+phosphorescent masses of green fibres located in
+their midsections, which upon removal can be used as
+light sources (10-foot radius) for 1d6 hours following
+extraction.
+Special:
+¬¬ Immune to fire; cold attacks cause ½
+damage.
+¬¬ Electrical attacks provide a 1d8 hp
+boost.
+¬¬ Vulnerable to plant-related spells
+(saves at −2 penalty).
+¬¬ Weapon attacks inflict ½
+damage.
+¬¬ If both attacks strike the same
+target, victim is entangled by
+roots that will suffocate him
+(see Vol. III, p. 263: Special
+Damage, asphyxia).
+The shambling mound
+will attempt simply to
+walk away with such
+a victim in its grasp,
+refusing to release unless
+killed. An extraordinary
+feat of strength (see Vol. I,
+p. 7: Attributes, strength)
+allows one to break free.

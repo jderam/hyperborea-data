@@ -1,0 +1,45 @@
+WORM of YMIR
+(Worm of the Dirt)
+No. Encountered: 3d4 (1d12×10)
+Alignment: Chaotic Evil
+Size: S
+Movement: 30 (slither 20)
+Dexterity: 10
+Armour Class: 7
+Hit Dice: 1
+Attack Rate: 1/1 (pummel)
+Damage: 1d4+1
+Saving Throw: 16
+Morale: 8
+Experience Points: 13
+Treasure Class: P, R
+These runtish, vaguely humanoid beings stand from
+three to four feet tall. They have broad, flat heads (sans
+noses) and large, reptilian eyes that scarcely blink.
+They are hairless, and their pale, mottled skin ripples
+like the segments of a worm. Their arms are long,
+with oversized, club-like fists; their legs are short and
+stubby.
+Worms of Ymir are subterranean creatures. Some have
+burrowed to the infernal depths of Underborea, where
+dæmons dwell. Others ever lurk close to the surface,
+emerging under the cloak of night to perform nefarious
+deeds, causing hardship and misery to mankind.
+The origin of this vile species is mired in conjecture.
+Viking skalds say that they are the failed progeny of
+Ymir: maggots that failed to metamorphose to dwarfs,
+trapped in some intermediate stage of development.
+Thus they refer to them as worms of Ymir.
+Pictish wise men maintain a different opinion. They
+refer to this species as worms of the dirt, a hated enemy
+race of men against whom they warred for untold
+centuries. Ultimately, the Picts drove their adversaries
+to the bowels of the earth, and there they devolved to
+their current state, wallowing in clay and burrowing
+like moles.
+Special:
+¬¬ Infrared vision (as the spell) to 120-foot range.
+¬¬ −2 attack penalty when exposed to bright light.
+¬¬ Group mind; multiple worms of Ymir share an
+uncanny empathetic connexion, able to move and
+react as one.

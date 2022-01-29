@@ -1,0 +1,31 @@
+SNAKE, VIPER
+No. Encountered: 1 (3d10)
+Alignment: Neutral
+Size: S
+Movement: 40
+Dexterity: 10
+Armour Class: 6
+Hit Dice: ½
+Attack Rate: 1/1 (bite)
+Damage: 1
+Saving Throw: 17
+Morale: 8
+Experience Points: 27
+Treasure Class: —
+Several snake species inhabit Hyperborea. The asp,
+python, rattlesnake, spitting cobra, and viper are
+some of the more eminent varieties. They hibernate
+during the winter years, except perhaps on the warmer
+outer islands, such as New Amazonia.
+The viper is a venomous snake of three-foot length,
+with a broad head and large fangs. Vipers present in
+various colours, typically yellow, orange, or pink, with
+dark patterns of brown, green, or black diamondshaped
+blotches.
+Special:
+¬¬ Infrared vision (as the spell) to 30-foot range.
+¬¬ Bite injects venom once per day. Victim must make
+death (poison) save or suffer additional 1 hp damage
+per round for 3d4 rounds. Site of wound is purple
+and swollen; may become septic if victim survives
+(cure disease heals).

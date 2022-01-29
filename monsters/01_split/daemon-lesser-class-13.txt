@@ -1,0 +1,39 @@
+DÆMON, LESSER, CLASS xiii
+(Undead Type 13)
+No. Encountered: 1d4
+Alignment: Chaotic Evil
+Size: L
+Movement: 30 (swim 60)
+Dexterity: 11
+Armour Class: 2
+Hit Dice: 5
+Attack Rate: 3/1 (lash / lash / bite)
+Damage: 1d8 / 1d8 / 1d10
+Saving Throw: 14
+Morale: 8
+Experience Points: 600
+Treasure Class: B, Q (×2; always black pearls)
+This dæmon manifests as a monstrous pink-and-yellow
+invertebrate with two ridged tentacles, the whole
+topped by a snarling wolf ’s head. The burning eyes of
+this horror can emit deadly beams of pale fire. These
+fiends prefer to dwell in subaqueous depths. It is said
+they gather the wealth of sunken ships into troves of
+great value, oft conscripting the dead crews of such
+ships to guard the treasures.
+Special:
+¬¬ 5-in-20 spell resistance versus CA 12 casters. For
+every CA level less than 12, the chance-in-twenty
+increases by one (+1) (see Vol. III, p. 261: Saving
+Throw, spell resistance).
+¬¬ Cold, electricity, fire, and gas attacks inflict
+½ damage, or ¼ damage if save is made.
+¬¬ Bite victim must make death (poison) save or
+die, rising three days later as an aquatic ghoul
+(lacedon).
+¬¬ Can cast the
+following spells
+once per day each:
+animate dead,
+death ray of
+immolation.

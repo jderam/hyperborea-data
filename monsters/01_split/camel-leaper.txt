@@ -1,0 +1,24 @@
+LEAPER CAMEL
+No. Encountered: 1 (6d6)
+Alignment: Neutral
+Size: L
+Movement: 60
+Dexterity: 11
+Armour Class: 7
+Hit Dice: 2+1
+Attack Rate: 1/1 (kick)
+Damage: 1d6
+Saving Throw: 16
+Morale: 5
+Experience Points: 35
+Treasure Class: —
+The leaper camel is not a true camel; this kangaroo-like
+marsupial has powerful hind legs that it uses to bound.
+It has white-and-grey shaggy fur and can endure the
+harshest Hyperborean winters. Typically ridden by
+abominable snow-men and men of Leng on the
+frozen tundra of Hyperborea, these temperamental
+beasts can be controlled only by men of 16 or greater
+strength. They rarely are available for
+purchase and require special saddles
+that may cost twice the standard rate.

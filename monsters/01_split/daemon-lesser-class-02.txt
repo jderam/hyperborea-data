@@ -1,0 +1,31 @@
+DÆMON, LESSER, CLASS ii
+(Undead Type 13)
+No. Encountered: 1d8 (4d6)
+Alignment: Chaotic Evil
+Size: S
+Movement: 40
+Dexterity: 12
+Armour Class: 6
+Hit Dice: 1
+Attack Rate: 1/1 (bite)
+Damage: 1d6
+Saving Throw: 16
+Morale: 7
+Experience Points: 46
+Treasure Class: —
+This lowly dæmon resembles a three-foot-long,
+deformed lizard of glossy burnt umber colouration.
+Its powerful legs allow it to make prodigious leaps,
+often in unexpected directions. With intent to devour
+it attacks any unprotected living creature. If unleashed
+on Hyperborea, a swarm of these dæmons will pick a
+region entirely clean of flesh.
+Special:
+¬¬ 1-in-20 spell resistance versus CA 12 casters. For
+every CA level less than 12, the chance-in-twenty
+increases by one (+1) (see Vol. III, p. 261: Saving
+Throw, spell resistance).
+¬¬ Cold, electricity, fire, and gas attacks inflict
+½ damage, or ¼ damage if save is made.
+¬¬ At will, can make powerful leaps as per the jump
+spell.

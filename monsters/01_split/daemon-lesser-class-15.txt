@@ -1,0 +1,52 @@
+DÆMON, LESSER, CLASS xv
+(Undead Type 13)
+No. Encountered: 1d4
+Alignment: Chaotic Evil
+Size: M
+Movement: 40
+Dexterity: 11
+Armour Class: 1
+Hit Dice: 6
+Attack Rate: 2/1 (fist / fist)
+Damage: 1d10 / 1d10
+Saving Throw: 14
+Morale: 8
+Experience Points: 820
+Treasure Class: C
+Mightiest of the lesser dæmons, this entity is a
+humanoid some eight feet in height with profuse
+strange blades and spikes. Its midnight-blue form
+appears more mechanical than organic, and its eyes
+burn with orange fire (as do any rents made in its body
+by weapons). It can speak any human tongue, but rarely
+deigns to do so. These dæmons sometimes are called
+forth from the netherworld by sorcerers and bidden to
+provide transport to other parts of Hyperborea, or even
+to open the way to shadowy realms beyond. The chance
+of being stranded is very real when dealing with these
+enigmatic beings.
+Special:
+¬¬ 6-in-20 spell resistance versus CA 12 casters. For
+every CA level less than 12, the chance-in-twenty
+increases by one (+1) (see Vol. III, p. 261: Saving
+Throw, spell resistance).
+¬¬ Cold, electricity, fire, and gas attacks inflict
+½ damage, or ¼ damage if save is made.
+¬¬ Harmed only by silver or magical weapons.
+¬¬ Can cast the following spells
+at will (though
+only one at a time):
+dimension door,
+silence, tongues.
+¬¬ Once per day
+each, can cast
+plane shift
+and teleport
+(without
+error). Unlike
+mortal
+sorcerers, the
+dæmon can
+teleport itself
+with a willing
+passenger.

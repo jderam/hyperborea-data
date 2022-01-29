@@ -1,0 +1,26 @@
+LION
+No. Encountered: 1d6 (6d4)
+Alignment: Neutral
+Size: L
+Movement: 50
+Dexterity: 12
+Armour Class: 6
+Hit Dice: 5
+Attack Rate: 3/1 (claw / claw / bite)
+Damage: 1d4+1 / 1d4+1 / 1d8+1
+Saving Throw: 14
+Morale: 9
+Experience Points: 200
+Treasure Class: —
+A lion is a large, powerful, carnivorous cat able to
+thrive in most environments. An adult male typically
+measures nearly nine feet long and four feet at the
+shoulder, weighing as much as 500 pounds; an adult
+female is about one-half to three-quarters this size.
+A lion is capable of releasing a powerful roar. They
+generally avoid men, but some develop a taste for
+human flesh. Usually they hunt in small groups; prides
+are larger. N.B.: A pride might comprise 25% cubs.
+Special:
+¬¬ If a lion hits with both claw attacks, rear claws
+automatically rake for 1d6+1 hp damage each.

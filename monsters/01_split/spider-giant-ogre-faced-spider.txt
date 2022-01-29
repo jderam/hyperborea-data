@@ -1,0 +1,36 @@
+SPIDER, GIANT OGRE-FACED SPIDER
+No. Encountered: 1d6
+Alignment: Neutral
+Size: L
+Movement: 30
+Dexterity: 10
+Armour Class: 6
+Hit Dice: 3
+Attack Rate: 1/1 (bite)
+Damage: 2d4
+Saving Throw: 15
+Morale: 7
+Experience Points: 167
+Treasure Class: D
+The giant ogre-faced spider is an eight-foot-long
+arachnid renowned for its face, which is reminiscent
+of a mountain ape—specifically its disturbingly large
+eyes, one twice the size of the other. From trees, crags,
+or abandoned buildings, it hangs by a strand of dry
+silk, holding its web net with its four front legs. As prey
+passes below, it stretches open the net, casting it over
+and enveloping the prey.
+Special:
+¬¬ If entrapped in a web, a man can break free in
+19 rounds − strength score; e.g., 3 rounds with 16 ST.
+¬¬ Chance to surprize increased by 1-in-6 when
+attacking from above.
+¬¬ Throws web net over a single Small or Medium
+victim. If victim is surprized, success is automatic;
+if not surprized, avoidance save is allowed to evade.
+¬¬ Bite victim experiences extreme swelling and skin
+ulcerations, coupled with intense joint pain that
+limits physical activity (½ MV; −2 penalty to attack
+rolls, damage, and saving throws). Death ensues
+in 6d6 turns unless death (poison) save is made;
+swelling subsides in 1d4+6 hours.

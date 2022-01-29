@@ -1,0 +1,52 @@
+MUMMY
+(Undead Type 8)
+No. Encountered: 1
+Alignment: Chaotic Evil
+Size: M
+Movement: 40
+Dexterity: 11
+Armour Class: 3
+Hit Dice: 6+4
+Attack Rate: 1/1 (pummel)
+Damage: 2d6
+Saving Throw: 14
+Morale: 12
+Experience Points: 1,050
+Treasure Class: D
+A mummy is an undead monster born of maleficent
+necromancy using the prepared corpse of a man. In
+general the corpse is dehydrated and wrapped in resincoated
+linen strips that prevent the introduction of
+moisture. The rites and incantations then performed by
+the sorcerer are forbidden and rightly damning to one’s
+soul, oft requiring the use of sacred mystery tomes.
+Some mummies are born of pacts agreed upon by the
+imminent dead (whilst still mortal) and dæmons or
+other netherworldly agents. Rarest is the mummy able
+to retain its former will and intelligence; termed the
+sons of Nyarlathothep, these mummies crave power and
+domination.
+Regardless their origin, once animated, mummies
+are renowned for haunting ancient tombs and crypts,
+serving as death guardians of incredible power. Even
+the most noble of Lawful Good men raised to mummies
+become beasts of Chaotic Evil, hell-bent on the
+destruction of the living when their crypts are violated.
+The mere sight of a mummy can immobilize a man in
+terror, and its touch serves death.
+Special:
+¬¬ Sight of a mummy within 60 feet paralyzes men
+with fear for 2d4 rounds unless sorcery saves are
+made, modified by willpower adjustment (see Vol. I,
+p. 9: Attributes, wisdom), if applicable.
+¬¬ Immune to poison, paralysis, fear, and cold.
+¬¬ Vulnerable to fire: +2 hp per die of damage.
+¬¬ Unharmed by non-magical weapons; magical
+weapons inflict ½ damage.
+¬¬ Touch infects victim with horrible rotting disease,
+unless death (poison) save is made. This bane
+prevents the function of sorcerous healing (spells,
+scrolls, and potions); furthermore any wounds
+suffered require 10 times as long to heal naturally.
+The disease is deadly within 2d6 weeks; only cure
+disease can end the affliction.

@@ -1,0 +1,21 @@
+SQUIRREL
+No. Appearing: 1d6
+Alignment: Neutral
+Size: S
+Movement: 40 (glide 30*)
+Dexterity: 16
+Armour Class: 6
+Hit Dice: ¼
+Attack Rate: 1/1 (bite)
+Damage: 1
+Saving Throw: 17
+Morale: 4
+Experience Points: 5 or 7*
+Treasure Class: —
+* Applies to flying squirrels only.
+Special:
+¬¬ Can climb and move along trees and other rough
+climbing surfaces at normal MV.
+¬¬ A less common species of flying squirrel, native
+to New Pictland and the Savage Boreal Coast, can
+glide at 30 MV.

@@ -1,0 +1,37 @@
+SEA SERPENT
+No. Encountered: 1 (1d4)
+Alignment: Neutral
+Size: L
+Movement: 0 (swim 50)
+Dexterity: 8
+Armour Class: 5
+Hit Dice: 16
+Attack Rate: 1/1 (bite)
+Damage: 3d12
+Saving Throw: 9
+Morale: 9
+Experience Points: 5,400
+Treasure Class: —
+This snakelike leviathan of the sea is up to 100 feet in
+length and massive. Sea serpents are of shimmering
+blue-green scales, and their bodies project several spiny
+fins. They are notorious for taking down small craft,
+wrapping their bodies around them and capsizing them
+to devour the men overboard. At other times they will
+simply lunge and snatch prey from the deck of a
+vessel. Sea serpents are held to congregate at the
+Rim of the World where the seas spill eternal.
+Special:
+¬¬ Can wrap around a small ship and
+constrict for 3d4 points of hull damage
+per round.
+¬¬ On a natural 19–20 attack roll, the
+monster swallows whole its victim,
+inflicting 1d6 hp damage per round
+thereafter; after 3 rounds, the victim may
+asphyxiate (see Vol. III, p. 263: Special
+Damage, asphyxia). Swallowed prey can
+cut its way out with a WC 1–3 blade, with an
+attack penalty equal to the weapon class. If
+18 hp damage is inflicted from within, a large
+enough rent is cut for escape.

@@ -1,0 +1,30 @@
+CROCODILE
+No. Encountered: 1d6
+Alignment: Neutral
+Size: L
+Movement: 30 (swim 40)
+Dexterity: 10
+Armour Class: 3
+Hit Dice: 5
+Attack Rate: 1/1 (bite)
+Damage: 2d8
+Saving Throw: 14
+Morale: 7
+Experience Points: 275
+Treasure Class: —
+Crocodiles are semi-aquatic, predatory reptiles with
+long jaws and tails, short legs, and horny, textured skin.
+Often they dwell in or near water (fresh or salt) and will
+submerse themselves so as to sneak up on prey. Typical
+specimens are of about 20-foot length. In Hyperborea,
+crocodiles scarcely are found about the main continent;
+they inhabit the tropical isles at the Rim of the World.
+Special:
+¬¬ On any successful bite that delivers 9+ hp damage,
+a crocodile holds its victim and goes into a death
+spin, causing an additional 3d4 hp damage per
+round. In water waist deep or greater, the victim
+risks drowning (see Vol. III, p. 263: Special
+Damage, asphyxia). Escaping a death spin requires
+an extraordinary feat of strength (see Vol. I, p. 7:
+Attributes, strength).

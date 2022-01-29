@@ -1,0 +1,17 @@
+GULL
+No. Appearing: 1d20 (1d20×100)
+Alignment: Neutral
+Size: S
+Movement: 10 (fly 80, swim 10)
+Dexterity: 12
+Armour Class: 9
+Hit Dice: ¼
+Attack Rate: 1/1 (peck)
+Damage: 1
+Saving Throw: 17
+Morale: 5
+Experience Points: 9
+Treasure Class: —
+Special:
+¬¬ Garrulous; can distract opponents for 1 round, causing a −1 penalty to
+attack rolls and AC.

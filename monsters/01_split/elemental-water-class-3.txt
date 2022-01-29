@@ -1,0 +1,30 @@
+WATER ELEMENTAL Class III
+No. Encountered: 1
+Alignment: Neutral
+Size: L
+Movement: 20 (swim 60)
+Dexterity: 11
+Armour Class: −2
+Hit Dice: 16
+Attack Rate: 1/1 (slam)
+Damage: 3d20
+Saving Throw: 9
+Morale: 10
+Experience Points: 4,800
+Treasure Class: —
+This semi-intelligent elemental manifests as a
+standing wave of bubbling water, with dæmonic eyes
+and frowning mouth at the centre of its bulk. Water
+elementals are as tall in feet as their HD, their width
+is ×1.5 their HD, and their depth (or thickness) is half
+their HD; thus an 8-HD specimen is 8 feet tall, 12 feet
+wide, and 4 feet thick. They attack by slamming against
+their opponents. These elementals must always remain
+within 90 feet of a water source (e.g., pond, stream,
+well).
+Special:
+¬¬ +1 or better weapon to hit.
+¬¬ Inflicts an extra 1d8 hp damage versus foes in water
+at least ankle deep.
+¬¬ If removed more than 90 feet from water source,
+death is instantaneous.

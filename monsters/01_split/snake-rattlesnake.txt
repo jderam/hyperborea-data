@@ -1,0 +1,34 @@
+SNAKE, RATTLESNAKE
+No. Encountered: 1 (2d4)
+Alignment: Neutral
+Size: S
+Movement: 40
+Dexterity: 15
+Armour Class: 6
+Hit Dice: 2
+Attack Rate: 2/1 (bite / bite)
+Damage: 1d2 / 1d2
+Saving Throw: 16
+Morale: 7
+Experience Points: 64
+Treasure Class: —
+Several snake species inhabit Hyperborea. The asp,
+python, rattlesnake, spitting cobra, and viper are
+some of the more eminent varieties. They hibernate
+during the winter years, except perhaps on the warmer
+outer islands, such as New Amazonia.
+The rattlesnake ranges from four to eight feet in
+length, with reticulated black, brown, green, red, tan,
+and/or white scales, oft diamond-patterned. It dwells
+in deserts or dungeon depths. A rattlesnake’s tail has
+a scaly white rattle that it violently shakes to ward off
+enemies, though it might not shake its rattle before
+attacking. Because of its swiftness, the rattlesnake
+strikes twice per round.
+Special:
+¬¬ Infrared vision (as the spell) to 30-foot range.
+¬¬ Bite injects venom twice per day. Victim must make
+death (poison) save or suffer additional 2d6 hp
+damage, dying in 1d6 turns. Site of wound is purple
+and swollen; may become septic if victim survives
+(cure disease heals).

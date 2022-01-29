@@ -1,0 +1,27 @@
+MUSK OX
+No. Encountered: 2d10×10
+Alignment: Neutral
+Size: L
+Movement: 30
+Dexterity: 7
+Armour Class: 7
+Hit Dice: 3
+Attack Rate: 1/1 (gore)
+Damage: 1d6
+Saving Throw: 15
+Morale: 5
+Experience Points: 35
+Treasure Class: —
+This is a large, furry, wild ox that roams arctic plains.
+Its long, shaggy coat and soft undercoat provide
+warmth in the coldest regions, and its great hooves are
+used to scrape and clear away ice so as to access the
+grass underneath. Bulls stand five feet at the shoulder
+and weigh as much as 800 pounds; cows are smaller.
+Bulls have prominent horns that they use to fight
+one another or make ostentatious mating displays.
+Rarely are musk oxen encountered in small numbers;
+typically they roam in large herds. When predators
+are inescapable, the oxen will form defensive circles,
+protecting their young and ready to gore with their
+horns if approached.

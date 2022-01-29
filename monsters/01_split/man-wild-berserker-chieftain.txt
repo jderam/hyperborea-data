@@ -1,0 +1,43 @@
+WILD BERSERKER CHIEFTAIN
+No. Encountered: 1:50
+Alignment: Chaotic (usually Evil)
+Size: M
+Movement: 40
+Dexterity: 14
+Armour Class: 6
+Hit Dice: 5+8
+Attack Rate: 2/1 (weapon)
+Damage: (per weapon +2)
+Saving Throw: 12
+Morale: 12
+Experience Points: 420
+Treasure Class: M (×2)
+Not to be confused with the berserker class,
+wild berserkers are fighting men who have
+succumbed to utter savagery and Chaos, and so
+are considered “monsters” by all accounts—and
+quite feral, too. They are more beast than
+man, and they comprehend little other
+than violence and bloodshed; many
+even cannibalize their own weak and
+infirm. Some sages posit that this
+barbarity is due to a species of lotus
+they chew. Regardless, most wild
+berserkers are a wroth lot, vicious and
+cruel, and they respect nothing save power,
+intimidation, and domination.
+Wild berserkers do not wear armour—their
+thick skin provides adequate defence—and they
+shun missile weapons (though one might hurl
+an axe). They never yield when fighting,
+frothing at the mouth and howling
+like beasts. For every 25 wild
+berserkers there will be
+1 sub-chief; for every 50 there
+will be 1 chieftain.
+Special:
+¬¬ Naturally cold-resistant; can
+withstand temperatures as low
+as −15°F.
+¬¬ All attack rolls made at +2
+bonus.

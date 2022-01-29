@@ -1,0 +1,38 @@
+CARNIVOROUS APE
+No. Encountered: 1d8
+Alignment: Chaotic Evil
+Size: M
+Movement: 40 (fly 50*)
+Dexterity: 11
+Armour Class: 6
+Hit Dice: 5
+Attack Rate: 2/1 (claw / claw)
+Damage: 1d6+1 / 1d6+1
+Saving Throw: 14
+Morale: 9
+Experience Points: 200 or 225*
+Treasure Class: C
+* Applies to winged types only.
+These are massive, seven-foot-tall, flesh-eating gorillas
+of brutish, cunning intelligence. They have large fists
+with black-taloned fingers. Often carnivorous apes
+dwell in hidden places, such as caves, dungeons, or
+forests deep. They take great pleasure in eating the
+raw flesh of man and are keen to his scent; likewise,
+they hate and prey upon other ape species, though
+they rightly fear the four-armed albino ape superior.
+Carnivorous apes are notorious for their keen eyesight,
+hearing, and olfaction; they use these enhanced senses
+and their shrewd cunning to stalk enemies.
+A rare variation of the carnivorous ape is said to dwell
+in the remote peaks of the Spiral Mountain Array.
+These simians conform to carnivorous ape appearance,
+except they have hollow bones and great, membranous
+bat wings. Clever and intelligent, these brutes revel in
+cruelty. They are said to capture human females and
+convey them to their wicked lairs.
+Special:
+¬¬ Acute senses; chance to be surprized reduced by
+1-in-6.
+¬¬ If both claw attacks hit one opponent, carnivorous
+ape rends its prey for additional 1d8+1 hp damage.

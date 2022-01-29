@@ -1,0 +1,31 @@
+MUSTARD MOULD
+No. Encountered: 1
+Alignment: Neutral
+Size: S
+Movement: 0
+Dexterity: —
+Armour Class: 9
+Hit Dice: 2
+Attack Rate: 1/1 (spore blast)
+Damage: 1d6
+Saving Throw: 16
+Morale: 12
+Experience Points: 100
+Treasure Class: —
+This deadly subterranean fungus of dark yellow
+colour grows in furry patches of about eight square
+feet, though larger colonies are not unusual. Mustard
+mould propagates in dark, moist places and is known
+to favour tapestries and other heavy cloths, though is
+just as likely to be found on wood. Through these media
+the mustard mould eats, but not metal or stone. The
+mustard mould does not “attack”, per se, but reacts to
+being handled by releasing a deadly cloud of spores.
+Special:
+¬¬ Harmed only by fire, a torch inflicting 1d6 hp
+damage per round.
+¬¬ When handled, struck, or burnt, 3-in-6 chance
+it releases a 10 × 10 × 10-foot cloud of spores. The
+cloud burns the eyes, nose, and throat; those
+within must make death (poison) saves or choke to
+death in 6 rounds.

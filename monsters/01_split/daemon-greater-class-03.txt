@@ -1,0 +1,46 @@
+DÆMON, GREATER, CLASS III
+(Undead Type 13)
+No. Encountered: 1d3
+Alignment: Chaotic Evil
+Size: L
+Movement: 30
+Dexterity: 11
+Armour Class: −4
+Hit Dice: 10
+Attack Rate: 5/1 (pincer / pincer / claw / claw / bite)
+Damage: 2d6 / 2d6 / 1d4+1 / 1d4+1 / 1d6+1
+Saving Throw: 12
+Morale: 10
+Experience Points: 3,100
+Treasure Class: D
+Standing 9–10 feet tall, this horrific, heavily muscled
+dæmon has a thick, wrinkled hide and a lupine head
+from which project two goat horns. Class III greater
+dæmons have four arms. Two are massive and simian,
+emerging from the typical shoulder area; these arms
+terminate in great homarine pincers. The secondary
+set of arms emerges from the pectoral area; these end
+in taloned hands. Class III greater dæmons are more
+intelligent than their class I or II kin. They dwell in
+the world of men because someone (or something) has
+beckoned them forth, or because they scheme to effect
+Evil.
+Special:
+¬¬ 9-in-20 spell resistance versus CA 12 casters. For
+every CA level less than 12, the chance-in-twenty
+increases by one (+1) (see Vol. III, p. 261: Saving
+Throw, spell resistance).
+¬¬ Cold, electricity, fire, and gas attacks inflict
+½ damage, or ¼ damage if save is made.
+¬¬ Can cast the following spells at will (though only
+one at a time): cause fear (reverse of remove fear),
+darkness, detect invisibility, infrared vision, levitate,
+polymorph self, pyrotechnics, telekinesis, teleport
+(without error).
+¬¬ Once per day, can attempt to beckon another dæmon
+to fight alongside it (as reverse of dismissal), with
+2-in-6 chance of success; roll 1d3 to determine if
+a class I, class II, or class III greater dæmon is
+beckoned. Alternatively, it can attempt to summon
+1d4 class iii lesser dæmons or 1d3 class iv lesser
+dæmons, with 4-in-6 chance of success.

@@ -1,0 +1,29 @@
+GIANT CRAB
+No. Encountered: 1d4 (4d4)
+Alignment: Neutral
+Size: M
+Movement: 30
+Dexterity: 11
+Armour Class: 2
+Hit Dice: 3
+Attack Rate: 2/1 (pincer / pincer)
+Damage: 2d4 / 2d4
+Saving Throw: 15
+Morale: 9
+Experience Points: 41
+Treasure Class: —
+Giant crabs are crustaceans with shells spanning as
+much as five feet in diameter. Typically they are red,
+green, or blue. Although aquatic, they thrive on land as
+well as in water (fresh or salt), digging shallow burrows.
+Giant crabs are voracious eaters and have a taste for
+warm-blooded creatures, rending them with their
+powerful claws. Although they lack intelligence, giant
+crabs sometimes are trained by crab-men to serve as
+guardians and trackers. Usually they are encountered at
+a sandy beach, swamp, or river delta.
+Special:
+¬¬ When emerging to attack from a burrowed
+position, giant crabs enjoy a 1-in-6 bonus to
+surprize; monstrous crabs are too slow to gain the
+same advantage.

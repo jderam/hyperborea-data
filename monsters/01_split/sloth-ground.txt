@@ -1,0 +1,33 @@
+GROUND SLOTH
+(Megatherium)
+No. Encountered: 1 (2d4)
+Alignment: Neutral
+Size: L
+Movement: 30
+Dexterity: 6
+Armour Class: 4
+Hit Dice: 12
+Attack Rate: 2/1 (claw / claw) or 1/1 (tail lash)
+Damage: 2d8 / 2d8 or 3d4
+Saving Throw: 11
+Morale: 7
+Experience Points: 1,500
+Treasure Class: —
+This enormous herbivore is about 20 feet long,
+weighing as much as 6,000 pounds. The ground sloth
+has massive bones, a powerful tail, and coarse, reddishbrown
+fur. It stands up to nine feet at the shoulder and
+will rear up on its hind legs to browse trees. Ground
+sloths walk on the sides of their front feet, owing to
+their non-retractable claws of one- to two-foot length.
+These creatures are considered docile and slow-witted.
+They will defend themselves, but otherwise ignore
+potential predators (of which few are known). For
+instance, if a pair of desperate sabre-tooths were to
+approach a ground sloth, all it would need do is rear up
+on its hind legs and display its enormity.
+Special:
+¬¬ Tail lash lifts and propels smaller prey 1d20+20
+feet in the air; additional damage is caused upon
+landing (see Vol. III, p. 263: Damage, falling
+damage).

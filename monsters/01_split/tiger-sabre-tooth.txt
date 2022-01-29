@@ -1,0 +1,34 @@
+SABRE-TOOTH TIGER
+(Smilodon)
+No. Encountered: 1 (1d4)
+Alignment: Neutral
+Size: L
+Movement: 50
+Dexterity: 14
+Armour Class: 6
+Hit Dice: 8
+Attack Rate: 3/1 (claw / claw / bite)
+Damage: 1d6+1 / 1d6+1 / 2d8
+Saving Throw: 13
+Morale: 8
+Experience Points: 840
+Treasure Class: —
+A sabre-tooth is an enormous and powerful cat built
+for strength; it has short limbs, a thick, powerful
+body, and curved canine teeth of 10-inch length. The
+hindquarters are striped, the front thickly furred with
+spots. Adults measure up to 10 feet long (plus tail)
+and 4 feet at the shoulder,
+weighing 800 pounds.
+Hunters of giant elk, woolly
+mammoths, and musk oxen,
+these great cats range over
+plains and tundra, scarcely
+finding men worth their
+efforts, but they will attack if
+desperate or incited.
+Special:
+¬¬ All tigers are superior stalkers; chance to surprize
+increased by 2-in-6.
+¬¬ If both claw attacks hit, the cat automatically rakes
+with its two rear claws for 2d4 hp damage each.

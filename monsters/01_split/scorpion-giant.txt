@@ -1,0 +1,31 @@
+GIANT SCORPION
+No. Encountered: 1d6
+Alignment: Neutral
+Size: L
+Movement: 50
+Dexterity: 17
+Armour Class: 2
+Hit Dice: 4
+Attack Rate: 3/1 (pincer / pincer / sting)
+Damage: 1d6 / 1d6 / 1d4
+Saving Throw: 15
+Morale: 7
+Experience Points: 180
+Treasure Class: D
+This arachnidan monstrosity is about 10 feet long
+(including tail), with massive pincers, four pairs of
+taloned legs, and a great metasoma that is barbed with
+a deadly stinger. These nocturnal creatures are black or
+yellow in colour and dwell in caves, dungeons, deserts,
+steppes, and old ruins. The mother giant scorpion bears
+a dozen live young that cling to her for as long as two
+weeks.
+Special:
+¬¬ When sorcerous ultraviolet vision is in effect, a
+giant scorpion takes on a phosphorescent glow; all
+attacks against it are at a +1 attack bonus.
+¬¬ If both pincers hit, stinger attack is made at a +2
+bonus on the attack roll.
+¬¬ Stinger delivers deadly venom unless death (poison)
+save is made, causing immediate loss of speech,
+paralysis 1 round later, and death in 2d4 rounds.

@@ -1,0 +1,51 @@
+ORC CAPTAIN
+(Dæmon-Pict)
+No. Encountered: 1:20
+Alignment: Lawful Evil
+Size: M
+Movement: 40
+Dexterity: 11
+Armour Class: 6
+Hit Dice: 3
+Attack Rate: 3/2 (weapon)
+Damage: (per weapon +1)
+Saving Throw: 15
+Morale: 8
+Experience Points: 35
+Treasure Class: M
+These despicable humanoids are the unhallowed
+progeny of babi-ngepet (“swine dæmons”) and an
+abominable tribe of half-blood Picts. They are stocky,
+short-legged, thick-boned, and heavily muscled, but
+their features are horribly disfigured and oft porcine,
+with pronounced lower canine teeth. In the wilderness
+they are largely nocturnal, but in subterranean lairs not
+necessarily so.
+Orcs are temperamental and prone to infighting, but
+under a strong leader they are capable of exceptional
+obedience. They are a violent species, killing for
+pleasure, and they relish in torturing and burning
+their victims; too, they are notorious slavers. Orcs
+are intelligent enough to manufacture weapons and
+armour and perform other feats of simple engineering,
+but their craftsmanship is generally inferior to human
+standards; hence, a suit of orcish plate mail might
+provide AC 4 instead of AC 3. (Orcs otherwise have
+natural AC 6 from their thick hides.) Orcs speak their
+own language (Orcish) and oft a crude form of the
+Common tongue of man; some can speak a smattering
+of Pictish.
+Hunting parties and patrols usually number 1–6 orcs.
+Typical tribes comprise 10–80, and large tribes might
+total 50–500 orcs; in the City-State of Orcust, orcs
+number in the thousands. There will be 1 lieutenant
+for every 10 orcs, 1 captain for every 20 orcs, and
+1 chieftain for every 30 orcs. Chieftains are seven-foottall
+humanoids, intelligent and cruel.
+Special:
+¬¬ Infrared vision (as the spell) to 60-foot range.
+¬¬ −1 attack penalty when exposed to bright light.
+¬¬ Tribes of 100+ orcs have a 2-in-6 chance to include a
+shaman, who can advance as high as 5th level;
+for each level beyond 1st, they add 1 hit die (d8) to
+their base 1 HD.

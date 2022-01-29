@@ -1,0 +1,35 @@
+SKELETON
+(Undead Type 1)
+No. Encountered: 2d4 (10d20)
+Alignment: Chaotic Evil
+Size: M
+Movement: 30
+Dexterity: 11
+Armour Class: 7
+Hit Dice: 1
+Attack Rate: 1/1 (claw or weapon)
+Damage: 1d6 (or per weapon)
+Saving Throw: 16
+Morale: 12
+Experience Points: 16
+Treasure Class: Q
+Animated and conjured to service by the baleful sorcery
+of magicians, clerics, and the like, these are the bones
+of men or humanoids, undead creatures typically found
+in crypts, dungeons, and other forsaken locales. Often
+they are charged with guardianship of a person, place,
+or thing, and they can wield weapons and shields. As
+undead they can be harmed by holy oil / water. They also
+can be turned by clerics and the like, but otherwise they
+fight until destroyed. Large skeletons are the animate
+bones of albino apes, carnivorous apes, mountain
+apes, or minotaurs; giant skeletons are the animate
+forms of fire giants, frost giants, or hill giants.
+Special:
+¬¬ Shield-bearing skeletons are common; they gain
++1 AC.
+¬¬ Immune to poison, paralysis, fear, and cold.
+¬¬ Edged and piercing weapons cause ½ damage
+against them (damage dice halved, with bonuses
+added afterwards), but blunt weapons inflict
+normal damage.

@@ -1,0 +1,34 @@
+SPECTRE
+(Undead Type 9)
+No. Encountered: 1 (1d4)
+Alignment: Chaotic Evil
+Size: M
+Movement: 50 (fly 80)
+Dexterity: 11
+Armour Class: 2
+Hit Dice: 7+4
+Attack Rate: 1/1 (touch)
+Damage: 1d10
+Saving Throw: 13
+Morale: 11
+Experience Points: 1,080
+Treasure Class: Q (×2), X, Y
+These malevolent, incorporeal undead beings are
+empowered by the negative energy of the Black
+Gulf. Appearing as ghostly manifestations, spectres
+haunt unhallowed crypts and tombs and like places
+of desolation. They despise life almost as much as
+sunlight, and with their chilling touch they are
+notorious for sating themselves on the life energies of
+men.
+Special:
+¬¬ Spectres are helpless in daylight, unable to attack
+or defend.
+¬¬ Immune to poison, paralysis, fear, and cold.
+¬¬ A raise dead spell automatically kills a spectre.
+¬¬ +1 or better weapon to hit.
+¬¬ Touch drains 1d2 levels of experience unless a
+death save is made (see Vol. III, p. 263: Special
+Damage, energy drain). If a man is drained to 0th
+level, one day later he will become a spectre serving
+the one who drained him.

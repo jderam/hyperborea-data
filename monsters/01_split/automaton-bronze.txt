@@ -1,0 +1,47 @@
+BRONZE AUTOMATON
+No. Encountered: 1
+Alignment: Neutral
+Size: L
+Movement: 30
+Dexterity: 9
+Armour Class: 2
+Hit Dice: 10+2
+Attack Rate: 1/1 (gore or weapon)
+Damage: 2d8 or 4d6
+Saving Throw: 12
+Morale: 12
+Experience Points: 2,200
+Treasure Class: —
+Automata are humanoid constructs of mad sorcerers
+and their ilk, the formulæ for the creation of
+which trace back to a bygone age when Atlanteans,
+Hyperboreans, and Lemurians commingled sorcery
+and science. Strange wires, conduits, batteries, cells,
+and circuits are installed in many of these creations,
+though no two manuals of automaton creation (see
+Vol. V, p. 482: Magical Treasure, miscellaneous
+magic items) describe precisely identical processes;
+alternative methods of creation were engendered by the
+ancients, but this is a lost science in rapidly decaying
+Hyperborea.
+A bronze automaton is a massive 10-foot construct
+built to resemble a minotaur. A typical bronze
+automaton is fashioned to wield a great spear, halberd,
+or trident, composed entirely of bronze. The bronze
+automaton is ever obedient and under the command of
+its creator, though it only responds to clear and loudly
+vocalized commands. N.B.: The golden heart of a felled
+bronze automaton, if extracted, has a 12,000-gp value.
+A clay automaton is a manlike statue eight feet tall.
+The clay automaton is under its creator’s command;
+typically the creature is appointed a task, such as
+guardianship. N.B.: Clay automata are prone to
+possession by dæmons.
+Special:
+¬¬ +1 or better weapon to hit.
+¬¬ Immune to sorcery, except lightning, which
+functions as slow spell for 3 rounds.
+¬¬ Fire attacks heal the monster instead of damaging
+it.
+¬¬ Can deliver charging gore attack at +2 bonus and
+double damage.

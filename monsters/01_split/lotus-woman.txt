@@ -1,0 +1,57 @@
+LOTUS WOMAN
+No. Encountered: 3d4
+Alignment: Neutral
+Size: M
+Movement: 20
+Dexterity: 12
+Armour Class: 6
+Hit Dice: 6
+Attack Rate: 2/1 (lash / lash)
+Damage: 1d4 / 1d4
+Saving Throw: 14
+Morale: 8
+Experience Points: 700
+Treasure Class: I
+In remote corners of Hyperborea, at the
+outskirts of swamps and marshlands,
+dwell the lotus women, vegetal vampires
+whose lamenting siren songs beguile men
+and other intelligent humanoids. Lotus
+women present as beautiful, voluptuous
+women whose skin tone is a subtle purple,
+light pink, or pearl white with speckles of
+purple and/or pink. Their hair is composed
+of thin rubbery stalks, green and somewhat
+bulbous where it meets the scalp, and their
+pale, fibrous fingers can unfurl ribbons,
+extending up to three feet, with which they
+lash their prey.
+Lotus women ensconce themselves in
+enormous, bowl-shaped lotuses, from six
+to eight feet in diameter, of hues that match
+their skin. Whether these giant flowers are extensions
+of the lotus women or a separate species with which
+they share symbiosis is a matter of conjecture. Lotus
+women can leave their host flowers, but never do they
+stray more than 50 feet, and at night they always return
+to their respective blossoms, which enclose them until
+sunup. When a lotus woman beguiles prey, she will take
+him into her blossom to feed. Often when one lotus
+woman reels in prey, others will surround her, licking
+their lips, begging and pleading for a taste.
+Special:
+¬¬ Each lotus woman’s voice can charm one creature
+within 60 feet who hears it, unless a sorcery
+save is made; the save is modified by willpower
+adjustment (see Vol. I, p. 9: Attributes, wisdom),
+if applicable. A charmed individual is compelled
+to approach the lotus woman, who extends her
+fingers, enwraps the victim, and reels him in for
+feeding. Slowly the victim is drained of 1 hp per
+turn. N.B.: Multiple lotus women might target one
+victim, vying for the same lunch.
+¬¬ Subject to plant-affecting spells.
+¬¬ Fire inflicts ×1.5 damage.
+¬¬ If host flower is destroyed, lotus woman suffers 3d6
+hp damage; subsequently she must establish a new
+host flower, or die within 48 hours.

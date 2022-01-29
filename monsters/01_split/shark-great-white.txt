@@ -1,0 +1,27 @@
+GREAT WHITE SHARK
+No. Encountered: 1 (2d6)
+Alignment: Neutral
+Size: L
+Movement: 0 (swim 60)
+Dexterity: 14
+Armour Class: 4
+Hit Dice: 6
+Attack Rate: 1/1 (bite)
+Damage: 4d8
+Saving Throw: 14
+Morale: 8
+Experience Points: 300
+Treasure Class: —
+Several small, inoffensive shark species (such as the
+dogfish) are found in Hyperborea, but the largest and
+deadliest is the great white. These carnivorous killers
+are identified by their prominent dorsal fins. The great
+white shark has established itself as one of the top
+predators of the sea, thriving in the cool waters. Great
+whites have been reported to achieve lengths of up to
+30 feet and will attack vessels of any size, tearing to
+shreds the thickest hulls.
+Special:
+¬¬ Successful hit followed by 2d8 hp damage per
+round from ripping and shaking
+prey.

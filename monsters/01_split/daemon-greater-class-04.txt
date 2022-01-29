@@ -1,0 +1,57 @@
+DÆMON, GREATER, CLASS IV
+(Undead Type 13)
+No. Encountered: 1 (1d3)
+Alignment: Chaotic Evil
+Size: L
+Movement: 30 (fly 40)
+Dexterity: 8
+Armour Class: −1
+Hit Dice: 11
+Attack Rate: 3/1 (claw / claw / gore)
+Damage: 3d4 / 3d4 / 4d4
+Saving Throw: 11
+Morale: 10
+Experience Points: 4,700
+Treasure Class: E
+Massive and fearsome, these dæmons stand 10–12 feet
+tall and weigh as much as 1,000 pounds. They are quite
+furry, and their body shapes are vaguely simian, though
+with porcine countenances. They stand upon the heavy
+hooves of a boar, and from their shoulder blades project
+a pair of small, feathered wings that appear too small to
+provide the power of flight, yet do nonetheless.
+Class IV greater dæmons are highly intelligent, though
+they possess the same appetite for human flesh as other
+dæmons. These scheming dæmons dominate their
+inferior kin, and in the netherworlds within which they
+dwell (such as Underborea), they oft dominate. Rarely
+do class IV greater dæmons dwell in the world of men
+unless they are beckoned, they are commanded by a more
+powerful dæmon, or they plot on their own. N.B.: If one
+attempts to beckon a class IV greater dæmon without
+knowledge of the specific dæmon’s true name, the beast
+at once will seek to slay the summoner; otherwise it
+will listen to him, though not necessarily obey, perhaps
+performing a service if the reward is substantial.
+Special:
+¬¬ 10-in-20 spell resistance versus CA 12 casters. For
+every CA level less than 12, the chance-in-twenty
+increases by one (+1) (see Vol. III, p. 261: Saving
+Throw, spell resistance).
+¬¬ Cold, electricity, fire, and gas attacks inflict
+½ damage, or ¼ damage if save is made.
+¬¬ +1 or better weapon to hit.
+¬¬ All attack rolls made at +2 bonus.
+¬¬ Can cast the following spells at will (though only
+one at a time): cause fear (reverse of remove fear),
+darkness, decipher language, detect invisibility, detect
+magic, improved phantasm, infrared vision, levitate,
+polymorph self, pyrotechnics, telekinesis, teleport
+(without error).
+¬¬ Once per day, can attempt to beckon another dæmon
+to fight alongside it (as reverse of dismissal), with
+4-in-6 chance of success; roll 1d4 to determine if
+a class I, class II, class III, or class IV greater
+dæmon is beckoned. Alternatively, it can attempt to
+summon 1d4 class iii lesser dæmons or 1d3 class v
+lesser dæmons, with 5-in-6 chance of success.

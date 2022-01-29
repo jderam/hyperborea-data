@@ -1,0 +1,45 @@
+BLINK DOG
+No. Encountered: 1d6 (1d10+10)
+Alignment: Lawful Good
+Size: S
+Movement: 50
+Dexterity: 17
+Armour Class: 5
+Hit Dice: 4
+Attack Rate: 1/1 (bite)
+Damage: 1d6
+Saving Throw: 15
+Morale: 9
+Experience Points: 120
+Treasure Class: C
+Canine-like blink dogs originate from realms
+Æthereal. They thrive in cold deserts, hunting in
+packs and competing with other carnivores. Although
+not physically imposing, they compensate via their
+intelligence and supernatural ability to blink (teleport
+short distances).
+Blink dogs stand from two to three feet at the
+shoulder, with furry white legs and thick golden
+coats, sometimes spotted brown. They do not bark;
+rather they communicate by means of a complex
+howling language, though some sages posit that they
+possess empathy or telepathy. Blink dogs are thought
+to comport to a strict moral code, suggested by their
+apparent opposition to Chaotic Evil creatures of
+otherworldly origins. Their packs are believed to be
+matriarchal.
+Special:
+¬¬ Perspicacious to otherworldly horrors and the
+undead; may bark or howl in their presence, even if
+unseen (or disguised).
+¬¬ When combating Chaotic Evil, they gain +4
+damage bonuses due to enhanced ferocity (and
+perhaps divine or otherworldly favour).
+¬¬ In combat they blink in front of their enemies,
+bite, and then blink away to a distance of 1d6×10
+feet. Attacking a blink dog requires precise timing;
+one first must make a successful test of dexterity (see
+Vol. I, p. 7: Attributes, dexterity) to time a blow
+possibly to hit a blink dog.
+¬¬ When faced with unassailable odds, entire packs can
+disappear to parts unknown.

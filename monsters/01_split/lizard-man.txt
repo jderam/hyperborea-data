@@ -1,0 +1,45 @@
+LIZARD-MAN
+No. Encountered: 1d6 (1d6×10)
+Alignment: Neutral
+Size: M
+Movement: 30
+Dexterity: 9
+Armour Class: 5
+Hit Dice: 2+1
+Attack Rate: 1/1 (bite or weapon)
+Damage: 1d6+1 (or per weapon +1)
+Saving Throw: 16
+Morale: 10
+Experience Points: 35
+Treasure Class: D
+A lizard-man is a water-dwelling, reptilian biped, with an
+iguana-like head, a pronounced spine ridge, and a long
+tail. Its scaly skin ranges from brown to green. Lizardmen
+are herbivorous, egg-bearing creatures that typically
+thrive along the seacoast, in swamps or marshes, or by
+rivers and lakes.
+Lizard-men are possessed of primitive intelligence,
+utilizing spears and clubs of their own manufacture, or
+the weapons of men when they can acquire them.
+Some lizard-man tribes have developed crude
+archery techniques. They speak their own sibilant
+tongue, but some can speak a rudimentary form
+of the Common tongue of
+man; others still understand
+an antiquated Thracian
+dialect. Advanced tribes
+have developed a method
+for riding giant draco
+lizards, affixing these
+massive creatures with
+riding harnesses.
+Lizard-men are reclusive by nature; when intruded
+upon, they oft capture and execute the trespassers as
+part of some clandestine ritual. During winter years,
+lizard-men of mainland Hyperborea will burrow into
+underground caverns, where they will hibernate for
+months if not years at a time. For every 12 lizard-men
+there will be 1 sub-chief, a commander of superior
+fighting skills; for every 50 lizard-men there will be
+1 chieftain, a reptilian shaman who venerates ancestral
+spirits.

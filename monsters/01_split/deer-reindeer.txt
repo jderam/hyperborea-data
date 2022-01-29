@@ -1,0 +1,25 @@
+REINDEER
+No. Encountered: 5d6 (2d10×10)
+Alignment: Neutral
+Size: M
+Movement: 60
+Dexterity: 10
+Armour Class: 7
+Hit Dice: 2
+Attack Rate: 1/1 (gore)
+Damage: 1d6
+Saving Throw: 16
+Morale: 5
+Experience Points: 24
+Treasure Class: —
+Reindeer are larger, standing four or more feet at the
+shoulder and weighing as much as 400 pounds. Too,
+the spread of their antlers is much larger, and they are
+generally furrier, thriving in tundra regions. Reindeer are
+herded by Esquimaux, utilized for their meat, milk, and
+hides. They can be domesticated and trained in teams to
+pull sleds. Some nomadic Esquimaux, particularly those
+with strains of Lapp in their blood, are known also to
+saddle and ride reindeer.
+Special:
+¬¬ Charging gore attack results in double damage dice.

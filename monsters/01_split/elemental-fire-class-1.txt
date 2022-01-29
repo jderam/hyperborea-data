@@ -1,0 +1,32 @@
+FIRE ELEMENTAL Class I
+No. Encountered: 1
+Alignment: Neutral
+Size: L
+Movement: 40
+Dexterity: 11
+Armour Class: 2
+Hit Dice: 8
+Attack Rate: 1/1 (touch)
+Damage: 4d4
+Saving Throw: 13
+Morale: 10
+Experience Points: 840
+Treasure Class: —
+This semi-intelligent, conical pillar of roaring flames
+is as tall in feet as its HD, with a base of like diameter.
+Small gouts of blue or green flames simulate mouth
+and eyes, fixed in a furious countenance. When
+attacking, fire elementals lash at their victims with
+their main bulk. They boil water to steam on contact
+and can move across the water’s surface, not unlike a
+grease fire.
+Special:
+¬¬ Fire attacks heal a fire elemental instead of
+damaging it, albeit at 50% effectiveness.
+¬¬ +1 or better weapon to hit.
+¬¬ Inflicts an extra 1d8 hp damage versus cold-based
+creatures.
+¬¬ Complete water immersion will destroy a fire
+elemental in 1 turn, unless it makes a death save, in
+which case it will emerge to the surface having lost
+half its current hit points.

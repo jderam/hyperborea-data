@@ -1,0 +1,17 @@
+DROMEDARY CAMEL
+No. Encountered: 1 (5d6)
+Alignment: Neutral
+Size: L
+Movement: 60
+Dexterity: 7
+Armour Class: 7
+Hit Dice: 2+1
+Attack Rate: 1/1 (kick)
+Damage: 1d4
+Saving Throw: 16
+Morale: 5
+Experience Points: 35
+Treasure Class: —
+The dromedary camel is a one-humped pack or riding
+animal, similar to the bactrian, though faster, lighterboned,
+and less furry.

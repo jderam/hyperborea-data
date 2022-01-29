@@ -1,0 +1,34 @@
+ALBINO APE
+(White Ape)
+No. Encountered: 1d2 (1d4+6)
+Alignment: Neutral
+Size: M
+Movement: 40
+Dexterity: 10
+Armour Class: 5
+Hit Dice: 4+2
+Attack Rate: 2/1 (claw / claw)
+Damage: 1d6+1 / 1d6+1
+Saving Throw: 15
+Morale: 9
+Experience Points: 175
+Treasure Class: C
+The albino ape is a massive white simian dwelling in
+caves and caverns. Adult males grow up to seven feet
+high and weigh as much as 600 pounds; females are
+slightly smaller. Nocturnal and carnivorous, these
+gorilla-like beasts demonstrate limited intelligence
+through primitive tool use.
+Typically they live in groups of 7–10, with one alpha
+male, two or three females, and the remainder young;
+otherwise, adult males will live solitarily, though a
+sibling pair is possible. If approached, the apes will
+pound their chests and roar. A man who carefully backs
+away might escape (3-in-6 chance); otherwise the apes
+will react violently. Albino apes are known to emerge
+in the black of night to chase Ythaqqa, “The Wendigo”,
+across the Plain of Leng, howling and frothing in
+bestial rapture.
+Special:
+¬¬ Acute sense of smell; chance to be surprized
+reduced by 1-in-6.

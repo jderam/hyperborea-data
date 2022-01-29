@@ -1,0 +1,44 @@
+BOG MUMMY
+(Undead Type 3)
+No. Encountered: 1 (1d6)
+Alignment: Chaotic Evil
+Size: M
+Movement: 20
+Dexterity: 6
+Armour Class: 7
+Hit Dice: 3
+Attack Rate: 1/1 (pummel)
+Damage: 1d6
+Saving Throw: 15
+Morale: 12
+Experience Points: 113
+Treasure Class: O, P, Q
+Bog mummies are foul corpses that have been
+preserved by the foetid, acidic water of a peat bog. As
+sacrificial victims of unspeakable cruelty, they also
+suffer the dreaded curse of undeath, restless beings that
+despise humanity. They lurk in moss-hag pools such as
+those found in the Lug Wasteland. Their desiccated skin
+is brown and tough, their internal bones decomposed
+to a glutinous gunge; thus they ambulate like walking
+sacks of jelly-stuffed leather, bloated with congealed
+acids that they can disgorge to deadly effect.
+Special:
+¬¬ Immune to poison, paralysis, fear, and cold.
+¬¬ Mundane chopping or slashing weapons (e.g.,
+axes, scimitars, swords) cause ½ damage to bog
+mummies; mundane blunt or piercing weapons
+(e.g., hammers, maces, arrows, spears) cause ¼
+damage. Magical weapons of all kinds cause full
+damage.
+¬¬ Thrice per day can vomit a 10-foot-long cone of
+gelatinous acid that is 5 feet wide at the terminus
+and causes 2d4 hp damage, with avoidance saves
+allowed for ½ damage. If saving throws fail, the
+acid sticks, causing an additional 1d4 hp damage on
+the 2nd round unless immediately scraped off (such
+as with the back of a blade).
+¬¬ If it has not ejected its acid thrice and is cut down
+with physical force, bog mummy explodes on a
+1-in-6 chance, with effects as shewn above to all
+creatures within 10 feet.

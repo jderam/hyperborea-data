@@ -1,0 +1,18 @@
+BACTRIAN CAMEL
+No. Encountered: 1 (5d6)
+Alignment: Neutral
+Size: L
+Movement: 40
+Dexterity: 8
+Armour Class: 7
+Hit Dice: 2+2
+Attack Rate: 1/1 (kick)
+Damage: 1d4
+Saving Throw: 16
+Morale: 6
+Experience Points: 35
+Treasure Class: —
+The bactrian camel is a two-humped pack or riding
+animal also used for its milk, meat, wool, and hide.
+Bactrians are shaggy, large-boned camels able to
+withstand the least forgiving Hyperborean climes.

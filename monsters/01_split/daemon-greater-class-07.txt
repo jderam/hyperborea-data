@@ -1,0 +1,74 @@
+DÆMON, GREATER, CLASS VII
+(Undead Type 13)
+No. Encountered: 1
+Alignment: Chaotic Evil
+Size: L
+Movement: 40
+Dexterity: 14
+Armour Class: −7
+Hit Dice: 15
+Attack Rate: 4/1 (claw ×4)
+Damage: 3d6 (×4)
+Saving Throw: 9
+Morale: 11
+Experience Points: 8,700
+Treasure Class: H
+Class VII greater dæmons typically present as ape-men
+of large size, standing nine feet tall and heavily thewed.
+When rarely appearing in their true forms (typically
+when instigated or wishing to present an ostentatious
+display), each stands 14 feet tall, with the upper body of
+an enormous, four-armed ape and a sinuous, snail-like
+lower body that terminates in a series of short-taloned
+appendages. Perhaps most disturbingly, the abdomen
+of these netherworldly horrors is lined with articulated
+talons that surround a snapping, beaked maw.
+It is postulated that at least five class VII greater
+dæmons exist—or, rather, five have been recorded.
+They are said to reside in the nethermost depths of
+Underborea, save perhaps one, which is believed to be
+the true overlord of the City-State of Kor. It is said that
+significant rancour exists betwixt the class VII greater
+dæmons and the Dæmon Lord, Thaumagorga, but the
+diabolical struggles of the netherworld scarcely are
+understood by even the most learned men. Regardless,
+class VII greater dæmons despise mankind; they take
+great delight in torturing and devouring men at any
+opportunity. Class VII greater dæmons are known to
+champion the ape-man race; they are said to anticipate
+the fall of mankind and the rise of the ape-men.
+Special:
+¬¬ 12-in-20 spell resistance versus CA 12 casters. For
+every CA level less than 12, the chance-in-twenty
+increases by one (+1) (see Vol. III, p. 261: Saving
+Throw, spell resistance).
+¬¬ Cold, electricity, fire, and gas attacks inflict
+½ damage, or ¼ damage if save is made.
+¬¬ +1 or better weapon to hit.
+¬¬ If all four claw attacks strike a single opponent,
+the victim is drawn immediately to the abdominal
+claws, which automatically pierce him for an
+additional 4d4 hp damage. This impalement is
+followed by an automatic, venomous maw bite for
+1d6 hp damage, which requires a death (poison)
+saving throw to avert immediate death.
+¬¬ Once per day this dæmon can make a buzz saw
+attack, spinning in place with tremendous rapidity,
+all four arms extended. This manoeuvre is resolved
+with a single attack roll that results in eight actual
+hits if contact is achieved, rendering 16d6 hp
+damage.
+¬¬ Can cast the following spells at will (though only
+one at a time): cause fear (reverse of remove fear),
+darkness, decipher language, detect invisibility, detect
+magic, infrared vision, polymorph self, pyrotechnics,
+suggestion, telekinesis, teleport (without error).
+¬¬ Can dispel magic thrice per day, at CA 9 capacity.
+¬¬ Once per day, can attempt to beckon another dæmon
+to fight alongside it (as reverse of dismissal), with
+4-in-6 chance of success; roll 1d6: On a 1–4, a class
+III greater dæmon is beckoned; on a 5–6, a class IV
+greater dæmon is beckoned. Alternatively, it can
+attempt to summon 1d6 class vi lesser dæmons or
+1d4 class viii lesser dæmons, with 5-in-6 chance
+of success.

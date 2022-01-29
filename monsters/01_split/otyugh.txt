@@ -1,0 +1,39 @@
+OTYUGH
+No. Encountered: 1
+Alignment: Neutral
+Size: L
+Movement: 20
+Dexterity: 7
+Armour Class: 3
+Hit Dice: 7
+Attack Rate: 3/1 (lash / lash / bite)
+Damage: 1d8 / 1d8 / 1d10
+Saving Throw: 13
+Morale: 8
+Experience Points: 810
+Treasure Class: —
+The body of an otyugh is somewhat round and of sixfoot
+diameter, from which three pillar-like legs emerge,
+the feet of which are round and padded like those of
+an elephant. Radiating from the top of the body are
+three appendages: two tentacles of from six- to eightfoot
+length and one central sensory organ of five-foot
+length. The former are lined with sharp talons for
+rending flesh, the latter with a dozen eyes and hundreds
+of tubular bristles that sense offal, carrion, and waste
+from hundreds of yards away. At the front of the beast
+gapes a sucker-like maw lined with three rows of fangs.
+These appalling monsters dwell in lairs subterranean.
+Otyughs are notorious dungeon dwellers, feeding on
+the dung of other monsters, though they take particular
+delight in devouring the raw flesh of men. They almost
+always lurk alone and are believed to be asexual.
+Special:
+¬¬ Bite transmits terminal disease unless death
+(poison) save is made. The infection is similar to
+typhus, marked by the eruption of a purple rash
+within 1d4 days, followed by headaches, fever,
+and delirium. Strength and constitution each are
+reduced by 1d6 points whilst disease persists. The
+victim dies when CN reaches 0, or after 2d6 weeks
+in any event.

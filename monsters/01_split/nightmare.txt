@@ -1,0 +1,31 @@
+NIGHTMARE
+(Undead Type 13)
+No. Encountered: 1
+Alignment: Lawful Evil
+Size: L
+Movement: 80 (fly 120)
+Dexterity: 13
+Armour Class: −3
+Hit Dice: 6+6
+Attack Rate: 3/1 (hoof / hoof / bite)
+Damage: 2d4+2 / 2d4+2 / 2d4
+Saving Throw: 14
+Morale: 10
+Experience Points: 630
+Treasure Class: —
+This is the steed of the underworld, a dæmon horse
+possessed of great power, ridden by dæmons, liches,
+spectres, vampires, and other horrors. Nightmares
+resemble liches: gaunt, fleshless horses, the eye sockets
+containing coals of hellfire. Too, their hooves burn
+with black-violet flames as they gallop over land or air,
+and when they snort, flames gush from their nostrils.
+Clinging to the bones of these fleshless abominations
+are rotting coats of black fur, tattered manes, and
+tails of black. The teeth of these dæmonic equines are
+dagger-like fangs.
+Special:
+¬¬ Can exhale billowing smoke from
+nostrils that clouds vision in a 15-foot
+radius, causing opponents to attack at a
+−2 penalty.

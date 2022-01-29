@@ -1,0 +1,40 @@
+DÆMON, LESSER, CLASS vi
+(Undead Type 13)
+No. Encountered: 1d6
+Alignment: Chaotic Evil
+Size: M
+Movement: 40
+Dexterity: 12
+Armour Class: 5
+Hit Dice: 3
+Attack Rate: 4/1 (lash ×4)
+Damage: 1d4 (×4)
+Saving Throw: 15
+Morale: 7
+Experience Points: 119
+Treasure Class: C
+This grotesque entity appears as a gigantic starfish
+topped by a humanoid body with four bony tentacles,
+the whole being a nauseous green colour. It can move
+with surprizing speed across any surface, even walls and
+ceilings. The proboscis of this dæmon can spew a sticky
+mass akin to a sorcerous web. It is said that these dæmons
+prefer to make their worldly lairs beneath desecrated
+Lawful temples, where the webbed bodies of their victims
+are suspended in perpetual darkness and cold.
+Special:
+¬¬ Emits freezing cold; any creature within 10 feet
+suffers 1d6 hp damage per round.
+¬¬ 3-in-20 spell resistance versus CA 12 casters. For every
+CA level less than 12, the chance-in-twenty increases
+by one (+1) (see Vol. III, p. 261: Saving Throw, spell
+resistance).
+¬¬ Cold, electricity, fire, and gas
+attacks inflict ½ damage, or
+¼ damage if save is made.
+¬¬ Thrice per day, can
+discharge to a range of
+15 feet a sticky mass
+that functions
+exactly as a web
+spell.

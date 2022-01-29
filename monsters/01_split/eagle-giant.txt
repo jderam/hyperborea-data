@@ -1,0 +1,35 @@
+GIANT EAGLE
+No. Encountered: 1d6 (3d6)
+Alignment: Neutral (or Lawful Good)
+Size: L
+Movement: 10 (fly 160)
+Dexterity: 13
+Armour Class: 6
+Hit Dice: 4+2
+Attack Rate: 3/1 (claw / claw / bite)
+Damage: 1d6 / 1d6 / 2d6
+Saving Throw: 15
+Morale: 8 (or 12)
+Experience Points: 325
+Treasure Class: —
+Large, diurnal birds of prey with 25-foot wingspans,
+giant eagles are fast, powerful hunters seeking game as
+large as a man. Captured prey might be conveyed to a
+nest where hatchlings the size of dogs await. The giant
+eagle will immobilize its prey whilst the hatchlings
+peck flesh. N.B.: In the remote peaks of Hyperborea
+dwells an ancient strain of giant eagles possessed of
+keen intelligence, aligned with Lawful Good, and of
+fearless morale (12).
+Special:
+¬¬ On a dive attack of at least 60 feet, they make two
+claw attacks at a +2 bonus and inflicting double
+damage. If the eagle’s intent is to carry prey to its
+nest, an avoidance save must be made to escape its
+clutches.
+¬¬ Captured prey may be borne to the nest and
+pinned. Victim must make a test of strength or
+dexterity to escape (see Vol. I, p. 7: Attributes,
+strength and dexterity); if unable to escape,
+hatchlings will commence feeding, pecking the
+victim for 1d4 hp damage per round.

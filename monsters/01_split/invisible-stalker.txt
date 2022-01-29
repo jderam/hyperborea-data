@@ -1,0 +1,32 @@
+INVISIBLE STALKER
+No. Encountered: 1
+Alignment: Neutral
+Size: M
+Movement: 40
+Dexterity: 14
+Armour Class: −1
+Hit Dice: 8
+Attack Rate: 1/1 (pummel)
+Damage: 2d8
+Saving Throw: 13
+Morale: 12
+Experience Points: 1,000
+Treasure Class: —
+These unseen, eight-foot-tall, extra-dimensional beings
+of quasi-humanoid form typically are conjured by
+sorcerers (see Vol. II, p. 213: Spells: S, summon invisible
+stalker). Whether they are a form of air elemental
+or some other netherworldly spirit is a matter of
+conjecture. Once bound to service they are fearless
+combatants and flawless trackers, albeit resentful.
+Special:
+¬¬ Can follow any trail no more than two weeks old.
+¬¬ Natural invisibility grants 3-in-6 bonus to surprize
+and +4 bonus to all attack rolls. If a target is not
+surprized, his hackles will rise, perceiving the
+unseen threat, but +4 attack bonus remains.
+¬¬ An attacker with true seeing or like means to
+penetrate invisibility receives a +4 attack bonus
+versus an invisible stalker.
+¬¬ Destroyed by dispel magic versus the summoner’s
+CA.

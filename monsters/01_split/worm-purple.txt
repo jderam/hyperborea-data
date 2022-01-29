@@ -1,0 +1,43 @@
+PURPLE WORM
+No. Encountered: 1 (3d4)
+Alignment: Neutral
+Size: L
+Movement: 30
+Dexterity: 4
+Armour Class: 6
+Hit Dice: 14
+Attack Rate: 1/1 (bite or sting)
+Damage: 2d8 or 2d6
+Saving Throw: 10
+Morale: 10
+Experience Points: 4,000
+Treasure Class: B, Q (×5), X
+This enormous, segmented worm grows to 100 feet in
+length and 10 feet in diameter, its great, round maw
+lined with three rows of fangs. Each body segment is
+ring-like and projects two pairs of bristles that are about
+three feet long. These chætæ give the monster locomotion
+as it burrows through the earth, creating “tubes” by
+means of a sticky, purple secretion that coats its body.
+Purple worms are omnivorous, though they prefer
+flesh. They will emerge from their subterranean tunnels
+to feed on surface dwellers, which are betrayed by the
+subtle vibrations of their movement. Purple worms are
+typically solitary, though they will migrate hundreds of
+miles to congregate and mate. It is a matter of conjecture
+as to whether purple worms have any connexion with
+Yikkorth, “The Ashen Worm”.
+Special:
+¬¬ If bite attack hits by a margin of 4 or more (or on a
+natural 20 in any case), victim is swallowed whole,
+inflicting 1d6 hp damage per round thereafter; after
+3 rounds, the victim may asphyxiate (see Vol. III,
+p. 263: Special Damage, asphyxia). Swallowed
+prey can cut its way out with a WC 1–3 blade, with
+an attack penalty equal to the weapon class. If 10
+hp damage is inflicted from within, a large enough
+rent is cut for escape.
+¬¬ Tail sting used when confronted from rear, or if
+space allows the beast to curl its posterior. Sting
+delivers venom that is immediately deadly unless a
+death (poison) save is made.

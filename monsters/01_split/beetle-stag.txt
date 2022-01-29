@@ -1,0 +1,22 @@
+STAG BEETLE
+No. Encountered: 1d2
+Alignment: Neutral
+Size: L
+Movement: 20
+Dexterity: 7
+Armour Class: 3
+Hit Dice: 6
+Attack Rate: 3/1 (gore / gore / bite)
+Damage: 1d10 / 1d10 / 2d8
+Saving Throw: 14
+Morale: 7
+Experience Points: 340
+Treasure Class: —
+The stag beetle is the most enormous of giant beetles,
+with a body of 12-foot length and horns that project
+another 8–10 feet. Heavily armoured and given little
+cause to fear most predators, these enormous insects
+are the bane of crop farmers, oft consuming an entire
+harvest in the course of one night (though they attack
+men only if incited). They typically travel alone or in
+pairs.

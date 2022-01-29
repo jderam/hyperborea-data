@@ -1,0 +1,35 @@
+DÆMON, LESSER, CLASS xi
+(Undead Type 13)
+No. Encountered: 1d4
+Alignment: Chaotic Evil
+Size: M
+Movement: 60
+Dexterity: 14
+Armour Class: 3
+Hit Dice: 5
+Attack Rate: 5/1 (claw ×4 / bite)
+Damage: 1d4 (×4) / 1d6
+Saving Throw: 14
+Morale: 8
+Experience Points: 475
+Treasure Class: C, Q
+Eight-limbed and with slavering maw, this jet-black
+abomination moves with startling speed given its eightfoot
+length. Like most lesser dæmons, it is incapable
+of true speech, but can mock sounds it has heard with
+uncanny accuracy; it favours mimicking small children
+and pets to lure victims. Sages aver that these dæmons
+dwell in caverns deep beneath the earth, where the
+slumbering forms of their victims
+hang amongst the stalactites, saved
+for some inscrutable purpose.
+Special:
+¬¬ 5-in-20 spell resistance versus CA 12 casters. For
+every CA level less than 12, the chance-in-twenty
+increases by one (+1) (see Vol. III, p. 261: Saving
+Throw, spell resistance).
+¬¬ Cold, electricity, fire, and gas attacks inflict
+½ damage, or ¼ damage if save is made.
+¬¬ Bite victim must make death (poison) save or suffer
+the effects of a sleep everlasting spell.
+¬¬ Can cast ventriloquism at will.

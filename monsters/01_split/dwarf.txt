@@ -1,0 +1,37 @@
+DWARF
+No. Encountered: 1d6 (1d10×10)
+Alignment: Lawful Evil
+Size: S
+Movement: 20
+Dexterity: 13
+Armour Class: 7 (or AC 3, DR 2 in plate mail)
+Hit Dice: 3+2
+Attack Rate: 1/1 (weapon)
+Damage: (per weapon +1)
+Saving Throw: 15
+Morale: 9
+Experience Points: 90
+Treasure Class: M (×10); G, Q (×20), R, X
+Dwarfs are a subterranean race of degenerate
+humanoids from three to four feet tall, with stubby
+legs, heavily muscled torsos, and long, thewy arms.
+Seeded by Ymir, they begin life as foot-long, sickly
+yellow maggots, “worms of the earth” that at length
+metamorphose into horribly misshapen pygmy brutes
+(cf. worm of Ymir). They lair in the deepest places of
+Underborea, in vast caverns where dwell nameless
+monsters. Dwarfs speak the Old Norse language and
+(less often) the Common tongue.
+Dwarfs are possessed of strange powers and wicked
+inclinations. They are cunning, grasping, venal,
+and lecherous. Equally they are tireless forgers and
+dweomercræfters of nigh limitless capacity, but they are
+unable to utilize the weapons and devices they create;
+hence, dweomercræft is both their blessing and their
+curse. Availability of dwarfish forgings is the purview
+of the referee; always their demands for compensation
+are greedy or perverse.
+Special:
+¬¬ +4 bonus to device saves.
+¬¬ Can see in complete darkness.
+¬¬ −2 attack penalty when exposed to bright light.

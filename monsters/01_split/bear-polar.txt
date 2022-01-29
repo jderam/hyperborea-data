@@ -1,0 +1,22 @@
+POLAR BEAR
+No. Encountered: 1 (1d4)
+Alignment: Neutral
+Size: L
+Movement: 40 (swim 40)
+Dexterity: 9
+Armour Class: 6
+Hit Dice: 7+5
+Attack Rate: 3/1 (claw / claw / bite)
+Damage: 1d8 / 1d8 / 2d6
+Saving Throw: 13
+Morale: 8
+Experience Points: 760
+Treasure Class: —
+The polar bear is a large white bear that inhabits
+glacial regions. Excellent swimmers, polar bears hunt
+fish and seals, but usually will not attack a man unless
+provoked. They measure up to 12 feet in length and
+weigh as much as 1,100 pounds.
+Special:
+¬¬ If polar bear hits same victim with both claw
+attacks, it hugs for 2d8 hp damage.

@@ -1,0 +1,26 @@
+NARWHALE
+No. Encountered: 1 (1d4)
+Alignment: Lawful Good
+Size: L
+Movement: 0 (swim 70)
+Dexterity: 8
+Armour Class: 6
+Hit Dice: 9
+Attack Rate: 1/1 (gore)
+Damage: 2d6
+Saving Throw: 12
+Morale: 10
+Experience Points: 1,300
+Treasure Class: —
+The narwhale is a grey, spotted, 20-foot-long mammal
+prized for its great spiral horn of from 8- to 10-foot
+length (valued at 2,000 gp), found only on the males of
+the species. Peaceful and intelligent, these “unicorns
+of the sea” scour glacial waters for prey and will
+molest a man only if threatened—except in the case of
+fish-men, which they attack on sight. Narwhales are
+believed to communicate via telepathy.
+Special:
+¬¬ If incited (e.g., pups threatened), can deliver
+a charge attack (see Vol. III, p. 249: Combat
+Actions, melee) for treble damage dice (6d6).

@@ -1,0 +1,45 @@
+GIANT TOAD
+No. Encountered: 1d6
+Alignment: Neutral
+Size: L
+Movement: 20 (hop 50)
+Dexterity: 10
+Armour Class: 5
+Hit Dice: 3+2
+Attack Rate: 1/1 (bite)
+Damage: 1d6
+Saving Throw: 15
+Morale: 6
+Experience Points: 195
+Treasure Class: —
+Giant toads are enormous, man-eating amphibians
+that have stout legs and thick, warty skin. They weigh
+as much as 700 pounds and are up to 10 feet in length.
+They can shoot their sticky tongues up to 18 feet, and
+their skin is poisonous to the touch. These creatures
+also possess camouflage and have a taste for the flesh
+of man, whom they can swallow whole. They dwell
+in caverns, dungeons, forests, and swamps; a white
+variety also thrives in arctic environments.
+Special:
+¬¬ If lying in wait, camouflage increases chance to
+surprize by 1-in-6.
+¬¬ If the toad’s skin is touched, a death (poison) save
+must be made or the victim will suffer 1d8 hp
+damage. Unless the secretion immediately is wiped
+away (with something suitable, as a cloth), damage
+will persist every round at 1 hp less than the
+previous round (i.e., if the initial damage is 7 hp,
+then the next round is 6 hp, followed by 5 hp, and
+so forth), until the result is 0 hp damage.
+N.B.: 1-in-6 giant toads has deadly toxin; a failed
+save results in paralysis, followed by death in 1
+turn.
+¬¬ On a natural 20 attack roll, the tongue reels in and
+swallows victim whole, inflicting 1d6 hp damage
+per round thereafter; after 3 rounds, the victim may
+asphyxiate (see Vol. III, p. 263: Special Damage,
+asphyxia). Swallowed prey can cut its way out with
+a WC 1–3 blade, with an attack penalty equal to
+the weapon class. If 6 hp damage is inflicted from
+within, a large enough rent is cut for escape.

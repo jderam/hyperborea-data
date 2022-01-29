@@ -1,0 +1,52 @@
+ROPER
+No. Encountered: 1d2
+Alignment: Chaotic Evil
+Size: L
+Movement: 10
+Dexterity: 11
+Armour Class: 0
+Hit Dice: 10
+Attack Rate: 6/1 (lash ×6)
+Damage: —
+Saving Throw: 12
+Morale: 9
+Experience Points: 2,500
+Treasure Class: Q, R
+These sinuous, pale-yellow monsters are shaped like
+tapered pillars, up to nine feet tall and three feet in
+diameter, with four-foot-diameter bases. Radiating
+from their bodies are six sticky tentacles of five-foot
+length, though capable of stretching to 50 feet. Ropers
+strictly dwell in lairs subterranean where they prey
+upon most animals, including men. Often they hide
+in limestone caverns, able to hang like stalactites or
+protrude like stalagmites. From such a concealed
+position, a roper will extend its ropy tentacles (which
+are coated in a poisonous secretion) and draw prey to
+its fang-toothed, circular maw, above which stares its
+single, cyclopean eye. N.B.: A roper oft holds gems in its
+gizzard; hence treasure class Q , if scored, will be within
+the beast, not about its lair.
+Special:
+¬¬ Chance to surprize increased by 1-in-6.
+¬¬ 13-in-20 spell resistance versus CA 12 casters. For
+every CA level less than 12, the chance-in-twenty
+increases by one (+1) (see Vol. III, p. 261: Saving
+Throw, spell resistance).
+¬¬ Immune to electrical attacks; sustains ½ damage
+from cold, though vulnerable to fire (−4 on saves).
+¬¬ A tentacle hit causes no damage, but secretion
+requires death (poison) save or victim is weakened,
+losing 1d4 points of strength for 1d6 turns. Victims
+ensnared by at least two tentacles are dragged
+at 10 MV to the maw of the monster, which then
+bites one victim per round for 5d4 hp damage.
+Escaping the roper’s grasp requires an extraordinary
+feat of strength (see Vol. I, p. 7: Attributes,
+strength), success indicating the tentacle is broken;
+alternatively, one may sever a tentacle with a blade,
+but it must suffer 8 hp damage to break. A held
+victim is at a disadvantage, suffering a −4 penalty
+to attack rolls.
+¬¬ For every 8 hp damage sustained, the roper loses
+the function of one tentacle.

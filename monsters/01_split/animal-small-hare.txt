@@ -1,0 +1,20 @@
+HARE
+No. Appearing: 1d12
+Alignment: Neutral
+Size: S
+Movement: 90
+Dexterity: 17
+Armour Class: 5
+Hit Dice: ¼
+Attack Rate: 1/1 (bite)
+Damage: 1
+Saving Throw: 17
+Morale: 4
+Experience Points: 7
+Treasure Class: —
+Special:
+¬¬ Pelt turns white in winter years; camouflage
+provides 6-in-12 chance to hide in snow
+(see Vol. I, p. 21: Classes, thief).
+¬¬ Can treble or even quadruple movement rate in
+short bursts.

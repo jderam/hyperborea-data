@@ -1,0 +1,49 @@
+APE-MAN
+No. Encountered: 1d6 (6d6)
+Alignment: Neutral or Lawful Evil
+Size: M
+Movement: 30
+Dexterity: 10
+Armour Class: 8
+Hit Dice: 1+2
+Attack Rate: 1/1 (weapon)
+Damage: (per weapon +1)
+Saving Throw: 16
+Morale: 9
+Experience Points: 24*
+Treasure Class: L; C, Q (×2), S
+* Refer to p. 294: Table 122 for classed individuals.
+These quasi-humans walk upright as men; males are
+from five to six feet tall, females from four to five feet
+tall on average. Ape-men have the base countenance
+and body hair of an ape and a body type that presents
+with human and simian characteristics, including
+opposable thumbs. Culturally they range from
+utter primitivism (fire and stone tool use) to mock
+sophistication and reason rivalling the lowliest of men.
+Ape-men communicate via a limited vocabulary of
+grunts and growls, hoots and trills.
+Brutish and violent, ape-men are omnivorous, though
+preferring raw meat. Their warriors and hunters will
+wear the hides of beasts; some will don the armour
+of men when opportunity presents. Weapons include
+clubs, slings, and hand-hurled stones, unless the apemen
+acquire the steel of man.
+Ape-man tribes dwell in caves, mountains, and forests.
+About 1 in 12 is an ape-man alpha, a physically
+dominant humanoid. Also, most tribes of 20 or more
+individuals will have a shaman; these sorcerers
+typically hallow Yug or Xathoqqua.
+N.B.: An advanced group of some 5,000 ape-men
+populates the City-State of Kor and serves as its
+ruling elite. These ape-men can read and write, forge
+weapons and tools of iron and steel, and assume the
+principle classes of fighter, magician, cleric, and thief.
+Some sages posit these elevated ape-men to be the
+beneficiaries of otherworldly sponsorship.
+Special:
+¬¬ Climb on 11-in-12 chance of success, at full
+movement rate (see Vol. I, p: 21: Classes, thief).
+¬¬ Ape-man shamans can advance as high as 5th level;
+for each level beyond 1st, they add 1 hit die (d8) to
+their base 1+2 HD.

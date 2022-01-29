@@ -1,0 +1,44 @@
+DÆMON, LESSER, CLASS viii
+(Undead Type 13)
+No. Encountered: 1d6
+Alignment: Chaotic Evil
+Size: L
+Movement: 40
+Dexterity: 11
+Armour Class: 3
+Hit Dice: 3+3
+Attack Rate: 2/1 (smash / smash)
+Damage: 1d10 / 1d10
+Saving Throw: 15
+Morale: 8
+Experience Points: 195
+Treasure Class: C
+This nine-foot-tall, hunchbacked, bowlegged mockery
+of a man has a warty, red-violet hide and horrible
+bloodshot eyes. It carries out any enterprise of
+destruction with zeal, emitting booming laughter all
+the while. Even stone eventually will yield to its horny
+fists. Evil witches are wont to summon these violent
+dæmons for carnal relations. What progeny may be
+born from these unnatural unions is a subject far too
+revolting to contemplate.
+Special:
+¬¬ 3-in-20 spell resistance versus CA 12 casters. For
+every CA level less than 12, the chance-in-twenty
+increases by one (+1) (see Vol. III, p. 261: Saving
+Throw, spell resistance).
+¬¬ Cold, electricity, fire, and gas attacks inflict
+½ damage, or ¼ damage if save is made.
+¬¬ Fists can inflict 1d4 hull points per round to a ship,
+or smash a wooden door to flinders with a single
+blow. Any stone or metal object struck must make
+a class 2 item saving throw or be destroyed. Effects
+on larger stone or metal constructions (e.g., walls)
+are left to the
+referee’s
+judgment, but
+they eventually
+should be
+breached or
+battered
+down.

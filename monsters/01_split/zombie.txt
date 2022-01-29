@@ -1,0 +1,54 @@
+ZOMBIE
+(Walking Dead)
+(Undead Type 2)
+No. Encountered: 1d6 (4d6)
+Alignment: Chaotic Evil
+Size: M
+Movement: 30
+Dexterity: 3
+Armour Class: 8
+Hit Dice: 2
+Attack Rate: 1/1 (pummel or bite)
+Damage: 1d8 or 1d3
+Saving Throw: 16
+Morale: 12
+Experience Points: 64
+Treasure Class: J, K, L, M
+These undead humanoids, sometimes referred to as
+the “walking dead”, are the soulless corpses of men
+or humanoids animated by witchcræft, necromancy,
+or a netherworldly curse; in other cases the affliction
+of zombiism is akin to disease transmission. Often
+zombies are tasked with guardianship of a person,
+place, or thing. Requiring no sustenance, they can stand
+silent and motionless until a prescribed condition is
+met, though they move slowly and rely on trapping or
+surprizing their opponents. Zombies typically pummel
+their opponents to death and then feast on their flesh,
+entrails, and brains.
+Special:
+¬¬ Slow to react, always attacking last on initiative; no
+running movement allowed.
+¬¬ Immune to poison, paralysis, fear, and cold.
+¬¬ Cure disease destroys zombie.
+¬¬ Arrows and bolts inflict but 1 hp damage (plus
+bonuses, if applicable); other piercing / thrusting
+weapons cause ½ damage (damage dice halved, with
+bonuses added afterwards).
+¬¬ Any natural 19–20 attack roll versus a zombie is
+considered a “head shot” inflicting maximum
+damage, regardless of weapon type; this mechanic
+supersedes the optional critical hits rule (see Vol. III,
+p. 258: Advanced Combat, critical hits).
+¬¬ 1-in-4 chance of bite attempt per round; otherwise,
+pummel attacks apply until the zombie drops its foe,
+which it then will attempt to eat.
+¬¬ Bite infects victim with the zombiism disease (no
+saving throw allowed). Infection manifests 1 turn
+after bite and begins with intense fever, followed by
+loss of consciousness 1d6+6 turns later. Within 1d10+2
+hours the victim dies; 1d6 turns thereafter he rises as
+a zombie. Cure disease can disrupt and alleviate this
+process, if cast before victim’s death.
+¬¬ Multiple zombies will attempt to overbear victims
+(see Vol. III, p. 248: Combat Actions, melee).

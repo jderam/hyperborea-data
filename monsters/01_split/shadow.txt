@@ -1,0 +1,46 @@
+SHADOW
+(Undead Type 4)
+No. Encountered: 1d4
+Alignment: Chaotic Evil
+Size: M
+Movement: 30
+Dexterity: 10
+Armour Class: 7
+Hit Dice: 3+2
+Attack Rate: 1/1 (touch)
+Damage: 1d4
+Saving Throw: 15
+Morale: 12
+Experience Points: 135
+Treasure Class: F
+These intelligent, incorporeal undead creatures dwell
+in the illimitable depths of the Black Gulf, though
+are known to enter Hyperborea; sometimes they are
+conjured. They appear as humanoid shadows (such as
+that which might be cast behind a man under a gibbous
+moon), though they can alter their shapes. Hateful and
+malicious, these extra-dimensional creatures enjoy
+draining men of their vitality, transforming their
+victims into fellow shadows.
+Special:
+¬¬ Chance to surprize
+increased by 2-in-6 against most
+opponents.
+¬¬ Immune to poison,
+paralysis, fear, and
+cold.
+¬¬ Harmed
+only by silver or
+magical weapons.
+¬¬ Drains 1
+point of strength
+on successful hit,
+a weakness that
+lasts 1d6+4 turns. Any
+creature drained to 0
+ST becomes a shadow
+in thrall to the one that
+transformed him, and
+likewise does he become
+utterly hateful of all corporeal
+creatures.

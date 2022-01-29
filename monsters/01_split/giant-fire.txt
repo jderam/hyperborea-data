@@ -1,0 +1,42 @@
+FIRE GIANT
+No. Encountered: 1d2 (2d10)
+Alignment: Chaotic Evil
+Size: L
+Movement: 40
+Dexterity: 7
+Armour Class: 4
+Hit Dice: 11
+Attack Rate: 1/1 (weapon)
+Damage: 5d6
+Saving Throw: 11
+Morale: 9
+Experience Points: 1,900
+Treasure Class: E
+In the unfathomable depths of
+Underborea dwell the sons of
+Muspelheim, fire giants of enormous
+size and girth. They stand some 16
+or more feet tall and weigh as much
+as 2,000 pounds. Their eyes are
+black as coals; their beards, dark and
+thick; and their skin, red as blood.
+Fire giants speak Old Norse and the
+Common tongue. In futility the fire
+giants of Underborea make offerings
+to Surtr, but that one no longer hears
+their cries; hence, many of these forsaken humanoids
+have found Thaumagorga, and to that underworld
+dæmon they pay tribute and make supplications.
+Dwarfs are a slave race to fire giants, and under the
+whips of their dark masters they forge wonders of
+copper, iron, and steel; fire giants oft gird themselves in
+copper armour of dwarfish manufacture. They dwell in
+castles of iron and stone surrounded by moats of magma,
+where they are served by fire salamanders and pyrohydræ.
+A large fire giant stronghold is ruled by a jarl
+(1 for every 12 fire giants), a 20-foot-tall, 3,000-pound fire
+giant of great power and horribly violent temperament.
+Special:
+¬¬ Vulnerable to cold: +1 hp per die of damage.
+¬¬ Can hurl a boulder to a range of 150
+(or to 300 at a −2 attack penalty) for 3d6 hp damage.

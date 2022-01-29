@@ -1,0 +1,27 @@
+GIANT ANT
+No. Encountered: 1 (3d6)
+Alignment: Neutral
+Size: M
+Movement: 60
+Dexterity: 12
+Armour Class: 3
+Hit Dice: 4
+Attack Rate: 1/1 (bite)
+Damage: 1d8
+Saving Throw: 15
+Morale: 8
+Experience Points: 90
+Treasure Class: Q (×3), S
+Giant ants are black-and-red ants of from five- to eightfoot
+length, omnivorous and insatiably hungry for
+organic material (plant or animal, with a preference for
+flesh). Typically they lair in underground nests and will
+emerge to attack en masse, but encountering a solitary
+soldier returning to the nest
+is not unusual.
+Special:
+¬¬ Upon successful mandible bite, 2-in-6 chance the
+creature will arch its metasoma to sting the target at
++2 on the attack roll. If this attack hits, it causes 1 hp
+damage and delivers venom; make death (poison) save
+or suffer additional 2d8 hp damage.

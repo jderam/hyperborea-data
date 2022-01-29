@@ -1,0 +1,27 @@
+DRAUGHT HORSE
+No. Encountered: 1 (5d6)
+Alignment: Neutral
+Size: L
+Movement: 40
+Dexterity: 6
+Armour Class: 7
+Hit Dice: 3
+Attack Rate: 1/1 (hoof or bite)
+Damage: 1d4 or 1d3
+Saving Throw: 15
+Morale: 6
+Experience Points: 35
+Treasure Class: —
+These solid-hoofed, herbivorous mammals oft are
+domesticated and trained. Typically they have long,
+flowing tails and manes and (in Hyperborea) thick,
+shaggy coats. Many breeds exist and are classified in
+general terms.
+A draught horse is the largest, bred for power and
+endurance to pull a plough or waggon. Horses of
+draught-quality breed run wild on the Hyperborean
+plains; 1-in-10 might be suited to become a warhorse, if
+raised from a foal.
+Special:
+¬¬ Horses (but not donkeys, mules, or ponies) can
+treble their movement rates in short bursts.

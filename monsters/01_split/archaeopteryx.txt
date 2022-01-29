@@ -1,0 +1,34 @@
+ARCHÆOPTERYX
+No. Encountered: 1 (1d6)
+Alignment: Neutral
+Size: S
+Movement: 20 (fly 60)
+Dexterity: 10
+Armour Class: 6
+Hit Dice: ½
+Attack Rate: 3/1 (claw / claw / bite)
+Damage: 1 / 1 / 1d2
+Saving Throw: 17
+Morale: 5
+Experience Points: 9
+Treasure Class: —
+This crow-sized, antediluvian bird is of rare and
+colourful plumage. It has a lengthy reptilian tail with
+long feathers of blue, green, black, and pink. The
+archæopteryx’s beak is lined with small, sharp teeth;
+also, three finger-like claws extend from the wing
+joints, used to climb trees and rocks.
+Archæopteryges dwell in regions of high elevation that
+are volcanically active; also they have been observed
+on remote islands and in ancient forests. Typically
+they feed on carrion and small animals (amphibians,
+birds, mammals, and reptiles). Rare archæopteryges
+are attracted to sorcerers; the creatures can be trained
+as familiars, these examples demonstrating empathic
+understanding of their masters’ wishes. Some have
+suggested that these rare specimens are dæmonically
+possessed.
+Special:
+¬¬ If both claw attacks hit one opponent, it uses wing
+claws to rend, each causing an additional 1d2 hp
+damage.

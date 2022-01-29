@@ -1,0 +1,40 @@
+SPIDER, GIANT WOLF SPIDER
+No. Encountered: 1d6
+Alignment: Neutral (or Chaotic Evil)
+Size: L
+Movement: 50
+Dexterity: 14
+Armour Class: 5
+Hit Dice: 4
+Attack Rate: 1/1 (bite)
+Damage: 2d6
+Saving Throw: 15
+Morale: 8
+Experience Points: 255
+Treasure Class: C
+The giant wolf spider is a nine-foot-long arachnid
+that thrives in various environs. Aggressive hunters,
+these spiders are notorious for chasing down prey
+and pouncing on it after emerging from trees, or from
+under rocks or shrubs. They are brownish in colour,
+with long, stout, hairy legs and four pairs of eyes, one
+set being much larger than the others. They have large,
+powerful jaws with paralytic venom. A female might
+be seen carrying on its back a large, grey-white silk sac
+filled with hundreds of eggs.
+N.B.: Whether it be the result of foul sorcery or
+dæmonic corruption, intelligent giant wolf spiders are
+reputed to exist, almost always female. These talking
+spiders are Evil creatures that derive sadistic pleasure
+in cruelty, and some exhibit a lust for treasure. Often
+they are bound to the task of guardianship of a place or
+thing.
+Special:
+¬¬ If entrapped in a web, a man can break free in
+19 rounds − strength score; e.g., 3 rounds with 16 ST.
+¬¬ Bite victim must make death (poison) save or be
+paralyzed in 1d2 rounds, lasting 2d6 turns. Wound
+becomes necrotic in any event, with 3-in-6 chance
+of infection unless cure disease is cast. After 30 days
+victim must make another save or die; otherwise,
+infection subsides.

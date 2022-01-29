@@ -1,0 +1,35 @@
+WRAITH
+(Undead Type 7)
+No. Encountered: 1d4
+Alignment: Lawful Evil
+Size: M
+Movement: 40 (fly 60)
+Dexterity: 10
+Armour Class: 3
+Hit Dice: 5+4
+Attack Rate: 1/1 (touch)
+Damage: 1d6
+Saving Throw: 14
+Morale: 12
+Experience Points: 540
+Treasure Class: E
+This incorporeal, extra-dimensional undead entity
+presents as the pale apparition of a man, translucent
+and misty of form. Wraiths are composed of negative
+energy of sepulchral stench. They hunger to take their
+provender of positive energy—sentient life such as
+Hyperborea supports—and from the Black Gulf they
+arrive. They dwell in shadows, nocturnal hunters of
+life. Often wraiths are servants to a higher power or
+otherworldly master.
+Special:
+¬¬ Powerless in direct sunlight.
+¬¬ Immune to poison, paralysis, fear, and cold.
+¬¬ Hit only by silver or magical weapons.
+¬¬ Touch drains 1 level of experience unless a
+death save is made (see Vol. III, p. 263:
+Special Damage, energy drain).
+¬¬ A man slain by a wraith will
+become a wraith in 24 hours,
+serving the monster that
+slew him.

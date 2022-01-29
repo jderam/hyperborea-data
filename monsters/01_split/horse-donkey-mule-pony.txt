@@ -1,0 +1,28 @@
+DONKEY / MULE / PONY
+No. Encountered: 1
+Alignment: Neutral
+Size: L
+Movement: 40
+Dexterity: 6
+Armour Class: 7
+Hit Dice: 2
+Attack Rate: 1/1 (hoof or bite)
+Damage: 1d4 or 1d3
+Saving Throw: 16
+Morale: 6
+Experience Points: 20
+Treasure Class: —
+These solid-hoofed, herbivorous mammals oft are
+domesticated and trained. Typically they have long,
+flowing tails and manes and (in Hyperborea) thick,
+shaggy coats. Many breeds exist and are classified in
+general terms.
+A donkey is a domesticated ass that stands about
+four feet at the shoulder and has thick, shaggy fur.
+Donkeys are renowned for their loud braying. A mule
+is a cross betwixt a male donkey and a mare (female
+horse); these creatures are similar to donkeys, though
+generally hardier. A pony is a diminutive horse of
+approximately 12 hands height (about four feet at the
+shoulder), covered with shaggy fur. Ponies are of even
+temperament and can be led through cramped tunnels.

@@ -1,0 +1,40 @@
+SNAKE, ASP
+No. Encountered: 1 (2d4)
+Alignment: Neutral
+Size: S
+Movement: 40
+Dexterity: 10
+Armour Class: 7
+Hit Dice: 2
+Attack Rate: 1/1 (bite)
+Damage: 1
+Saving Throw: 16
+Morale: 7
+Experience Points: 60
+Treasure Class: —
+Several snake species inhabit Hyperborea. The asp,
+python, rattlesnake, spitting cobra, and viper are
+some of the more eminent varieties. They hibernate
+during the winter years, except perhaps on the warmer
+outer islands, such as New Amazonia.
+The asp is a dark, narrow-hooded cobra of from twoto
+five-foot length. Its venom is quite deadly, a prized
+toxin for the most notorious of assassins.
+Special:
+¬¬ Bite injects venom
+thrice per day.
+Victim must make
+death (poison)
+save or die at
+once; even if save
+is successful,
+3d6 hp damage
+is sustained
+(a terrible
+blood-burning
+sensation). Site of
+wound is purple
+and swollen; may
+become septic if
+victim survives
+(cure disease heals).

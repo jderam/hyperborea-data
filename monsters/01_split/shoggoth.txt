@@ -1,0 +1,52 @@
+SHOGGOTH
+(Formless One)
+No. Encountered: 1
+Alignment: Chaotic Evil
+Size: L
+Movement: 50 (swim 60)
+Dexterity: 16
+Armour Class: 5
+Hit Dice: 12
+Attack Rate: 1/1 (pummel)
+Damage: 6d6
+Saving Throw: 11
+Morale: 12
+Experience Points: 2,900
+Treasure Class: —
+Shoggoths present as gargantuan, amorphous
+creatures of foetid black iridescence. These shapeless
+beings bubble with disgusting pustules of greenish
+light from which a multitude of temporary “eyes”
+glisten. They move with great plasticity, rolling, oozing,
+and slithering their enormous bulk (as large as 25 × 25
+× 25 feet of protoplasmic matter) as fluidly as a python.
+They thrive on land as well as in the deepest ocean
+depths.
+In epochs past these unhallowed beasts were created
+by the elder things, genetically engineered to serve as
+a slave race that could perform multitudinous tasks.
+For untold ages their wicked, otherworldly masters
+believed the shoggoths were bereft of individuality,
+even after they had been evolved to perform the
+most intricate and complex of enterprises. Alas, the
+shoggoths rebelled against their masters, and wars
+raged betwixt them for untold ages, over land, sea, and
+even the cold blackness of space. At length both races
+were nearly extinct, and surviving specimens regressed
+to utter savagery.
+Special:
+¬¬ Immune to cold.
+¬¬ When shoggoth is struck by weapons or lightning,
+a smaller one is created (e.g., a 4-HD shoggoth
+that deals 2d6 hp damage), whilst the main body
+quickly regenerates, its capacities not reduced.
+¬¬ Harmed only by fire; other spells may adversely
+affect it, but those that are not fire-related and that
+normally inflict physical harm merely will split the
+creature in twain as noted above.
+¬¬ Corrodes leather on contact and metal in 2d4
+rounds (including weapons and armour, though
+magical metal survives 1 extra round per “plus”).
+¬¬ Enzyme release allows it to heat and transform
+stone or earth into a tarry, quicksand-like
+substance within which it can hide or retreat.

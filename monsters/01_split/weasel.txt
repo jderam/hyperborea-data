@@ -1,0 +1,23 @@
+WEASEL
+(Ermine, Stoat)
+No. Appearing: 1d2
+Alignment: Neutral
+Size: S
+Movement: 40
+Dexterity: 16
+Armour Class: 6
+Hit Dice: ¼
+Attack Rate: 1/1 (bite)
+Damage: 1
+Saving Throw: 17
+Morale: 5
+Experience Points: 7
+Treasure Class: —
+Weasels are fairly common in Hyperborea. During the
+winter years, their pelts turn from black or brown to
+snow white. When they do, such pelts are said to fetch
+as much as 20 gp in certain towns and cities.
+Special:
+¬¬ Pelt turns white in winter years; camouflage
+provides 6-in-12 chance to hide in snow (see Vol. I,
+p. 21: Classes, thief).

@@ -1,0 +1,69 @@
+DÆMON, GREATER, CLASS VI
+(Undead Type 13)
+No. Encountered: 1
+Alignment: Chaotic Evil
+Size: L
+Movement: 20 (fly 60)
+Dexterity: 17
+Armour Class: −4
+Hit Dice: 13
+Attack Rate: 2/1 (weapon) or 1/1 (whip)
+Damage: 4d6 (×2) or 1d6+3
+Saving Throw: 10
+Morale: 11
+Experience Points: 5,000
+Treasure Class: F
+When (rarely) in their true forms, each class VI greater
+dæmon stands 12 feet tall, with a wrinkled black hide,
+18- to 20-foot bat wings, and a terrible visage: caprine
+ears, a lion’s black mane, a wolf ’s fangs, and dead white
+eyes under a ridged brow. However, these beings prefer
+anonymity and oft take other forms. Class VI greater
+dæmons each usually wield an Evil-aligned +3 long
+sword, battle axe, or war hammer, which may have
+other properties (per referee discretion). In its other
+hand, the dæmon carries a barbed, nine-tailed whip.
+When it fights, the dæmon immolates itself, flames
+radiating five feet around it; it will use its whip to drag
+opponents into this fiery radius.
+Six class VI greater dæmons are known to exist, each
+reputed to dwell in such locations as Saturn (or its
+moons), the netherworld of Underborea, and of course
+Hyperborea. Each is regarded as a dæmon prince in
+its own right, answering only to Thaumagorga. In
+æons past the dæmon princes warred against one
+another, but at length held a conclave and forged a
+nonaggression pact. Although they have distinct
+agendas and personalities, each is prone to greed,
+vanity, and a thirst for power. If beckoned, a class VI
+greater dæmon might join an adventuring party to
+obtain wealth or power, but it will seek to usurp control
+and eliminate opposition. Men who take orders from
+the dæmon in short order will become Evil themselves.
+Special:
+¬¬ 12-in-20 spell resistance versus CA 12 casters. For
+every CA level less than 12, the chance-in-twenty
+increases by one (+1) (see Vol. III, p. 261: Saving
+Throw, spell resistance).
+¬¬ Cold, electricity, fire, and gas attacks inflict
+½ damage, or ¼ damage if save is made.
+¬¬ +1 or better weapon to hit.
+¬¬ Any successful hit with whip draws target into
+dæmon’s flames for 3d6 hp fire damage per
+round. Victim can escape with a test of strength or
+dexterity (see Vol. I, p. 7: Attributes, strength and
+dexterity).
+¬¬ Can cast the following spells at will (though only
+one at a time): cause fear (reverse of remove fear),
+darkness, decipher language, detect invisibility, detect
+magic, infrared vision, polymorph self, pyrotechnics,
+suggestion, telekinesis, teleport (without error).
+¬¬ Can dispel magic thrice per day, at CA 9 capacity.
+¬¬ Once per day, can attempt to beckon another dæmon
+to fight alongside it (as reverse of dismissal), with
+4-in-6 chance of success; roll 1d6: On a 1–4, a class
+IV greater dæmon is beckoned; on a 5–6, a class V
+greater dæmon is beckoned. Alternatively, it can
+attempt to summon 1d3 class xi lesser dæmons or
+1d2 class xv lesser dæmons, with 5-in-6 chance of
+success.

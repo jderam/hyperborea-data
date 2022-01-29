@@ -1,0 +1,38 @@
+HELL HOUND
+(Undead Type 13)
+No. Encountered: 2d4 (4d4)
+Alignment: Lawful Evil
+Size: M
+Movement: 40
+Dexterity: 11
+Armour Class: 4
+Hit Dice: 5
+Attack Rate: 1/1 (bite)
+Damage: 1d6
+Saving Throw: 14
+Morale: 9
+Experience Points: 300
+Treasure Class: C
+These large black dogs of the underworld stand four
+feet at the shoulder and weigh about 250 pounds. Their
+teeth are black, and their baleful eyes hold a flicker
+of flames. When they howl, smoke emits from their
+muzzles.
+These Lawful Evil beasts are
+possessed of minor intelligence
+and said to have their own
+language. Typically they dwell by
+volcanoes or steam vents, or in
+the depths of a dungeon. Often a
+dæmon or other netherworldly
+power will control a pack of hell
+hounds, though a wicked sorcerer
+also might keep one as a pet or
+guardian.
+Special:
+¬¬ 5-in-6 chance to see invisible
+opponents.
+¬¬ Can breathe fire thrice per day in
+a 10-foot-long cone, 5 feet wide at
+the terminus, causing 3d6 hp damage
+(avoidance save allowed for ½ damage).

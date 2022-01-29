@@ -1,0 +1,20 @@
+CAT
+No. Appearing: 1 (2d6)
+Alignment: Neutral (or Lawful Evil)
+Size: S
+Movement: 50
+Dexterity: 15
+Armour Class: 7
+Hit Dice: ½
+Attack Rate: 2/1 (claw / claw)
+Damage: 1 / 1
+Saving Throw: 17
+Morale: 5
+Experience Points: 7
+Treasure Class: —
+Special:
+¬¬ Cats are superior stalkers; chance to surprize
+opponents increased by 2-in-6.
+¬¬ Certain black cats are known to exhibit Evil; sages
+posit that these felines are possessed by dæmons or
+ghosts.

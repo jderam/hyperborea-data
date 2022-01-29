@@ -1,0 +1,35 @@
+LARGE SKELETON
+(Undead Type 2)
+No. Encountered: 1d6
+Alignment: Chaotic Evil
+Size: L
+Movement: 30
+Dexterity: 9
+Armour Class: 6
+Hit Dice: 3
+Attack Rate: 1/1 (claw or weapon)
+Damage: 2d6
+Saving Throw: 15
+Morale: 12
+Experience Points: 47
+Treasure Class: Q (×2)
+Animated and conjured to service by the baleful sorcery
+of magicians, clerics, and the like, these are the bones
+of men or humanoids, undead creatures typically found
+in crypts, dungeons, and other forsaken locales. Often
+they are charged with guardianship of a person, place,
+or thing, and they can wield weapons and shields. As
+undead they can be harmed by holy oil / water. They also
+can be turned by clerics and the like, but otherwise they
+fight until destroyed. Large skeletons are the animate
+bones of albino apes, carnivorous apes, mountain
+apes, or minotaurs; giant skeletons are the animate
+forms of fire giants, frost giants, or hill giants.
+Special:
+¬¬ Shield-bearing skeletons are common; they gain
++1 AC.
+¬¬ Immune to poison, paralysis, fear, and cold.
+¬¬ Edged and piercing weapons cause ½ damage
+against them (damage dice halved, with bonuses
+added afterwards), but blunt weapons inflict
+normal damage.

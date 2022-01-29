@@ -1,0 +1,27 @@
+EARTH ELEMENTAL Class III
+No. Encountered: 1
+Alignment: Neutral
+Size: L
+Movement: 40
+Dexterity: 5
+Armour Class: −2
+Hit Dice: 16
+Attack Rate: 1/1 (pummel)
+Damage: 9d6
+Saving Throw: 9
+Morale: 10
+Experience Points: 4,800
+Treasure Class: —
+These humanoid creatures are composed of hardpacked
+dirt, sand, and rock. Resembling roughly
+hewn statues, their steps are thunderous, and they
+can pummel foes with their enormous fists. In general
+they are as tall in feet as their HD, so an 8-HD earth
+elemental is about eight feet tall.
+Special:
+¬¬ +1 or better weapon to hit.
+¬¬ Inflicts an extra 1d8 hp damage versus opponents
+standing on earth or stone.
+¬¬ Complete water immersion will dissolve an earth
+elemental in 1d6 turns, unless it makes a death save,
+in which case it will lose half its current hit points.

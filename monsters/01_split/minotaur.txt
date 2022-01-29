@@ -1,0 +1,38 @@
+MINOTAUR
+No. Encountered: 1 (2d4 or (1d4+1)×10)
+Alignment: Evil (Lawful or Chaotic)
+Size: M
+Movement: 40
+Dexterity: 12
+Armour Class: 6
+Hit Dice: 6+6
+Attack Rate: 1/1 (gore) or 3/2 (weapon)
+Damage: 1d6+2 (or per weapon +2)
+Saving Throw: 14
+Morale: 11
+Experience Points: 510
+Treasure Class: C
+This is the seven-foot-tall beast of legendry. It has the
+body of a powerfully muscled man, with the massive
+shoulders and horned head of a bull. Minotaurs are
+nigh fearless combatants and prefer to fight with
+spears, war clubs, battle axes, or great axes, though they
+will employ almost any melee weapon.
+Minotaurs have a taste for human flesh and typically
+will kill and eat men raw, unless it profits them to do
+otherwise, for they are intelligent and greedy. In the
+wilderness, minotaur tribes base much of their culture
+on the chase and hunt, finding particular delight in the
+resourcefulness of hunted men. Most minotaurs speak
+the Common tongue of man; others speak a form of
+proto-Hellenic.
+On the islands of Minotaurios, settlements of as many
+as 50 minotaurs may be encountered. Minotaurs dwell
+in any environment, but most prefer labyrinthine
+dungeon dwellings. In the deepest dungeon depths
+dwells the minotaur superior, a robust, eight-foot,
+900-pound brute of tremendous power and ferocity,
+with doubled horns.
+Special:
+¬¬ Unaffected by forget the path (reverse of find the
+path), maze, and like sorcery.

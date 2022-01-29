@@ -1,0 +1,43 @@
+DÆMON, LESSER, CLASS iii
+(Undead Type 13)
+No. Encountered: 1d8
+Alignment: Chaotic Evil
+Size: M
+Movement: 40
+Dexterity: 11
+Armour Class: 5
+Hit Dice: 1+1
+Attack Rate: 2/1 (claw / claw)
+Damage: 1d4 / 1d4
+Saving Throw: 16
+Morale: 7
+Experience Points: 108
+Treasure Class: —
+This four-foot-long horned lizard is of deep red colour
+and sulphurous reek, with caustic spittle that can be
+directed with great accuracy from the narrow tube that
+serves as its mouth. In battle it continually fades in
+and out of reality in the manner of a blink dog, and an
+especial hatred seems to exist betwixt those creatures
+and the class iii lesser dæmons. These fiends are known
+to lair in lava tubes and barely dormant volcanoes,
+whence they sally to gather the human hearts they prize
+above all other provender.
+Special:
+¬¬ 1-in-20 spell resistance versus CA 12 casters. For
+every CA level less than 12, the chance-in-twenty
+increases by one (+1) (see Vol. III, p. 261: Saving
+Throw, spell resistance).
+¬¬ Cold, electricity, fire, and gas attacks inflict
+½ damage, or ¼ damage if save is made.
+¬¬ In combat they blink in front of their enemies, claw,
+and then blink away to a distance of (1d4+1)×10 feet.
+Attacking a class iii lesser dæmon requires precise
+timing; one first must make a successful test of
+dexterity (see Vol. I, p. 7: Attributes, dexterity) to
+time a blow possibly to hit this dæmon.
+¬¬ Thrice per day, can spew to a range of 50 a glob
+of acid that causes damage equal to the dæmon’s
+current hit points
+(avoidance save for
+½ damage).

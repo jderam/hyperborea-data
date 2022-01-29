@@ -1,0 +1,58 @@
+ZUVEMBIE
+(Undead Type 7)
+No. Encountered: 1 (1d3)
+Alignment: Chaotic Evil
+Size: M
+Movement: 50
+Dexterity: 16
+Armour Class: 4
+Hit Dice: 7
+Attack Rate: 3/1 (claw / claw / bite)
+Damage: 1d6+1 / 1d6+1 / 1d4+1
+Saving Throw: 13
+Morale: 12
+Experience Points: 1,110
+Treasure Class: E
+The zuvembie is the result of a woman imbibing a
+black brew (see Vol. V, p. 436: Magical Treasure,
+magical potions). The resultant transformation is a
+free-willed undead creature: a provocatively beautiful
+yet frightening zombie, immortal as a vampire and
+nearly as keen. The zuvembie retains no memory of its
+past, forever changed and inscrutable in disposition.
+It cannot speak, but it can vocalize weird and
+haunting melodies. With its song it can control small
+animals and oft maintains unlikely combinations of
+such creatures in its vicinity (typically old towers,
+abandoned farms, ruins, caves, and the like).
+Zuvembies oft walk naked in moonlight, staring at the
+stars through cadaverous eyes and pondering inhuman
+thoughts; too, one will stand for hours or days in the
+hollow of a tree, in the closet of an old house, or under
+a stair. When opportunity presents, it will sing its
+enchanting song to lure a man to its cold embrace,
+taking him as a lover and then eating his entrails.
+Zuvembies are renowned for animating their lifeless
+lovers shortly after killing them and controlling their
+corpses like puppets.
+Special:
+¬¬ Immune to poison, paralysis, fear, and cold.
+¬¬ Harmed only by silver or magical weapons.
+¬¬ Climb on 11-in-12 chance of success, at full
+movement rate (see Vol. I, p: 21: Classes, thief).
+¬¬ Can sing a haunting song that charms any human
+males within 60 feet who hear it, unless sorcery
+saves are made; the saving throws are modified by
+willpower adjustment (see Vol. I, p. 9: Attributes,
+wisdom), if applicable. Charmed individuals stand
+dumbly and gaze into the eyes of the zuvembie,
+allowing the beast to exact its grisly will.
+¬¬ Bite inflicts disease (reverse of cure disease).
+¬¬ Can cast the following spells at will (though only
+one at a time): danse macabre, darkness (through
+which it can see), witch fire.
+¬¬ Once per week, can summon 3d6 small animals.
+Each summoning conjures one animal type that will
+remain in the zuvembie’s vicinity for 1d4 weeks,
+warning and protecting their master. To determine
+animal type, see Table 123.

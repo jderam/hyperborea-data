@@ -1,0 +1,34 @@
+AQUA-HYDRA (7-headed)
+No. Encountered: 1 (1d2)
+Alignment: Neutral
+Size: L
+Movement: 40 (swim 80)
+Dexterity: 9
+Armour Class: 5
+Hit Dice: 7
+Attack Rate: 7/1 (bites)
+Damage: 1d10 (per head)
+Saving Throw: 13
+Morale: 9
+Experience Points: 1,350
+Treasure Class: B
+A hydra is the scaly serpent of legendry, with five, seven,
+or nine serpentine heads (1 per HD) of from 8- to 10-foot
+length—heads that regenerate if severed—at one end of
+its 30-foot, ophidian body. These beasts oftest are solitary
+and found in any environment, the colour of their scales
+corresponding thusly.
+Aqua-hydræ are the aquatic species found in lakes,
+swamps, marshes, or the sea. Each has two great flippers
+and a fluked tail. The most impressive deep-sea specimens
+are venerated by fish-men; indeed, sages posit the
+legendary fish-man deity Mother Hydra is an aqua-hydra
+of prodigious size.
+Special:
+¬¬ Each head has its own 7 hp; if destroyed, it regenerates
+to full health in 3 rounds.
+¬¬ Venomous bite; make death (poison) save or suffer 2d6
+hp damage. Wound infected unless cure disease cast,
+causing fever and nausea (for 1d8 days), then coma (for
+2d8 days), and finally death. (Multiple bites are not
+cumulative). Each head can deliver venom once per day.

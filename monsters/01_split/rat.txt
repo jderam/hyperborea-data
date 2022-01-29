@@ -1,0 +1,27 @@
+RAT
+No. Encountered: 2d10 (5d10)
+Alignment: Neutral
+Size: S
+Movement: 30 (swim 20)
+Dexterity: 16
+Armour Class: 9
+Hit Dice: ¼
+Attack Rate: 1/1 (bite)
+Damage: 1
+Saving Throw: 17
+Morale: 5
+Experience Points: 7
+Treasure Class: —
+A rat is a largish rodent with a pointed snout and
+a long, hairless tail. Two varieties are extant in
+Hyperborea: one with brown fur, the other black. Rats
+are from one to two feet long (plus tail), are aggressive
+when hungry, and will attack men if desperate.
+Special:
+¬¬ 1-in-6 chance to infect victim with disease upon
+successful hit, unless death (poison) save is made.
+If save fails, victim either dies in 1d6 days after
+suffering fevers and delusion, or is bedridden for a
+month with pain and fever. Roll a d6: On a score of
+1–2 (rats) or 1–3 (giant rats), the disease is terminal;
+otherwise the non-deadly strain is contracted.

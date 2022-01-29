@@ -1,0 +1,25 @@
+PEGASUS
+No. Encountered: 1 (1d6)
+Alignment: Chaotic Good
+Size: L
+Movement: 80 (fly 120)
+Dexterity: 15
+Armour Class: 6
+Hit Dice: 3+3
+Attack Rate: 2/1 (hoof / hoof)
+Damage: 1d6 / 1d6
+Saving Throw: 15
+Morale: 9
+Experience Points: 90
+Treasure Class: —
+This is the wild and pure-hearted beast of legendry,
+the winged horse. Originally birthed from the spilled
+blood of a beheaded gorgon (Medusa), these bashful
+creatures typically avoid contact. Pegasuses are wise,
+compassionate creatures scarcely found in the cruel
+reaches of Hyperborea. They cannot be tamed by
+mortal men, and nearly all attempts have been met by
+disaster—the exceptions being veteran paladins pure
+of heart who quest for the beasts as sacred mounts
+(and the rarer still cataphract deemed worthy by the
+pegasus).

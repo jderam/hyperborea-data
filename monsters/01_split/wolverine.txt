@@ -1,0 +1,34 @@
+WOLVERINE
+No. Encountered: 1d2
+Alignment: Neutral
+Size: S
+Movement: 40
+Dexterity: 17
+Armour Class: 5
+Hit Dice: 3
+Attack Rate: 3/1 (claw / claw / bite)
+Damage: 1d4 / 1d4 / 1d6
+Saving Throw: 15
+Morale: 9
+Experience Points: 53
+Treasure Class: —
+The wolverine is a stocky, short-legged, carnivorous
+mammal known for its dark, shaggy coat and bushy
+tail. (These are remarkable for their lighter-coloured
+bands; hence the coat can be of value to hunters.)
+Typical wolverines in Hyperborea are about four feet
+long and weigh as much as 70 pounds. They are robust
+creatures of nasty temperament, with semi-retractable
+claws and powerful teeth, and they carry an odious
+musk stench.
+Wolverines are held to possess intelligence slightly
+above that of other animals. They dwell in boreal forests
+and tundra regions, hunting deer, elk, and even other
+predators. They chase down their prey, pounce on it, and
+drag it to the ground. A wolverine will attack a man on
+sight.
+Special:
+¬¬ Offensive musk odour; death (poison) save for any
+creature within 10 feet or suffer a −2 attack penalty
+due to burning and watering eyes.
+¬¬ All attack rolls made at +4 bonus.

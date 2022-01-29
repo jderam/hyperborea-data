@@ -1,0 +1,47 @@
+GORGON
+(Medusa)
+No. Encountered: 1 (1d2)
+Alignment: Chaotic Evil
+Size: M
+Movement: 30 (fly 30)
+Dexterity: 14
+Armour Class: 5
+Hit Dice: 4+4
+Attack Rate: 3/1 (claw / claw / bite)
+Damage: 1d6 / 1d6 / 1d4+1
+Saving Throw: 15
+Morale: 8
+Experience Points: 450
+Treasure Class: P, Q (×10), X, Y
+Oft called medusæ on account of that most famous of
+gorgons, these accursed creatures have the heads and
+torsos of alluringly curvaceous women, with serpentine
+lower bodies. The gorgon’s “hair” is composed of
+slender, writhing, venomous snakes. Its hands are of
+bronze, and the pteropine wings projecting from its
+shoulder blades are golden hued.
+The sight of a gorgon turns men and other humanoids
+to stone. Often gorgons will robe themselves and sit
+so as to conceal their dæmonic attributes, tricking
+men with the implied beauty of their features, only
+to be petrified. Gorgons usually lead solitary lives,
+sequestered on islands or in caves, though “sister” pairs
+have been reported. Most gorgons speak the Common
+tongue in addition to proto-Hellenic.
+Special:
+¬¬ Sight causes petrifaction unless transformation
+save is made. Eye contact is automatic unless
+the player specifies that his character is looking
+elsewhere before seeing the revealed face. A mirror
+can be used to view a gorgon without harm; the
+gorgon turns to stone if tricked into seeing its
+own reflexion. Fighting a gorgon with eyes averted
+incurs a −2 penalty to attack rolls and armour class.
+¬¬ +2 bonus to sorcery saves.
+¬¬ On 1-in-4 chance per round, in addition to gorgon’s
+normal claw / claw / bite routine, snakes on
+gorgon’s head extend to attack collectively a single
+creature within five feet, causing 1d6 hp damage
+and delivering deadly venom; victim must make
+death (poison) save or be paralyzed within 1d4
+rounds and slain within 1d4 turns.

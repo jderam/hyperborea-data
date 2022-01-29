@@ -1,0 +1,35 @@
+GHAST
+(Undead Type 6)
+No. Encountered: 1 (1d4)
+Alignment: Chaotic Evil
+Size: M
+Movement: 50
+Dexterity: 15
+Armour Class: 4
+Hit Dice: 4
+Attack Rate: 3/1 (claw / claw / bite)
+Damage: 1d4 / 1d4 / 2d4
+Saving Throw: 15
+Morale: 9
+Experience Points: 195
+Treasure Class: B, Q, R, S, T
+A ghast is a rare and potent form of ghoul, an undead
+humanoid complexioned pale as a sheet and possessed
+of insatiable hunger for human flesh. Although not
+immediately distinguishable from ghouls, ghasts oft
+are betrayed by the carrion stench they exude, which
+can nauseate a man to incapacity. Ghasts are stronger,
+faster, and smarter than ghouls, capable of cruel and
+calculated schemes.
+Special:
+¬¬ Immune to poison, paralysis, fear, and cold.
+¬¬ Protection from evil holds them at bay.
+¬¬ Any living creature within 10 feet must make death
+(poison) save or suffer nausea, causing −2 attack
+penalty for 1 turn.
+¬¬ Silver weapons cause double damage against these
+creatures.
+¬¬ Hit causes paralysis for 2d6 turns unless death save
+is made.
+¬¬ Slain victims later become ghouls, though with
+2-in-6 chance to become ghasts.

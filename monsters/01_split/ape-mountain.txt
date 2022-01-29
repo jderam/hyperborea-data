@@ -1,0 +1,35 @@
+MOUNTAIN APE
+(Ogre)
+No. Encountered: 1 (1d6)
+Alignment: Chaotic Evil
+Size: L
+Movement: 30
+Dexterity: 8
+Armour Class: 5
+Hit Dice: 4+4
+Attack Rate: 1/1 (weapon)
+Damage: 1d10+2
+Saving Throw: 15
+Morale: 9
+Experience Points: 200
+Treasure Class: M (×10); Q, R, S
+These massive, manlike brutes of repulsive countenance
+and abhorrent odour stand 8–10 feet tall and weigh as
+much as 1,000 pounds. Their torsos are thick with black
+or red fur, but their arms and bowed legs are as those
+of cave-men; their misshapen heads are hairy of mane
+and beard, and their noses large and broad. Mountain
+apes typically wield clubs, stone axes, or stone-tipped
+spears, though some acquire the weapons of man.
+Others will hurl stones, or simply pound with their
+fists.
+Mountain apes are greedy and oft store their wealth
+in cave lairs, though some fear leaving their treasure
+for others to plunder and so will carry it in large sacks.
+Most are thoroughly Evil, though a simpleminded,
+good-natured sort is not impossible. Often they dwell
+alone and are wont to kidnap human children (whom
+they will enslave and/or eat).
+Special:
+¬¬ Can hurl a large stone to a range of 50 for 1d10+2 hp
+damage.
