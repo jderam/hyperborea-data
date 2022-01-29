@@ -1,20 +1,17 @@
-WOLF Wolf Dire Wolf Winter Wolf
-No.
-Encountered: 2d4 (1d12+6) 1d6
-(1d6+6) 1 (2d4)
-Alignment: Neutral Neutral Lawful Evil
-Size: M L L
-Movement: 60 50 60
-Dexterity: 11 10 9
-Armour Class: 7 6 5
-Hit Dice: 2+1 4+1 6
-Attack Rate: 1/1 (bite) 1/1 (bite) 1/1 (bite)
-Damage: 1d6 2d4 2d4
-Saving Throw: 16 15 14
-Morale: 7 8 9
-Experience
-Points: 35 150 500
-Treasure Class: — — I
+WOLF
+No. Encountered: 2d4 (1d12+6)
+Alignment: Neutral
+Size: M
+Movement: 60
+Dexterity: 11
+Armour Class: 7
+Hit Dice: 2+1
+Attack Rate: 1/1 (bite)
+Damage: 1d6
+Saving Throw: 16
+Morale: 7
+Experience Points: 35
+Treasure Class: —
 The wolf is a wild, carnivorous animal that lives
 and hunts in packs. Wolves are found in caves and
 wilderness alike; forest species are thinner and longerlimbed,
@@ -23,30 +20,3 @@ Captured wolf pups might be trained much as dogs,
 though the possibility exists of unfortunate incident
 upon maturation. Every pack has an alpha male, which
 might be a specimen of maximum hit points.
-The dire wolf is a larger, heavier, more ferocious wolf,
-as large as five feet at the shoulder and 500 pounds,
-seemingly possessed of semi-intelligence. Typically
-dire wolves range across most wilderness environs,
-though their lairs usually are located in caves. It is said
-that abominable snow-men have devised a means
-of training these savage animals to pull their war
-sleds. Every pack has an alpha male, which might be a
-specimen of maximum hit points.
-The winter wolf is an Evil, semi-intelligent,
-supernatural beast that inhabits the most forbidding
-regions. These wolves have pure-white coats, stand
-from five to six feet at the shoulder, and weigh as much
-as 750 pounds. They can release terrible howls that
-discharge blasts of cold, freezing to the bone their prey,
-which they then will crush in their horrible jaws. They
-are believed to have their own strange language. Winter
-wolves fear and loathe the men of Leng, and they leap
-in wild, howling fervour when Ythaqqa walks amongst
-them or sends his frigid wind.
-Special (winter wolf ):
-¬¬ Immune to cold.
-¬¬ Vulnerable to fire: +1 hp per die of damage.
-¬¬ Frost blast once every 6 rounds; blast is 10 feet long
-and 10 feet wide at its terminus, causing 4d6 hp
-damage, with an avoidance save allowed for
-½ damage.

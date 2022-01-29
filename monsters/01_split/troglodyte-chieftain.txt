@@ -1,18 +1,18 @@
-TROGLODYTE
+TROGLODYTE CHIEFTAIN
 (Trog)
-No. Encountered: 2d4 (1d6×10)
+No. Encountered: 1:20
 Alignment: Chaotic Evil
 Size: M
 Movement: 40 (swim 50)
-Dexterity: 10
-Armour Class: 5
-Hit Dice: 2
+Dexterity: 12
+Armour Class: 3
+Hit Dice: 5
 Attack Rate: 3/1 (claw / claw / bite) or 1/1 (weapon)
-Damage: 1d3 / 1d3 / 1d4 (or per weapon)
-Saving Throw: 16
-Morale: 9 
-Experience Points: 32
-Treasure Class: J; A
+Damage: 1d4 / 1d4 / 1d6 (or per weapon)
+Saving Throw: 14
+Morale: 10
+Experience Points: 225
+Treasure Class: M (×2)
 Troglodytes are reptilian humanoids of primitive
 intelligence, capable of weapon use and simple technology.
 They are violent creatures who despise men and attack on

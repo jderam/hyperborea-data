@@ -1,0 +1,32 @@
+WINTER WOLF
+No. Encountered: 1 (2d4)
+Alignment: Lawful Evil
+Size: L
+Movement: 60
+Dexterity: 9
+Armour Class: 5
+Hit Dice: 6
+Attack Rate: 1/1 (bite)
+Damage: 2d4
+Saving Throw: 14
+Morale: 9
+Experience Points: 500
+Treasure Class: I
+The winter wolf is an Evil, semi-intelligent,
+supernatural beast that inhabits the most forbidding
+regions. These wolves have pure-white coats, stand
+from five to six feet at the shoulder, and weigh as much
+as 750 pounds. They can release terrible howls that
+discharge blasts of cold, freezing to the bone their prey,
+which they then will crush in their horrible jaws. They
+are believed to have their own strange language. Winter
+wolves fear and loathe the men of Leng, and they leap
+in wild, howling fervour when Ythaqqa walks amongst
+them or sends his frigid wind.
+Special:
+¬¬ Immune to cold.
+¬¬ Vulnerable to fire: +1 hp per die of damage.
+¬¬ Frost blast once every 6 rounds; blast is 10 feet long
+and 10 feet wide at its terminus, causing 4d6 hp
+damage, with an avoidance save allowed for
+½ damage.

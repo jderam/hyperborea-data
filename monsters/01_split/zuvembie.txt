@@ -1,4 +1,5 @@
-ZUVEMBIE (Undead Type 7)
+ZUVEMBIE
+(Undead Type 7)
 No. Encountered: 1 (1d3)
 Alignment: Chaotic Evil
 Size: M

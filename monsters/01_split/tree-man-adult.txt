@@ -1,17 +1,18 @@
-TREE-MAN (Treant) Adult Tree-Man Old Tree-Man Ancient Tree-Man
-No. Encountered: 1 (2d12) 1 (1:6) 1 (1:12)
-Alignment: Chaotic (Good or Evil) Chaotic (Good or Evil) Chaotic (Good or Evil)
-Size: L L L
-Movement: 40 40 40
-Dexterity: 8 7 6
-Armour Class: 2 1 0
-Hit Dice: 8 12 16
-Attack Rate: 2/1 (claw / claw) 2/1 (claw / claw) 2/1 (claw / claw)
-Damage: 2d6 / 2d6 3d6 / 3d6 4d6 / 4d6
-Saving Throw: 13 11 9
-Morale: 9 10 11
-Experience Points: 600 1,500 3,000
-Treasure Class: Q (×5) Q (×5) Q (×5)
+ADULT TREE-MAN
+(Treant)
+No. Encountered: 1 (2d12)
+Alignment: Chaotic (Good or Evil)
+Size: L
+Movement: 40
+Dexterity: 8
+Armour Class: 2
+Hit Dice: 8
+Attack Rate: 2/1 (claw / claw)
+Damage: 2d6 / 2d6
+Saving Throw: 13
+Morale: 9
+Experience Points: 600
+Treasure Class: Q (×5)
 Sometimes considered a type of wood elemental,
 these strange beings typically dwell in ancient forests.
 They are reputed to be the progeny of man and a race

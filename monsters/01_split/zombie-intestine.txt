@@ -1,4 +1,5 @@
-ZOMBIE, INTESTINE (Undead Type 3)
+INTESTINE ZOMBIE
+(Undead Type 3)
 No. Encountered: 1d6+5
 Alignment: Chaotic Evil
 Size: M

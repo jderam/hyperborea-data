@@ -1,4 +1,5 @@
-WORM of YMIR (Worm of the Dirt)
+WORM of YMIR
+(Worm of the Dirt)
 No. Encountered: 3d4 (1d12×10)
 Alignment: Chaotic Evil
 Size: S

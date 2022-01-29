@@ -1,0 +1,32 @@
+SABRE-TOOTH TIGER SUPERIOR
+No. Encountered: 1
+Alignment: Neutral
+Size: L
+Movement: 40
+Dexterity: 15
+Armour Class: 5
+Hit Dice: 10
+Attack Rate: 5/1 (claw ×4 / bite)
+Damage: 1d8+2 (×4) / 2d10
+Saving Throw: 12
+Morale: 9
+Experience Points: 1,300
+Treasure Class: —
+The sabre-tooth superior is
+the largest of the great cats.
+This six-legged beast has stout
+limbs and a thick, heavily
+muscled back. Adults measure
+up to 12 feet long (plus tail)
+and 5 feet at the shoulder,
+weighing 1,200 pounds. Their
+coats are tan and spotted,
+and their canine teeth are 12 inches long. These are the
+most feared predators of the Hyperborean steppes,
+taking down the largest herbivores—as well as other
+carnivores. Usually they ignore men, unless desperate
+or threatened. They typically rear up on their hind legs
+when fighting, rending with their front four claws.
+Special:
+¬¬ All tigers are superior stalkers; chance to surprize
+increased by 2-in-6.

@@ -1,4 +1,4 @@
-TICK, GIANT
+GIANT TICK
 No. Encountered: 1d6 (3d12)
 Alignment: Neutral
 Size: S

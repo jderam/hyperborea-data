@@ -1,4 +1,6 @@
-ZOMBIE (Walking Dead) (Undead Type 2)
+ZOMBIE
+(Walking Dead)
+(Undead Type 2)
 No. Encountered: 1d6 (4d6)
 Alignment: Chaotic Evil
 Size: M

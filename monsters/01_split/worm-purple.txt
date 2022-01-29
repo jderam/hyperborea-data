@@ -1,4 +1,4 @@
-WORM, PURPLE
+PURPLE WORM
 No. Encountered: 1 (3d4)
 Alignment: Neutral
 Size: L

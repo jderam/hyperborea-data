@@ -1,0 +1,32 @@
+ICE TOAD
+No. Encountered: 1d2 (2d6)
+Alignment: Neutral
+Size: S
+Movement: 10 (hop 20)
+Dexterity: 10
+Armour Class: 9
+Hit Dice: ¼
+Attack Rate: —
+Damage: —
+Saving Throw: 17
+Morale: 4
+Experience Points: 9
+Treasure Class: —
+Ice toads are tiny creatures, white as snow, with
+bright blue warts and vivid cerulean eyes. They are
+said to thrive in the coldest environments, their blood
+unfreezing.
+Special:
+¬¬ Immune to the effects of normal cold to −15°F; they
+must burrow to survive colder temperatures.
+¬¬ Camouflage provides 6-in-12 chance to hide in snow
+(see Vol. I, p. 21: Classes, thief).
+¬¬ If ice toad is bitten or licked, a death (poison) save
+must be made or the victim suffers 1d4 hp damage.
+Ice toad toxin does not cause continuing damage.
+A toad produces enough toxin to coat a dagger
+when provoked; enterprising sorcerers are known
+to use their toad familiars to envenom their blades
+or fill a phial with a single dose once per day. The
+toxin evaporates after 6 turns or a single successful
+strike; if bottled, it remains efficacious for 24 hours.

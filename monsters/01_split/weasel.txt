@@ -1,36 +1,23 @@
-WEASEL Weasel
+WEASEL
 (Ermine, Stoat)
-Giant
-Weasel
-No. Appearing: 1d2 1 (1d6)
-Alignment: Neutral Neutral (or Chaotic Evil)
-Size: S M
-Movement: 40 50
-Dexterity: 16 13
-Armour Class: 6 2
-Hit Dice: ¼ 4+3
-Attack Rate: 1/1 (bite) 1/1 (bite)
-Damage: 1 1d8
-Saving Throw: 17 15
-Morale: 5 7
-Experience Points: 7 175
-Treasure Class: — —
+No. Appearing: 1d2
+Alignment: Neutral
+Size: S
+Movement: 40
+Dexterity: 16
+Armour Class: 6
+Hit Dice: ¼
+Attack Rate: 1/1 (bite)
+Damage: 1
+Saving Throw: 17
+Morale: 5
+Experience Points: 7
+Treasure Class: —
 Weasels are fairly common in Hyperborea. During the
 winter years, their pelts turn from black or brown to
 snow white. When they do, such pelts are said to fetch
 as much as 20 gp in certain towns and cities.
-Giant weasels are nocturnal animals eight feet long,
-sleek, swift, and powerful. Their fur colour depends on
-species and environment, typically black, white, brown,
-or golden. Giant weasels are vicious creatures that,
-although omnivorous, are fond of human flesh. They
-latch on to prey and siphon blood from their victims.
-N.B.: Intelligent giant weasels have been reported, these
-being rare and reclusive creatures of Evil alignment.
-Special (weasel):
+Special:
 ¬¬ Pelt turns white in winter years; camouflage
 provides 6-in-12 chance to hide in snow (see Vol. I,
 p. 21: Classes, thief).
-Special (giant weasel):
-¬¬ Latches on to prey upon successful hit, draining
-blood for 1d8 hp damage per round.

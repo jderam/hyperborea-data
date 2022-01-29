@@ -1,0 +1,26 @@
+GIANT WOLVERINE
+No. Encountered: 1d2
+Alignment: Chaotic Evil
+Size: M
+Movement: 50
+Dexterity: 18
+Armour Class: 4
+Hit Dice: 4+5
+Attack Rate: 3/1 (claw / claw / bite)
+Damage: 1d6 / 1d6 / 1d8
+Saving Throw: 15
+Morale: 11
+Experience Points: 225
+Treasure Class: Q, Y
+The giant wolverine is a bearlike beast that measures up
+to six feet long and three feet at the shoulder, weighing
+as much as 400 pounds. In addition to the prey noted
+above, a giant wolverine will hunt musk oxen and even
+small woolly mammoths. Giant wolverines are beasts of
+higher intelligence, capable of speech and aligned with
+Chaotic Evil.
+Special:
+¬¬ Offensive musk odour; death (poison) save for any
+creature within 10 feet or suffer a −2 attack penalty
+due to burning and watering eyes.
+¬¬ All attack rolls made at +4 bonus.
