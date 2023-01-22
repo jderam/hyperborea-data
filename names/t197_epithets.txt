@@ -1,0 +1,37 @@
+id	name
+1	the Ravenous
+2	the Learned
+3	Star-Blessed
+4	the Unyielding
+5	Oathbreaker
+6	the Cautious
+7	the Hideous
+8	the Callous
+9	the Resilient
+10	the Volcanic
+11	Beast-Friend
+12	the Pale
+13	the Mesmerizing
+14	the Shattered
+15	the Even-Handed
+16	the Undaunted
+17	the Steadfast
+18	the Gruesome
+19	the Blooded
+20	the Passionate
+21	the Matchless
+22	the Ageless
+23	the Prophet
+24	the Unnatural
+25	the Toothsome
+26	the Ill-Tempered
+27	the Keen
+28	the Apt
+29	Wind-Born
+30	Bone-Breaker
+31	the Lusty
+32	the Ungainly
+33	the Shiftless
+34	the Coward
+35	the Vengeful
+36	the Sacred

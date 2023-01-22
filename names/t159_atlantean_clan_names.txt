@@ -1,0 +1,13 @@
+id	name
+1	Amphitrite
+2	Eurybia
+3	Glaukos
+4	Kymopoleia
+5	Nereos
+6	Okeanos
+7	Phorkys
+8	Pontos
+9	Poseidon
+10	Proteos
+11	Thalassa
+12	Triton

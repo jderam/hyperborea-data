@@ -1,0 +1,13 @@
+id	name
+1	Ayta’da
+2	Kaskilaana
+3	Künney
+4	Lur
+5	Nariyanaa
+6	Nyur’da
+7	Saskulaana
+8	Saya’da
+9	Sayii’da
+10	Tuskulaana
+11	Tuya’da
+12	Uruy’da
