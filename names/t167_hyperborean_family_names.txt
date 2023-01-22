@@ -1,0 +1,17 @@
+id	name
+1	Druun
+2	Ghuul
+3	Graax
+4	Kloon
+5	Phaaz
+6	Ploon
+7	Qaan
+8	Rhaan
+9	Shoon
+10	Slaan
+11	Thoon
+12	Traal
+13	Vheez
+14	Xhoon
+15	Zhaan
+16	Zhuu

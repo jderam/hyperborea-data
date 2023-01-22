@@ -1,0 +1,51 @@
+id	female_name	male_name	meaning
+1	Aculeo	Aculeo	“surly”
+2	Agricola	Agricola	“farmer”
+3	Albina	Albinus	“pale”
+4	Alba	Albus	“fair skinned”
+5	Aquilina	Aquilinus	“like an eagle”
+6	Arvina	Arvina	“fat”
+7	Asina	Asina	“like an ass”
+8	Atella	Atellus	“dark haired”
+9	Bassa	Bassus	“plump”
+10	Bestia	Bestia	“like an animal”
+11	Bibula	Bibulus	“drunk”
+12	Bruta	Brutus	“stupid”
+13	Bubulca	Bubulcus	“cattle drover”
+14	Bucco	Bucco	“fool”
+15	Buteo	Buteo	“like a vulture”
+16	Calida	Calidus	“hot headed”
+17	Calva	Calvus	“bald”
+18	Canina	Caninus	“like a dog”
+19	Cana	Canus	“light haired”
+20	Celsa	Celsus	“tall”
+21	Corvina	Corvinus	“like a crow”
+22	Crassa	Crassus	“fat”
+23	Crispa	Crispus	“curly haired”
+24	Cæpio	Cæpio	“grocer”
+25	Figula	Figulus	“potter”
+26	Flava	Flavus	“yellow haired”
+27	Fullo	Fullo	“fuller”
+28	Gemella	Gemellus	“twin sibling”
+29	Helva	Helva	“brown haired”
+30	Laterensis	Laterensis	“lives in the hills”
+31	Longa	Longus	“tall”
+32	Lupa	Lupus	“like a wolf ”
+33	Lurco	Lurco	“glutton”
+34	Macra	Macer	“thin”
+35	Merga	Mergus	“like a gull”
+36	Mus	Mus	“like a mouse”
+37	Naso	Naso	“big nosed”
+38	Natta	Natta	“artisan”
+39	Nigra	Niger	“dark haired”
+40	Pavo	Pavo	“like a peacock”
+41	Pictrix	Pictor	“painter”
+42	Pulchra	Pulcher	“good looking”
+43	Purpureo	Purpureo	“purplish complexion”
+44	Quadrata	Quadratus	“stocky”
+45	Rufa	Rufus	“red haired”
+46	Salinatrix	Salinator	“salt miner”
+47	Taura	Taurus	“like a bull”
+48	Vara	Varus	“bow-legged”
+49	Verres	Verres	“like a pig”
+50	Vitula	Vitulus	“like a cow”

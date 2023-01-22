@@ -1,0 +1,13 @@
+id	name
+1	Ayaal-xu
+2	Aysen-xu
+3	Aytalanu
+4	Elleyanu
+5	Karak-xu
+6	Kaskil
+7	Michilanu
+8	Nyurganu
+9	Sirk-xu
+10	Tibur
+11	Uygulaan
+12	Yodin
