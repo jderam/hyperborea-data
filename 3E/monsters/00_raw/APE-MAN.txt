@@ -1,0 +1,44 @@
+APE-MAN
+These quasi-humans walk upright as humans; males
+are from five to six feet tall, females from four to five
+feet tall on average. Ape-men have the base countenance
+and body hair of an ape and a body type that
+presents with human and simian characteristics, including
+opposable thumbs. Culturally they range from
+utter primitivism (fire and stone tool use) to mock
+sophistication and reason rivalling the lowliest of mankind.
+Ape-men communicate via a limited vocabulary
+of grunts, growls, hoots, and trills. Brutish and violent,
+ape-men are omnivorous, though preferring raw meat.
+Their warriors and hunters wear the hides of beasts;
+some don human armour when opportunity presents.
+Weapons include clubs, slings, and hand-hurled stones,
+unless the ape-men acquire steel.
+Ape-man tribes dwell in caves, mountains, and forests.
+About 1 in 12 is an ape-man alpha, a physically dominant
+humanoid. Also, most tribes of 20 or more individuals
+will have a shaman; these sorcerers typically
+hallow Yug or Xathoqqua.
+N.B.: An advanced group of some 5,000 ape-men populates
+the City-State of Kor and serves as its ruling elite.
+These ape-men can read and write, forge weapons and
+tools of iron and steel, and assume the principle classes
+of fighter, magician, cleric, and thief. Some sages posit
+these elevated ape-men to be the beneficiaries of otherworldly
+sponsorship.
+Ape-Man: #E 1d6 (6d6) | AL N or LE | SZ M | MV 30
+DX 10 | AC 8 | HD 1+2 | #A 1/1 (weapon) | D (per
+weapon +1) | SV 16 | ML 9 | XP 24* | TC L; C, Q
+(×2), S | Special:
+ Climb: 11-in-12 chance of success, at full movement
+rate.
+ Shamanism: Ape-man shamans can advance as
+high as 5th level; for each level beyond 1st, they
+add 1 hit die (d8) to their base 1+2 HD.
+* Refer to Table 201 for classed individuals.
+Ape-Man Alpha: #E 1:12 | AL N or LE | SZ M
+MV 30 | DX 12 | AC 7 | HD 3+4 | #A 3/2 (weapon)
+D (per weapon +2) | SV 15 | ML 9 | XP 90 | TC L; C,
+Q (×2), S | Special:
+ Climb: 11-in-12 chance of success, at full movement
+rate.

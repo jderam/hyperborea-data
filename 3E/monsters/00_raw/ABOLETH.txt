@@ -1,0 +1,56 @@
+ABOLETH
+Aboleths are massive alien beasts, up to 10 feet tall
+and 7–8 feet thick, their scaly, blue-green bodies coated
+with mucous slime. They have thick, fluked tails of 12-
+foot length and four anterior, sucker-bearing tentacles,
+each about 10 feet long, which they use to drag their
+bulk when on land. Centred amongst the tentacles is
+a circular mouth lined with three rows of triangular
+teeth. Three violet eyes, narrow slits in succession, are
+set atop a bulky head.
+This ancient race of intelligent amphibious monsters
+inhabits subterranean lakes and caverns. Aboleths
+hate other sentient life, slaying or enslaving humans
+and humanoids. Hoarders of otherworldly knowledge,
+aboleths are enemies of elder things, the Great Race,
+and mi-go, but are known to ally with fish-men, fellow
+advocates of Kthulhu. Indeed, aboleths are said
+to receive dreaming Kthulhu’s edicts when they take
+their yearlong slumber. Typically, few aboleths are encountered,
+but Atlantean sages speak of large colonies
+dwelling in subaqueous cities of alien architecture.
+Aboleth (otherworldly): #E 1 (1d4) | AL LE | SZ L
+MV 10 (swim 60) | DX 11 | AC 4 | HD 8 | #A 4/1
+(lash ×4) | D 1d6 (×4) | SV 13 | ML 10 | XP 1,880
+TC F | Special:
+ Illusion: At will, to a range of 240 feet, effect a
+vivid illusion of sight, sound, and smell (see advanced
+spectral phantasm spell); must maintain
+concentration for the illusion to persist.
+ Mind Control: Thrice per day, impose mind
+control ability on all within 30 feet. Targets must
+roll a sorcery saving throw, modified by willpower
+adjustment, if applicable. Those who fail will
+serve and obey the aboleth. The enslaved will
+not bring harm to friends or former associates,
+but they will abide other telepathic commands
+if aboleth is within one mile. Dispel magic or
+remove curse terminates enchantment.
+ Mucous Cloud: In water, release a mucous
+cloud three feet around its bulk. A victim pulled
+into the cloud must make a transformation
+save or thenceforth be unable to breathe air. If
+removed from water, a test of constitution must
+be made every round. The first time the test is
+failed, the victim begins to asphyxiate for 1d4
+damage per round. Aboleths use this cloud to
+grant their slaves the ability to breathe water,
+albeit in smaller doses so as to effect amphibious
+humanoid slaves.
+ Slime: If tentacle hits, victim must make
+transformation save or skin mutates into slimy
+membrane in 1d4+1 minutes unless cure disease
+is cast. Once metamorphosis is complete, victim
+must remain immersed or their skin dries out,
+causing 2d6 hp damage per turn. Heal can end
+this affliction.

@@ -1,0 +1,163 @@
+AUTOMATON (Golem, Living Statue)
+Automata are humanoid constructs of mad sorcerers
+and their ilk, the formulæ for the creation of which
+trace back to a bygone age when Atlanteans, Hyperboreans,
+Lemurians, and the Mu commingled sorcery
+and science. Strange wires, conduits, batteries, cells,
+and circuits are installed in many of these creations,
+though no two manuals of automaton creation describe
+precisely identical processes; alternative methods
+of creation were engendered by the ancients, but
+this is a lost science in rapidly decaying Hyperborea.
+BRONZE AUTOMATON (Minotron): A bronze
+automaton is a massive 10-foot construct built to resemble
+a minotaur. Often referred to as a minotron, a
+typical bronze automaton is fashioned to wield a great
+spear, halberd, or long trident, composed entirely of
+bronze. The bronze automaton is ever obedient and
+under the
+command of
+its creator,
+though
+it only
+responds
+to clear
+and loudly
+vocalized
+commands.
+N.B.: The
+golden heart
+of a felled
+bronze
+automaton,
+if extracted,
+has a 12,000-
+gp value.
+Bronze Automaton: #E 1 | AL N | SZ L | MV 30
+DX 9 | AC 2 | HD 10+2 | #A 1/1 (gore or weapon)
+D 2d8 or 4d6 | SV 12 | ML 12 | XP 2,200 | TC nil
+Special:
+ Charging Gore: Can deliver charging gore
+attack at +2 “to hit” and double damage.
+ Fire Heals: Fire attacks heal the monster
+instead of damaging it.
+ Immunities: Immune to all sorcery, except
+lightning, which functions as slow spell for
+3 rounds. Immune to mundane weapons;
+harmed only by magical weapons.
+CLAY AUTOMATON: A clay automaton is a humanoid
+statue eight feet tall. The clay automaton is
+under its creator’s command; typically, the creature
+is appointed a task, such as guardianship. N.B.: Clay
+automata are prone to possession by dæmons.
+Clay Automaton: #E 1 | AL N | SZ L | MV 20
+DX 5 | AC 7 | HD 11+2 | #A 1/1 (pummel) | D 3d10
+SV 12 | ML 12 | XP 2,700 | TC nil | Special:
+ Immunities: Immune to all sorcery, except
+for disintegrate and transmute rock to mud,
+either of which necessitates a death save or
+the creature is destroyed. Unharmed by edged
+or pointed weapons of all types (magical and
+mundane); only blunt weapons (flail, hammer,
+mace, etc.) of magical nature are effective.
+ Permanent Damage: Damage from attacks
+cannot be healed, save by the sorcery of a
+cleric or priest of 9th level or greater; otherwise,
+damage inflicted is permanent, unless a remove
+curse spell is cast.
+CRYSTAL AUTOMATON: A crystal automaton is a
+human-shaped limpid construct, its smooth, faceless
+exterior shewing crackling, bluish-white energy within.
+Unlike most automata, this creature exhibits sentience,
+oftest housing the consciousness of a learned
+individual. Some ancient Atlantean scientists employed
+such forms to achieve a measure of immortality; the
+secret of their creation has been lost as the Atlantean
+race has declined. These creatures cannot speak, but
+can communicate telepathically, usually in the Hellenic
+(Atlantean) and Hellenic (Hyperborean) dialects.
+Crystal Automaton: #E 1 | AL any | SZ M | MV 30
+DX 9 | AC 0 | HD 2+2 | #A 2/1 (pummel/pummel)
+D 1d6/1d6 | SV 16 | ML 10 | XP 101 | TC nil | Special:
+ Immunities: Immune to acid, cold, electricity,
+fire, gas, poison, and all sorcery. Immune to mundane
+weapons; harmed only by magical weapons.
+FLESH AUTOMATON: A flesh automaton is built
+from the corpses of at least five humans. Though the
+creature is impervious to most harm (unless magical),
+the creator might yet gird an automaton in armour.
+The flesh automaton obeys the will of its creator; commands
+must be simple, for the brute retains limited
+intelligence.
+Flesh Automaton: #E 1 | AL N | SZ M | MV 30
+DX 7 | AC 7 | HD 9+2 | #A 2/1 (pummel) | D 2d8/2d8
+SV 12 | ML 11 | XP 1,600 | TC nil | Special:
+ Electricity Heals: Electrical attacks heal the
+monster instead of damaging it.
+ Immunities: Immune to charm, hold, sleep, and
+other mind-affecting sorcery. Immune to mundane
+weapons; harmed only by magical weapons.
+ Loss of Control: Each round of combat, 1-in-10
+chance of losing control, attempting to kill all in
+sight. It attacks at +2 “to hit” and damage rolls
+and then flees after 2d6 rounds. It thereafter
+wanders aimlessly, avoiding civilization; rehabilitation
+is no simple matter. Some flesh automata
+are said to manifest rudimentary intelligence
+and emotion after such episodes.
+IRON AUTOMATON: An iron automaton is a 12-foot
+iron statue. Most are moulded bearing a weapon, such
+as an enormous sword or axe. The iron automaton is
+under the command of its creator.
+Iron Automaton: #E 1 | AL N | SZ L | MV 20
+DX 5 | AC 3 | HD 16+2 | #A 1/1 (weapon) | D 4d10
+SV 9 | ML 12 | XP 6,000 | TC nil | Special:
+ Breathe Poison: Every 7 rounds, can breathe
+poison gas cloud of 10-cubic-foot volume, as the
+cloudkill spell.
+ Fire Heals: Fire attacks heal the monster
+instead of damaging it.
+ Immunities: Immune to all sorcery, except
+lightning, which functions as slow spell for
+3 rounds. Immune to mundane weapons;
+harmed only by magical weapons.
+SCYTHE AUTOMATON: A scythe automaton is a
+nine-foot-tall, thin humanoid construct with a metallic
+body and blades that extend at the end of each arm.
+Relics of ancient sorcery and science, scythe automata
+generally are used as simple guardian creatures, programmed
+to follow basic, pre-determined orders. They
+will not attack unless triggered, but once they do, they
+strike with their edged arms, slicing with vicious fury
+until each enemy is destroyed. After completing their
+orders, they return to their original positions and resume
+hibernation until triggered again.
+Scythe Automaton: #E 1d2 | AL N | SZ L
+MV 30 | DX 5 | AC 3 | HD 7+2 | #A 2/1 (blade/
+blade) D 1d10/1d10 | SV 13 | ML 12 | XP 840 | TC nil
+Special:
+ Immunity: Immune to mundane weapons;
+harmed only by magical weapons. Immune to
+charm, hold, sleep, and other mind-affecting
+sorcery.
+ Resistances: Edged or pointed weapons cause
+only ½ damage; blunt weapons deal full damage.
+STONE AUTOMATON: A stone automaton is a
+10-foot-tall statue chiselled from granite or marble, oft
+with the likeness of a sword or an axe in hand. Stone
+automata are the least intelligent type, able to comprehend
+seven simple commands which must be programmed
+during creation. Typical commands include
+“Attack!”, “Capture!”, “Follow!”, “Stop!”, and “Wait!”
+Ambiguous commands such as “Guard!” may be misunderstood;
+the monster might guard a place instead
+of a person, even if a person was the intent.
+Stone Automaton: #E 1 | AL N | SZ L | MV 20
+DX 5 | AC 5 | HD 14+2 | #A 1/1 (weapon) | D 6d6
+SV 10 | ML 12 | XP 3,250 | TC nil | Special:
+ Immunities: Immune to all sorcery, except
+stone to flesh (renders creature AC 8 and vulnerable
+to normal weapons for 1d4 rounds) and
+transmute rock to mud (functions as slow spell
+for 2d6 rounds). Immune to mundane weapons;
+harmed only by magical weapons.

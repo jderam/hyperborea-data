@@ -1,0 +1,24 @@
+APE, MOUNTAIN (Ogre)
+These massive, humanoid brutes of repulsive countenance
+and abhorrent odour stand 8–10 feet tall and
+weigh as much as 1,000 pounds. Their torsos are thick
+with black or red fur, but their arms and bowed legs
+are as those of cave-men; their misshapen heads are
+hairy of mane and beard, and their noses large and
+broad. Mountain apes typically wield clubs, stone
+axes, or stone-tipped spears, though some acquire the
+weapons of mankind. Others will hurl stones, or simply
+pound with their fists.
+Mountain apes are greedy and oft store their wealth
+in cave lairs, though some fear leaving their treasure
+for others to plunder and so will carry it in large sacks.
+Most are thoroughly Evil, though a simpleminded,
+good-natured sort is not impossible. They often dwell
+alone and are wont to kidnap human children (whom
+they enslave and/or eat).
+Mountain Ape: #E 1 (1d6) | AL CE | SZ L | MV 30
+DX 8 | AC 5 | HD 4+4 | #A 1/1 (pummel or weapon)
+D 1d4+3 (pummel) or 1d10+3 (weapon) | SV 15
+ML 9 | XP 200 | TC M (×10); Q, R, S | Special:
+Hurl Stone: Hurl a large stone to a range of 50 for
+1d10+3 hp damage.

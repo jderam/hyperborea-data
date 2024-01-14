@@ -1,0 +1,17 @@
+AUROCHS
+This massive species of ox stands six feet at the shoulder,
+weighs as much as 2,000 pounds, and is renowned
+for its wide spread of forwards-turning horns. Most
+aurochs have black fur, which is shaggier during cold
+periods. Temperamental and aggressive, these bovines
+will charge down a human or humanoid, including those
+who attempt to avoid them. Castrated bulls, if taken as
+calves, may be used as draught animals. Solitary bulls
+might be encountered, or small herds.
+Aurochs: #E 1 (4d6) | AL N | SZ L | MV 30 | DX 9
+AC 5 | HD 4 | #A 1/1 (gore or trample) | D 1d10 or
+1d6+1 | SV 15 | ML 6 | XP 90 | TC nil | Special:
+ Charging Gore: charge attack at +2 “to hit” and
+double damage.
+ Double Gore: Gore attack two adjacent foes on
+a single attack roll.

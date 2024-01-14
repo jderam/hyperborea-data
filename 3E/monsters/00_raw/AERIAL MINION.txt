@@ -1,0 +1,32 @@
+AERIAL MINION
+This semi-intelligent species of air elemental is conjured
+by clerics or cryomancers of no small power (see
+summon aerial minion spell). They are naturally invisible;
+even if revealed by sorcery or otherwise, they
+appear as dim, nebulous shapes of eight-foot height
+somewhat conforming to anthropoid dimensions. When
+bound to service they will not fight, for their function is
+to find and retrieve; they are strong and quick, able to
+bear as much as 1,000 pounds and move unencumbered.
+If bidden to retrieve a creature of Small or Medium size,
+the aerial minion attempts to seize its quarry with force
+(a grapple attempt). Typically, an aerial minion attacks
+only when it must defend itself, or if it is bewildered by
+its assignment, the latter case causing it to become insane
+and return to kill its summoner.
+Aerial Minion: #E 1 | AL N | SZ M | MV 0 (fly 80)
+DX 18 | AC −1 | HD 12 | #A 1/1 (pummel) | D 4d8
+SV 11 | ML 12 | XP 2,700 | TC nil | Special:
+ Invisibility: Natural invisibility grants 3-in-6
+bonus to surprize and +4 “to hit” on all attack
+rolls. If a target is not surprized, their hackles
+rise, perceiving the unseen threat, but the attack
+bonus remains.
+ Strong Grappler: Only an extraordinary feat of
+strength can break its grapple hold.
+ Track: Can follow any trail no more than two
+weeks old.
+ Vulnerabilities: An attacker with true seeing or
+like means to penetrate invisibility receives a +4
+“to hit.” Destroyed by dispel magic versus the
+summoner’s CA.

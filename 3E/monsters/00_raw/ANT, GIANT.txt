@@ -1,0 +1,52 @@
+ANT, GIANT
+Giant, segmented insect with pronounced antennae,
+a tough exoskeleton, and a complex social order. Both
+species are considered the byproduct of sorcerous augmentation.
+GIANT ANT: Giant ants are black-and-red insects
+from five- to eight-feet in length. They are omnivorous
+and insatiably hungry for organic material (plant or
+animal, with a preference for flesh). Typically, they lair
+in underground nests and emerge to attack en masse,
+but encountering a solitary soldier returning to the
+nest is not unusual.
+Giant Ant: #E 1 (3d6) | AL N | SZ M | MV 60 | DX 12
+AC 3 | HD 4 | #A 1/1 (bite) | D 1d8 | SV 15 | ML 8
+XP 90 | TC Q (×3), S | Special:
+ Sting: Upon successful mandible bite, 2-in-6
+chance the creature arches its metasoma to sting
+the target at +2 “to hit.” If this attack hits, it causes
+1d3 hp damage and delivers venom; make death
+(poison) save or suffer additional 2d8 hp damage.
+GIANT RADIOACTIVE ANT: Giant radioactive ants
+are giant ants that have been irradiated by green diamonds.
+They present with pale grey, translucent exoskeletons,
+under which their internal organs glow iridescent
+green, most notably the metasoma (posterior).
+Giant radioactive ants are carnivorous and insatiably
+hungry. They also display limited intelligence, communicating
+over vast distances via a warbling whistle
+emitted by their vibrating antennæ. This sound also
+can produce a mesmerizing effect (see below). Giant radioactive
+ants oft congregate in threes, head-to-head,
+antennæ taking to a brighter, pulsating green glow.
+The significance of this activity is not yet understood.
+Giant Radioactive Ant: #E 2d4 (3d6) | AL N | SZ M
+MV 60 | DX 13 | AC 3 | HD 4 | #A 1/1 (bite) | D 1d8
+SV 15 | ML 8 | XP 180 | TC Q (×4) | Special:
+ Radiation Sting: Upon successful mandible bite,
+2-in-6 chance the creature arches its metasoma to
+sting the target at +2 “to hit.” If this attack hits,
+it causes 1d3 hp damage and delivers a lethal dose
+of radiation; make a death (radiation) save or die
+in 1d6 turns. Even if death is averted, the victim
+suffers complete loss of hair within 24 hours;
+recurrent nausea results as well.
+ Warble: Warbling whistle can be used to communicate
+with other giant radioactive ants within
+two miles, or it can be modified to mesmerize a
+single mammal within 240 feet. The target must
+make a sorcery save, modified by willpower
+adjustment, if applicable. If the save fails, the
+victim enters a trance, dropping anything held
+and blindly walking toward the warbler, presenting
+a defenceless target to be devoured.

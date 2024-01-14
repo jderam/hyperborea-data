@@ -1,0 +1,20 @@
+ARCHÆOPTERYX
+This crow-sized, antediluvian bird is of rare and colourful
+plumage. It has a lengthy reptilian tail with
+long feathers of blue, green, black, and pink, though
+other colour combinations have been reported. The
+archæopteryx’s beak is lined with small, sharp teeth;
+also, three finger-like claws extend from the wing
+joints, used to climb trees and rocks. Archæopteryges
+dwell in regions of high elevation that are volcanically
+active; also, they have been observed on remote islands
+and in ancient forests. Typically, they feed on carrion
+and small animals (amphibians, birds, mammals, and
+reptiles). Legends speak of a two-headed, intelligent
+species of archæopteryx that inhabits the volcanic regions
+of the Spiral Mountain Array.
+Archæopteryx: #E 1 (1d6) | AL N | SZ S | MV 20 (fly
+60) | DX 10 | AC 6 | HD ½ | #A 3/1 (claw/claw/bite)
+D 1/1/1d2 | SV 17 | ML 5 | XP 9 | TC nil | Special:
+ Rend: If both claw attacks hit one opponent,
+rend for an additional 1d2 hp damage.

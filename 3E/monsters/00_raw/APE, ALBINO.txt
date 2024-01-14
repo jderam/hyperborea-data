@@ -1,0 +1,44 @@
+APE, ALBINO (White Ape)
+The albino ape is a massive white simian dwelling in
+caves and caverns. Adult males grow up to seven feet
+high and weigh as much as 600 pounds; females are
+slightly smaller. Nocturnal and carnivorous, these
+gorilla-like beasts demonstrate limited intelligence
+through primitive tool use.
+Typically, they live in groups of 7–10, with one alpha
+male, two or three females, and the remainder young;
+otherwise, adult males live solitarily, though a sibling
+pair is possible. If approached, the apes will pound
+their chests and roar. One who carefully backs away
+might escape (3-in-6 chance); otherwise, the apes react
+violently. Albino apes are known to emerge in the black
+of night to chase Ythaqqa, “The Wendigo,” across the
+Plain of Leng, howling and frothing in bestial rapture.
+The albino ape superior is a rare specimen, always
+male. Born with six limbs—two pairs of massive arms
+and one pair of stout legs—it grows to nine feet and
+weighs as much as 1,100 pounds. These apes are much
+as their cousins, though they can manipulate weapons
+and are possessed of slightly elevated intelligence (and
+no small amount of wickedness); some have learnt to
+speak the Common tongue of mankind. They oft assume
+leadership of albino apes, brooding ape-kings.
+Albino Ape: #E 1d2 (1d4+6) | AL N | SZ M | MV 40
+DX 10 | AC 5 | HD 4+2 | #A 2/1 (claw/claw)
+D 1d6+1/1d6+1 | SV 15 | ML 9 | XP 175 | TC C
+Special:
+ Scent: Acute sense of smell; chance to be
+surprized reduced by 1-in-6.
+Albino Ape Superior: #E 1 | AL CE | SZ L
+MV 30 | DX 8 | AC 4 | HD 8+4 | #A 4/1 (claw ×4)
+or 2/1 (weapons) | D 1d8+2 (×4) or 4d4/4d4 | SV 13
+ML 10 | XP 1,400 | TC Q | Special:
+ Scent: Acute sense of smell; chance to be
+surprized reduced by 1-in-6.
+ Strangle: If all four claw attacks strike one
+opponent, strangulation ensues the next round,
+causing 1d8+2 hp damage per round. An extraordinary
+feat of strength can break the ape’s grasp;
+serious damage also may compel the beast to let
+go. Rare victims who survive this attack have
+been known to lose their voices forever.
